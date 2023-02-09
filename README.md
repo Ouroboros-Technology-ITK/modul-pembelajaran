@@ -19,4 +19,4 @@ Materi ini wajib dipahami oleh seluruh peserta. Mengapa demikian? Pada pembelaja
 
 # Modul
 
-- [Front End Deevlopment](Front End Deevlopment/README.md).
+- [Front End Deevlopment](Front End Devlopment/README.md).
