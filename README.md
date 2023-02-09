@@ -41,4 +41,6 @@ Untuk membantu Anda dalam mencapai tujuan-tujuan dalam modul ini akan disajikan 
 1. Pelajarilah dengan cermat semua uraian yang tercantum dalam masing-masing kegiatan belajar.
 2. Kerjakanlah soal-soal latihan yang terdapat dalam study case dengan berusaha tanpa melihat penyelesaiannya di internet. Bila pekerjaan Anda mengelami kesulitan, anda dapat mencari referensi di internet untuk membantu anda dalam menyelesaikannya.
 
-Selamat Belajar, Semoga Sukses!
+
+
+##Selamat Belajar, Semoga Sukses!
