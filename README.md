@@ -24,4 +24,4 @@ Materi ini wajib dipahami oleh seluruh peserta. Mengapa demikian? Pada pembelaja
 # Modul
 
 Untuk mempermudah Anda mempelajarinya, materi dalam pembelajaran ini dikemas dalam 3 (tiga) modul dengan susunan sebagai berikut.
-- [Back End Development](/Ouroboros-Tech/modul-pembelajaran/1. Back End Development)
+- [Back End Development](https://github.com/Ouroboros-Tech/modul-pembelajaran/tree/main/1.%20Back%20End%20Development)
