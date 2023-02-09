@@ -25,6 +25,6 @@ Materi ini wajib dipahami oleh seluruh peserta. Mengapa demikian? Pada pembelaja
 
 Untuk mempermudah Anda mempelajarinya, materi dalam pembelajaran ini dikemas dalam 3 (tiga) modul dengan susunan sebagai berikut.
 - [Back End Development](https://github.com/Ouroboros-Tech/modul-pembelajaran/tree/main/1.%20Back%20End%20Development).
-Back end merupakan bagian dari situs web yang tidak dilihat oleh pelanggan. Back end berurusan dengan data-data di balik layar, ia bertanggung jawab dalam menyimpan dan mengatur data, serta memastikan hal yang ada pada sisi klien berfungsi dan tidak bermasalah. Back end berkomunikasi dengan front end, mengirim dan menerima informasi untuk ditampilkan sebagai halaman sebuah web.
+<br>Back end merupakan bagian dari situs web yang tidak dilihat oleh pelanggan. Back end berurusan dengan data-data di balik layar, ia bertanggung jawab dalam menyimpan dan mengatur data, serta memastikan hal yang ada pada sisi klien berfungsi dan tidak bermasalah. Back end berkomunikasi dengan front end, mengirim dan menerima informasi untuk ditampilkan sebagai halaman sebuah web.
 
 - ads
