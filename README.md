@@ -5,10 +5,10 @@ Modul Pembelajaran ini berisikan 3 modul mengenai Back End Development, Front En
 # Daftar Isi
 
 - [Modul Pembelajaran](#modul-pembelajaran)
-- [Daftar Isi](#daftar-isi)
-- [Tinjauan Modul Pembelajaran](#tinjauan-modul-pembelajaran)
-- [Capaian Pembelajaran](#capaian-pembelajaran)
-- [Modul](#modul)
+  - [Daftar Isi](#daftar-isi)
+  - [Tinjauan Modul Pembelajaran](#tinjauan-modul-pembelajaran)
+  - [Capaian Pembelajaran](#capaian-pembelajaran)
+  - [Modul](#modul)
 
 # Tinjauan Modul Pembelajaran
 
@@ -22,4 +22,6 @@ Materi ini wajib dipahami oleh seluruh peserta. Mengapa demikian? Pada pembelaja
 4. Mampu mengimplementasikannya ke dalam sutu project.
 
 # Modul
-[Back End Development].
+
+Untuk mempermudah Anda mempelajarinya, materi dalam pembelajaran ini dikemas dalam 3 (tiga) modul dengan susunan sebagai berikut.
+- [Back End Development](01.-back-end-development).
