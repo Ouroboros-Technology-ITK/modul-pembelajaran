@@ -15,7 +15,8 @@ Namun sebagian besar orang di luaran sana, masih sering kali tidak bisa membedak
 <br><br>
 Bahkan ketika sudah bisa membuat <em><strong>"HELLO WORLD"</strong></em> dengan menggunakan sautu bahasa pemrograman maka bisa menyebut dirinya seorang coder.</p>
 
-<img height="500rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%201.jpg"> <h5 align="center">Source: https://www.theladders.com/career-advice/what-is-software-engineering</h5>
+<p align="justify">
+<img height="500rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%202.png"> <h5 align="center">Source: https://pl.pinterest.com/source/i.pinimg.com/</h5>
 
 - Programmer
 - Software Developer
