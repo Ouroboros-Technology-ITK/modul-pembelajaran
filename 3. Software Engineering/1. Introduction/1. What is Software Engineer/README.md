@@ -13,8 +13,8 @@ Namun sebagian besar orang di luaran sana, masih sering kali tidak bisa membedak
 <p align="justify">
 - Coder
 <br>Coder adalah title yang biasanya digunakan untuk menyebut orang yang bekerja dengan kode secara general. Apa yang dikerjakan oleh seorang coder biasanya dalam scope sangat kecil, bsia jadi itu merupakan potongan script dari sebuah aplikasi, atau bahkan hanyalah sebuah script simple untuk mengerjakan sesuatu.
-<br>
-Bahkan ketika sudah bisa membuat "*HELLO WORLD*"
+<br><br>
+Bahkan ketika sudah bisa membuat <s>"HELLO WORLD"</s>
 - Programmer
 - Software Developer
 - Software Engineer
