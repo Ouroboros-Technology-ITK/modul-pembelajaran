@@ -2,4 +2,4 @@ Software Engineer adalah salah satu profesi di bidang teknologi informasi. Seora
 
 ![Software Engineer](https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%201.jpg)
 
-<h7 align="center">Source: https://www.theladders.com/career-advice/what-is-software-engineering</h7>
+<h7 align="left">Source: https://www.theladders.com/career-advice/what-is-software-engineering</h7>
