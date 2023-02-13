@@ -1,5 +1,6 @@
 # What is Software Engineer ???
-<p align="justify">Software Engineer adalah salah satu profesi di bidang teknologi informasi. Seorang Software Engineer akan bertugas untuk melakukan analisa, membuat rekayasa, menyusun spesifikasi, mengimplementasikan dan memvalidasi suatau rancangan sistem perangkat lunak untuk menjawab suatu permasalahan yang ada.
+<p align="justify">
+Software Engineer adalah salah satu profesi di bidang teknologi informasi. Seorang Software Engineer akan bertugas untuk melakukan analisa, membuat rekayasa, menyusun spesifikasi, mengimplementasikan dan memvalidasi suatau rancangan sistem perangkat lunak untuk menjawab suatu permasalahan yang ada.
   
 <p align="center">
 <img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%201.jpg"> <h5 align="center">Source: https://www.theladders.com/career-advice/what-is-software-engineering</h5><br>
@@ -12,8 +13,7 @@ Namun sebagian besar orang di luaran sana, masih sering kali tidak bisa membedak
 ## Different Level Of Code Related Jobs
 <li>Coder</li>
 <p align="justify">
-<br>Coder adalah title yang biasanya digunakan untuk menyebut orang yang bekerja dengan kode secara general. Apa yang dikerjakan oleh seorang coder biasanya dalam scope sangat kecil, bsia jadi itu merupakan potongan script dari sebuah aplikasi, atau bahkan hanyalah sebuah script simple untuk mengerjakan sesuatu.
-<br><br>
+Coder adalah title yang biasanya digunakan untuk menyebut orang yang bekerja dengan kode secara general. Apa yang dikerjakan oleh seorang coder biasanya dalam scope sangat kecil, bsia jadi itu merupakan potongan script dari sebuah aplikasi, atau bahkan hanyalah sebuah script simple untuk mengerjakan sesuatu.<br><br>
 Bahkan ketika sudah bisa membuat <em><strong>"HELLO WORLD"</strong></em> dengan menggunakan sautu bahasa pemrograman maka bisa menyebut dirinya seorang coder.</p>
 
 <p align="center">
@@ -23,6 +23,9 @@ Bahkan ketika sudah bisa membuat <em><strong>"HELLO WORLD"</strong></em> dengan 
 Pada level ini, seorang coder tidap perlu sampai mahir dalam menggunakan suatu bahasa pemrograman, yang paling penting adalah coder tahu bagian mana yang dibutuhkan untuk menyelesaikan problem-nya dan membuat kode yang bekerja untuk menyelesaikan problem tersebut.
 
 <li>Programmer</li>
+<p align="justify">
+Programmer adalah title yang biasa digunakan untuk menyebut orang yang sudah bsia membuat program/software dari awal sampai dengan bisa digunakan untuk menyelesaikan suatu problem.<br><br>
+
 - Software Developer
 - Software Engineer
 
