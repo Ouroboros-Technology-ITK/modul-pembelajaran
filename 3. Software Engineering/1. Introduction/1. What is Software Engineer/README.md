@@ -37,6 +37,7 @@ Yang menjdi ciri khas lainnya seorang programmer adalah program/software yang di
 <p align="justify">
 Software Developer merupakan title yang diberikan kepada orang yang mempunyai kemampuan dan cara berfikir yang lebih dalam mmebuat program atau software. Biasanya seorang software developer akan membuat software/program sesuai dengan prinsip-prinsip desain dan implemnetasi rekayasa perangkat lunak.<br><br>
 Beberapa hal yang sudah menjadi pertimbangan seorang software developer dalam membuat software/program, seperti:
+- Kinerja
 <li>Kinerja</li>
 <li>Maintainability</li>
 <li>Skalabilitas</li>
