@@ -140,4 +140,4 @@ Level careerp path diatas bukanlah career path yang pasti di setiap perusahaan, 
 - Kemampuan untuk belajar mengajar. <br><br>
  
 
-[<kbd> <br> Title <br> </kbd>][Link]
+<kbd> <br> Title <br> </kbd>[Link]
