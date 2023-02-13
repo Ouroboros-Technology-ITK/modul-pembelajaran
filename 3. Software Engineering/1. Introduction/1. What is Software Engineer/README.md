@@ -139,10 +139,9 @@ Level careerp path diatas bukanlah career path yang pasti di setiap perusahaan, 
 - <em>System desing</em>.
 - Kemampuan untuk belajar mengajar. <br><br>
  
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+<div>
+<a href="https://github.com/Ouroboros-Tech/modul-pembelajaran/tree/main/3.%20Software%20Engineering/1.%20Introduction/2.%20Day%20To%20Day" target="_blank"><img src="[https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%204.1.png](https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%204%20(button%20rigth).png)" height="100" width="100"></a>
 
-  
-<body>
-  <center>
-    <a href="https://github.com/Ouroboros-Tech/modul-pembelajaran/tree/main/3.%20Software%20Engineering/1.%20Introduction/2.%20Day%20To%20Day" target="_blank"><img src="[https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%204.1.png](https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%204%20(button%20rigth).png)" height="100" width="100"></a>
-  </center> 
-</body>
