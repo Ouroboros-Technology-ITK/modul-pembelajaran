@@ -33,7 +33,7 @@ Untuk menjadi seorang programmer, maka paling tidak harus menguasai dalam 1 buah
 <p align="justify">
 Yang menjdi ciri khas lainnya seorang programmer adalah program/software yang dihasilkan tidaklah melalui proses yang sistematis seperti adanya perancangan, dokumentasi dan testing.
 
-<li>Software Developer</li>
+<li><strong>Software Developer</strong></li>
 <p align="justify">
 Software Developer merupakan title yang diberikan kepada orang yang mempunyai kemampuan dan cara berfikir yang lebih dalam mmebuat program atau software. Biasanya seorang software developer akan membuat software/program sesuai dengan prinsip-prinsip desain dan implemnetasi rekayasa perangkat lunak.<br><br>
 Beberapa hal yang sudah menjadi pertimbangan seorang software developer dalam membuat software/program, seperti:
