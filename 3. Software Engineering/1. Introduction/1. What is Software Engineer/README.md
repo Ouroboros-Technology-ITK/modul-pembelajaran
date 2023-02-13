@@ -55,6 +55,11 @@ Software engineer adalah title untuk seorang software developer yang ketika memb
 
 ## Prinsip Praktis Software Engineering
 1. Mempunyai Alasan Yang Jelas (<em>The Reason It All Exists</em></li>)
+<ul style="list-style-type:circle;">
+  <li align="justify">Sebuah sistem perangkat lunak harus mempunya satu alasan, yaitu untuk memberikan nilai kepada penggunanya</li>
+  <li align="justify">Sebelum memulai segala sesuatu dalam pembuatan software, ajukan pertanyaan "Apakah ini menambah nilai nyata unurk sistem?" jika jawabannya "No" maka jangan lakukan.</li>
+  <li>Prinsip-prinsip yang lain akan mendukung prinsip satu ini.</li>
+</ul>
 2. 
   <li>Tea</li>
   <li>Milk</li>
