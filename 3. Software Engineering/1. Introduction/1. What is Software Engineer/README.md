@@ -34,7 +34,7 @@ Yang menjdi ciri khas lainnya seorang programmer adalah program/software yang di
 
 - <strong>Software Developer</strong>
 <p align="justify">
-Software Developer merupakan title yang diberikan kepada orang yang mempunyai kemampuan dan cara berfikir yang lebih dalam mmebuat program atau software. Biasanya seorang software developer akan membuat software/program sesuai dengan prinsip-prinsip desain dan implemnetasi rekayasa perangkat lunak.<br><br>
+Software Developer merupakan title yang diberikan kepada orang yang mempunyai kemampuan dan cara berfikir yang lebih dalam membuat program atau software. Biasanya seorang software developer akan membuat software/program sesuai dengan prinsip-prinsip desain dan implemnetasi rekayasa perangkat lunak.<br><br>
 Beberapa hal yang sudah menjadi pertimbangan seorang software developer dalam membuat software/program, seperti:
 <ul style="list-style-type:circle;">
   <li>Kinerja</li>
@@ -111,16 +111,12 @@ Seorang software engineer ketika bekerja akan selalu berhubungan dan bertanggung
 <ul style="list-style-type:circle;" style="text-align:justify">
   <li>Bekerja dengan user untuk mengetahui kebutuhan mereka mengenai software.</li>
   <li>Merancang, membangun, dan juga menguji sebuah sistem atau aplikasi berdasarkan spesifikasi yang dimint aoleh user.</li>
-  <li>Senior Software Engineer</li>
-  <li>Architect/Principal Software Engineer</li>
-</ul>
-- Bekerja dengan user untuk mengetahui kebutuhan mereka mengenai software.
-- Merancang, membangun, dan juga menguji sebuah sistem atau aplikasi berdasarkan spesifikasi yang dimint aoleh user.
-- Bekerja sama dengan developer untuk menciptakan kode yang sesuai untuk sistem atau aplikasi dengan menggambarkan model atau diagram.
-- Mendokumentasikan semua sistem atau aplikasi secara detail sebagai bentuk pertanggung jawaban saat melakukan maintenance.
-- Mengelola aplikasi atau software secara berkala serta memperbaiki kesalahan yang terjadi.
-- Merekomendasikan software update untuk aplikasi atau sistem yang sudah ada.
-- Berkolaborasi dengan developer dan engineer lainnya untuk menciptakan software.<br><br>
+  <li>Bekerja sama dengan developer untuk menciptakan kode yang sesuai untuk sistem atau aplikasi dengan menggambarkan model atau diagram.</li>
+  <li>Mendokumentasikan semua sistem atau aplikasi secara detail sebagai bentuk pertanggung jawaban saat melakukan maintenance.</li>
+   <li>Mengelola aplikasi atau software secara berkala serta memperbaiki kesalahan yang terjadi.</li>
+   <li>Merekomendasikan software update untuk aplikasi atau sistem yang sudah ada.</li>
+   <li>Berkolaborasi dengan developer dan engineer lainnya untuk menciptakan software.</li>
+</ul><br><br>
   
 ## Careeer Path
 <p align="justify">
