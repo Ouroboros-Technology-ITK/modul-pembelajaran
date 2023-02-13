@@ -19,6 +19,7 @@ Bahkan ketika sudah bisa membuat <em><strong>"HELLO WORLD"</strong></em> dengan 
 <p align="center">
 <img height="500rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%202.png"> <h5 align="center">Source: https://pl.pinterest.com/source/i.pinimg.com/</h5><br>
 
+<p align="justify">
 Pada level ini, seorang coder tidap perlu sampai mahir dalam menggunakan suatu bahasa pemrograman, yang paling penting adalah coder tahu bagian mana yang dibutuhkan untuk menyelesaikan problem-nya dan membuat kode yang bekerja untuk menyelesaikan problem tersebut.
 
 - Programmer
