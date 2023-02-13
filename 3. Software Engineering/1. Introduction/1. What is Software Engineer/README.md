@@ -63,7 +63,7 @@ Software engineer adalah title untuk seorang software developer yang ketika memb
   - Software desain bukanlah proses yang serampangan. Ada banyak faktor yang perlu dipertimbangkan dalam pembuatan desain.
   - Desain elegan biasanya lebih sederhana, tetapi bukan berarti cepat dan kotor.
   - Software desain bukan hanya pada interface tetapi juga termasuk coding aplikasi.
-  > "All design should be as simple as possible, but no simpler."
+    > "All design should be as simple as possible, but no simpler."
   
 - Mempertahankan Visi(<em>Maintain The Vision</em>)
   - Memiliki visi yang jelas kedepannya.
@@ -73,7 +73,7 @@ Software engineer adalah title untuk seorang software developer yang ketika memb
   - Selalu menentukan, merancang, dan mengimplementasikan, sehingga orang lain mengetahui apa yang sedang kita lakukan.
   - Tentukan software yang ingin dibuat menggunakan kacamata pengguna, hal ini juga termasuk desain, informasi, dan lain sebagainya.
   - Ingatlah bahwa konsumen adalah faktor perkembanan software yang berpotensi besar.
-  > "Terbukalah pada target yang ingin dituju, apabila perlu gunakan survey untuk mengetahui > apa yang sedang mereka butuhan atau permasalahkan."
+    > "Terbukalah pada target yang ingin dituju, apabila perlu gunakan survey untuk mengetahui > apa yang sedang mereka butuhan atau permasalahkan."
   
 - Mempertahankan Visi(<em>Maintain The Vision</em>)
   - 
