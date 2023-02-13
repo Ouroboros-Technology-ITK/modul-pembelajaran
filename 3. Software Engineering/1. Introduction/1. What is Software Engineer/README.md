@@ -59,23 +59,26 @@ Software engineer adalah title untuk seorang software developer yang ketika memb
   - Sebelum memulai segala sesuatu dalam pembuatan software, ajukan pertanyaan "<em>Apakah ini menambah nilai nyata unurk sistem?</em>" jika jawabannya "<em>No</em>" maka jangan lakukan.
   - Prinsip-prinsip yang lain akan mendukung prinsip satu ini.<br>
 
-<li>Sederhana(<em>Keep It Simple</em>)</li>
+- Sederhana(<em>Keep It Simple</em>)
   - Software desain bukanlah proses yang serampangan. Ada banyak faktor yang perlu dipertimbangkan dalam pembuatan desain.
   - Desain elegan biasanya lebih sederhana, tetapi bukan berarti cepat dan kotor.
   - Software desain bukan hanya pada interface tetapi juga termasuk coding aplikasi.
   > "All design should be as simple as possible, but no simpler."
   
-<li>Mempertahankan Visi(<em>Maintain The Vision</em>)</li>
+- Mempertahankan Visi(<em>Maintain The Vision</em>)
   - Memiliki visi yang jelas kedepannya.
   - Hal ini sangat penting untuk keberhasilan suatu proyek perangkat lunak.
   
-<li>Mempertahankan Visi(<em>Maintain The Vision</em>)</li>
+- Mempertahankan Visi(<em>Maintain The Vision</em>)
   - Selalu menentukan, merancang, dan mengimplementasikan, sehingga orang lain mengetahui apa yang sedang kita lakukan.
   - Tentukan software yang ingin dibuat menggunakan kacamata pengguna, hal ini juga termasuk desain, informasi, dan lain sebagainya.
   - Ingatlah bahwa konsumen adalah faktor perkembanan software yang berpotensi besar.
   > "Terbukalah pada target yang ingin dituju, apabila perlu gunakan survey untuk mengetahui > apa yang sedang mereka butuhan atau permasalahkan."
   
-<li>Mempertahankan Visi(<em>Maintain The Vision</em>)</li>
+- Mempertahankan Visi(<em>Maintain The Vision</em>)
+  - 
+  - 
+  
 ## Knowledge and Experties
 
 </p>
