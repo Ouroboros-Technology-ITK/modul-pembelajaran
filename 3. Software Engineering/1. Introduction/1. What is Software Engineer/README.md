@@ -116,7 +116,7 @@ Seorang software engineer ketika bekerja akan selalu berhubungan dan bertanggung
    <li>Mengelola aplikasi atau software secara berkala serta memperbaiki kesalahan yang terjadi.</li>
    <li>Merekomendasikan software update untuk aplikasi atau sistem yang sudah ada.</li>
    <li>Berkolaborasi dengan developer dan engineer lainnya untuk menciptakan software.</li>
-</ul><br><br>
+</ul><br>
   
 ## Careeer Path
 <p align="justify">
@@ -128,7 +128,73 @@ Dalam kesehariannya, secara general seorang software engineer akan digolongkan m
   <li>Architect/Principal Software Engineer</li>
 </ul>
 <p align="justify">
-Level careerp path diatas bukanlah career path yang pasti di setiap perusahaan, karena belum ada regulasi yang mengatur mengenai profesi software engineer. Secara umumnya career path software engineer di suatu perusahaan akan ditentukan dari beberapa faktor yang dikuasai oleh seorang software engineer atau biasa disebut <a href="https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f" target="_blank"><strong>Software Engineering Rubric.</strong></a>
+Level careerp path diatas bukanlah career path yang pasti di setiap perusahaan, karena belum ada regulasi yang mengatur mengenai profesi software engineer. Secara umumnya career path software engineer di suatu perusahaan akan ditentukan dari beberapa faktor yang dikuasai oleh seorang software engineer atau biasa disebut <a href="https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f" target="_blank"><strong>Software Engineering Rubric.</strong></a><br><br> 
   
 ## Software Engineering Rubric
+- Kemampuan membuat sebuah software/aplikasi:
+  - Problem solving.
+  - Pemahaman terhadap programming language.
+  - Kemampuan untuk bekerja dengan minimal guidance.
+- <em>Basic computer science knowledge</em>.
+- <em>System desing</em>.
+- Kemampuan untuk belajar mengajar.
  
+<section id="blog">
+    <div class="container">
+      <div class="row text-center mb-3">
+        <div class="col">
+          <h2>My Blog</h2>
+        </div>
+      </div>
+      <div class="row justify-content-center">
+        <div class="col-md-3 mb-3">
+          <div class="card">
+            <img src="blog/1.jpg" class="card-img-top" alt="Blog 1">
+            <div class="card-body">
+              <h5 class="card-title">Blog 1</h5>
+              <p class="card-text">Photo by <a
+                  href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glenn
+                  Carstens-Peters</a> on <a
+                  href="https://unsplash.com/s/photos/blog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+              </p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 mb-3">
+          <div class="card">
+            <img src="blog/2.jpg" class="card-img-top" alt="Blog 2">
+            <div class="card-body">
+              <h5 class="card-title">Blog 2</h5>
+              <p class="card-text">Photo by <a
+                  href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glenn
+                  Carstens-Peters</a> on <a
+                  href="https://unsplash.com/s/photos/blog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+              </p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3 mb-3">
+          <div class="card">
+            <img src="blog/3.jpg" class="card-img-top" alt="Blog 3">
+            <div class="card-body">
+              <h5 class="card-title">Blog 3</h5>
+              <p class="card-text">Photo by <a
+                  href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glenn
+                  Carstens-Peters</a> on <a
+                  href="https://unsplash.com/s/photos/blog?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+              </p>
+              <a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+      <path fill="#e2edff" fill-opacity="1"
+        d="M0,128L48,133.3C96,139,192,149,288,133.3C384,117,480,75,576,96C672,117,768,203,864,208C960,213,1056,139,1152,122.7C1248,107,1344,149,1392,170.7L1440,192L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z">
+      </path>
+    </svg>
+  </section>
+
