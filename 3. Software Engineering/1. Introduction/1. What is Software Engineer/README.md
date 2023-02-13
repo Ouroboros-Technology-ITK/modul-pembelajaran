@@ -141,4 +141,4 @@ Level careerp path diatas bukanlah career path yang pasti di setiap perusahaan, 
  
 
 
-[![https://www.flaticon.com/free-icon/right-arrow_8175884?term=next+button&page=1&position=56&origin=tag&related_id=8175884]][https://github.com/Ouroboros-Tech/modul-pembelajaran/tree/main/3.%20Software%20Engineering/1.%20Introduction/2.%20Day%20To%20Day]
+[https://www.flaticon.com/free-icon/right-arrow_8175884?term=next+button&page=1&position=56&origin=tag&related_id=8175884]][https://github.com/Ouroboros-Tech/modul-pembelajaran/tree/main/3.%20Software%20Engineering/1.%20Introduction/2.%20Day%20To%20Day]
