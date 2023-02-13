@@ -44,10 +44,21 @@ Beberapa hal yang sudah menjadi pertimbangan seorang software developer dalam me
   <li>Ketahanan</li>
   <li>Ketahanan</li>
 </ul>
-  
-- Software Engineer
+
+<p align="justify">
+Bukan hanya itu, seorang software developer juga akan mendiagnosis masalah-masalah software/program dan memastikan kualitas dari software/program yang mereka buat telah memenuhi syarat.<br><br>
+Software developer akan melakukan testing terlebih dahulu sebelum software/program launching ke publik dan digunakan oleh user, demi mengetahui apakah produk sudah efisien dan berjalan sebagaimana yang diharapkan.<br><br>
+Ketika seorang software developer akan membuat software/program, ada beberapa tahapan software development yang akan dilaluinya. Tahapan-tahapan ini biasa disebut dengan <em><strong>Software Development Life Cycle (SDLC)</strong></em>.
+
+<li>Software Engineer</li>
+Software engineer adalah title untuk seorang software developer yang ketika membuat software/aplikasi tidak hanya menggunakan tahapan-tahapan SDLC, namun juga sudah mengaplikasikan beberapa prinsip dalam software engineering itu sendiri. Pada penjelasan selanjutnya akan dibahas apa saja prinsip-prinsip yang akan digunakan oleh seorang software engineer. 
 
 ## Prinsip Praktis Software Engineering
+<ol>
+  <li>Mempunyai Alasan Yang Jelas (<em>The Reason It All Exists</em></li>)
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
   
 ## Knowledge and Experties
 
