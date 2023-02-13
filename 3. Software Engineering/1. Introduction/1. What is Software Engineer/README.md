@@ -51,6 +51,7 @@ Software developer akan melakukan testing terlebih dahulu sebelum software/progr
 Ketika seorang software developer akan membuat software/program, ada beberapa tahapan software development yang akan dilaluinya. Tahapan-tahapan ini biasa disebut dengan <em><strong>Software Development Life Cycle (SDLC)</strong></em>.<br><br>
 
 - <strong>Software Engineer</strong>
+<p align="justify">
 Software engineer adalah title untuk seorang software developer yang ketika membuat software/aplikasi tidak hanya menggunakan tahapan-tahapan SDLC, namun juga sudah mengaplikasikan beberapa prinsip dalam software engineering itu sendiri. Pada penjelasan selanjutnya akan dibahas apa saja prinsip-prinsip yang akan digunakan oleh seorang software engineer.<br><br>
 
 ## Prinsip Praktis Software Engineering
