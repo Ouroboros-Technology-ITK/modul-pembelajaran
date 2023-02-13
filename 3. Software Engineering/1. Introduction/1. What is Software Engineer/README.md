@@ -6,9 +6,8 @@ Software Engineer adalah salah satu profesi di bidang teknologi informasi. Seora
 <img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%201.jpg"> <h5 align="center">Source: https://www.theladders.com/career-advice/what-is-software-engineering</h5><br>
 
 <p align="justify">
-Software Engineer akan merancang dan membuat sistem komputer yang sesuai dengan kebutuhan sehingga sistem komputer itu bisa menyelesaikan masalah yang ada. Dalam merancang dan membuat sistem, seorang Software Engineer terlebih dahulu akan mendesain dasar-dasar sistem, memberikan perintah kepada programmer, dan sebagainya. Setelah sistem selesai dibuat, Software Engineer akan melakukan uji coba untuk meningkatkan akurasi pada sistem dan memastikan sistem berjalan sesuai dengan apa yang diharapkan.
-<br><br>
-Namun sebagian besar orang di luaran sana, masih sering kali tidak bisa membedakan Software Engineer dengan title pekerjaan yang serupa, msialnya programmer, software developer dan coder. Padahal semua pekerjaan itu punya perbedaan yang mendasar. Secara lebih lengkap pembedanya akan kita bahas lebih lanjut pada sesi selanjutnya.<br><br>
+Software Engineer akan merancang dan membuat sistem komputer yang sesuai dengan kebutuhan sehingga sistem komputer itu bisa menyelesaikan masalah yang ada. Dalam merancang dan membuat sistem, seorang software engineer terlebih dahulu akan mendesain dasar-dasar sistem, memberikan perintah kepada programmer, dan sebagainya. Setelah sistem selesai dibuat, software engineer akan melakukan uji coba untuk meningkatkan akurasi pada sistem dan memastikan sistem berjalan sesuai dengan apa yang diharapkan.<br><br>
+Namun sebagian besar orang di luaran sana, masih sering kali tidak bisa membedakan software engineer dengan title pekerjaan yang serupa, misalnya programmer, software developer dan coder. Padahal semua pekerjaan itu punya perbedaan yang mendasar. Secara lebih lengkap pembedanya akan kita bahas lebih lanjut pada sesi selanjutnya.<br><br>
   
 ## Different Level Of Code Related Jobs
 - <strong>Coder</strong>
@@ -91,5 +90,41 @@ Software engineer adalah title untuk seorang software developer yang ketika memb
   - Menerapkan 6 prinsip pertama disertai dengan pemikiran yang intens, yang berpotensi dengan imbalan yang besar.<br><br>
   
 ## Knowledge and Experties
-
-</p>
+<p align="justify">
+Menjadi seorang software engineer buknalah sesautu yang bisa dicapai dengan instan, ada beberapa hal yang harus diketahui dan dikuasai oleh seorang software engineer, di antaranya: 
+- <strong>Kemampuan Untuk Berpikir Logis & Algoritma</strong>
+<p align="justify">
+Semua perintah dalam bahasa pemrograman akan di eksekusi oleh komputer, tugas seorang software engineer adalah salah satuny membuat aplikasi algoritma untuk menyelesaikan suatu permasalahan, dan sebelum membuat algoritma tersebut, software engineer perlu berpikir secara logis untuk menentukan algoritma seperti apa yang cocok untuk menyelesaikan suatu permasalahan.
+  
+- <strong>Kemampuan Melakukan Analisa</strong>
+<p align="justify">
+Ketika menemukan suatu permasalahan, seroang software engineer diwajibkan untuk bisa melakukan analisa. Solusi yang akan diberikan oleh seorang software engineer haruslah sudah melawati proses analisa, sehingga solusi yang nantinya akan dituangkan ke dalam software atau aplikasi benar-benar bisa menyelesaikan permasalahan tersebut.
+  
+- <strong>Kemampuan Untuk Berpikir Logis & Algoritma</strong>
+<p align="justify">
+Tidak hanya pandai berbahas Indonesia, menjadi seorang software engineer diwajibkan untuk bisa berbahasa asing, minimal adalah bahasa Inggris. Sebagian besar dokumentasi teknis yang berhubungan dengan dengan dunia software engineering biasanya ditulis dalam bahasa Inggris. Akan sangat sulit jika seorang software engineer tidak dapat bahasa Inggris karena akan sulit membaca dan memahami isi dokumentasi tersebut.<br><br>
+  
+## Roles adn Responsibilities
+<p align="justify">
+Seorang software engineer ketika bekerja akan selalu berhubungan dan bertanggung jawab dengan hal-hal sebagai berikut:
+- Bekerja dengan user untuk mengetahui kebutuhan mereka mengenai software.
+- Merancang, membangun, dan juga menguji sebuah sistem atau aplikasi berdasarkan spesifikasi yang dimint aoleh user.
+- Bekerja sama dengan developer untuk menciptakan kode yang sesuai untuk sistem atau aplikasi dengan menggambarkan model atau diagram.
+- Mendokumentasikan semua sistem atau aplikasi secara detail sebagai bentuk pertanggung jawaban saat melakukan maintenance.
+- Mengelola aplikasi atau software secara berkala serta memperbaiki kesalahan yang terjadi.
+- Merekomendasikan software update untuk aplikasi atau sistem yang sudah ada.
+- Berkolaborasi dengan developer dan engineer lainnya untuk menciptakan software.<br><br>
+  
+## Careeer Path
+<p align="justify">
+Dalam kesehariannya, secara general seorang software engineer akan digolongkan menjadi beberapa level career path sebagai berikut:
+<ul style="list-style-type:circle;">
+  <li>Junior Software Engineer</li>
+  <li>Software Engineer</li>
+  <li>Senior Software Engineer</li>
+  <li>Architect/Principal Software Engineer</li>
+</ul>
+Level careerp path diatas bukanlah career path yang pasti di setiap perusahaan, karena belum ada regulasi yang mengatur mengenai profesi software engineer. Secara umumnya career path software engineer di suatu perusahaan akan ditentukan dari beberapa faktor yang dikuasai oleh seorang software engineer atau biasa disebut [<strong>Software Engineering Rubric</strong>](https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f).
+  
+## Software Engineering Rubric
+ 
