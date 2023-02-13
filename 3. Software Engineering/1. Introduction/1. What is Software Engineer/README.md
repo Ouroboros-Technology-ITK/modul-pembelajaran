@@ -108,7 +108,7 @@ Tidak hanya pandai berbahas Indonesia, menjadi seorang software engineer diwajib
 ## Roles and Responsibilities
 <p align="justify">
 Seorang software engineer ketika bekerja akan selalu berhubungan dan bertanggung jawab dengan hal-hal sebagai berikut:</p>
-<ul style="list-style-type:circle; style="justify">
+<ul style="list-style-type:circle;" style="justify">
   <li>Bekerja dengan user untuk mengetahui kebutuhan mereka mengenai software.</li>
   <li>Merancang, membangun, dan juga menguji sebuah sistem atau aplikasi berdasarkan spesifikasi yang dimint aoleh user.</li>
   <li>Senior Software Engineer</li>
