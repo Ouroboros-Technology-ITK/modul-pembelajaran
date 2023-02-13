@@ -10,14 +10,15 @@ Namun sebagian besar orang di luaran sana, masih sering kali tidak bisa membedak
   
 ## Different Level Of Code Related Jobs
 <p align="justify">
-<ul style="list-style-type:circle;">
-  <li>Coder</li>
-<br>Coder adalah title yang biasanya digunakan untuk menyebut orang yang bekerja dengan kode secara general. Apa yang dikerjakan oleh seorang coder biasanya dalam scope sangat kecil, bsia jadi itu merupakan potongan script dari sebuah aplikasi, atau bahkan hanyalah sebuah script simple untuk mengerjakan sesuatu.
-<br><br>
-Bahkan ketika sudah bisa membuat <em><strong>"HELLO WORLD"</strong></em> dengan menggunakan sautu bahasa pemrograman maka bisa menyebut dirinya seorang coder.</p>
+  <ul style="list-style-type:circle;">
+    <li>Coder</li>
+Coder adalah title yang biasanya digunakan untuk menyebut orang yang bekerja dengan kode secara general. Apa yang dikerjakan oleh seorang coder biasanya dalam scope sangat kecil, bsia jadi itu merupakan potongan script dari sebuah aplikasi, atau bahkan hanyalah sebuah script simple untuk mengerjakan sesuatu.
+Bahkan ketika sudah bisa membuat <em><strong>"HELLO WORLD"</strong></em> dengan menggunakan sautu bahasa pemrograman maka bisa menyebut dirinya seorang coder.
   <li>Tea</li>
   <li>Milk</li>
-</ul>
+  </ul>
+</p>
+
 - Coder
 <br>Coder adalah title yang biasanya digunakan untuk menyebut orang yang bekerja dengan kode secara general. Apa yang dikerjakan oleh seorang coder biasanya dalam scope sangat kecil, bsia jadi itu merupakan potongan script dari sebuah aplikasi, atau bahkan hanyalah sebuah script simple untuk mengerjakan sesuatu.
 <br><br>
