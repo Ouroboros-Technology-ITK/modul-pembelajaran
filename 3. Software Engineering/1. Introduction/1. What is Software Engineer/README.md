@@ -20,7 +20,7 @@ Bahkan ketika sudah bisa membuat <em><strong>"HELLO WORLD"</strong></em> dengan 
 <img height="500rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%202.png"> <h5 align="center">Source: https://pl.pinterest.com/source/i.pinimg.com/</h5><br>
 
 <p align="justify">
-Pada level ini, seorang coder tidap perlu sampai mahir dalam menggunakan suatu bahasa pemrograman, yang paling penting adalah coder tahu bagian mana yang dibutuhkan untuk menyelesaikan problem-nya dan membuat kode yang bekerja untuk menyelesaikan problem tersebut.
+Pada level ini, seorang coder tidap perlu sampai mahir dalam menggunakan suatu bahasa pemrograman, yang paling penting adalah coder tahu bagian mana yang dibutuhkan untuk menyelesaikan problem-nya dan membuat kode yang bekerja untuk menyelesaikan problem tersebut.<br>
 
 - <strong>Programmer</strong>
 <p align="justify">
@@ -31,7 +31,7 @@ Untuk menjadi seorang programmer, maka paling tidak harus menguasai dalam 1 buah
 <img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%203.jpg"> <h5 align="center">Source: https://academy.alterra.id/blog/apa-itu-programmer/</h5><br>
 
 <p align="justify">
-Yang menjdi ciri khas lainnya seorang programmer adalah program/software yang dihasilkan tidaklah melalui proses yang sistematis seperti adanya perancangan, dokumentasi dan testing.
+Yang menjdi ciri khas lainnya seorang programmer adalah program/software yang dihasilkan tidaklah melalui proses yang sistematis seperti adanya perancangan, dokumentasi dan testing.<br>
 
 - <strong>Software Developer</strong>
 <p align="justify">
@@ -48,7 +48,7 @@ Beberapa hal yang sudah menjadi pertimbangan seorang software developer dalam me
 <p align="justify">
 Bukan hanya itu, seorang software developer juga akan mendiagnosis masalah-masalah software/program dan memastikan kualitas dari software/program yang mereka buat telah memenuhi syarat.<br><br>
 Software developer akan melakukan testing terlebih dahulu sebelum software/program launching ke publik dan digunakan oleh user, demi mengetahui apakah produk sudah efisien dan berjalan sebagaimana yang diharapkan.<br><br>
-Ketika seorang software developer akan membuat software/program, ada beberapa tahapan software development yang akan dilaluinya. Tahapan-tahapan ini biasa disebut dengan <em><strong>Software Development Life Cycle (SDLC)</strong></em>.
+Ketika seorang software developer akan membuat software/program, ada beberapa tahapan software development yang akan dilaluinya. Tahapan-tahapan ini biasa disebut dengan <em><strong>Software Development Life Cycle (SDLC)</strong></em>.<br>
 
 - <strong>Software Engineer</strong>
 Software engineer adalah title untuk seorang software developer yang ketika membuat software/aplikasi tidak hanya menggunakan tahapan-tahapan SDLC, namun juga sudah mengaplikasikan beberapa prinsip dalam software engineering itu sendiri. Pada penjelasan selanjutnya akan dibahas apa saja prinsip-prinsip yang akan digunakan oleh seorang software engineer. 
