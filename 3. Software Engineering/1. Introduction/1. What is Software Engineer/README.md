@@ -91,7 +91,8 @@ Software engineer adalah title untuk seorang software developer yang ketika memb
   
 ## Knowledge and Experties
 <p align="justify">
-Menjadi seorang software engineer buknalah sesautu yang bisa dicapai dengan instan, ada beberapa hal yang harus diketahui dan dikuasai oleh seorang software engineer, di antaranya: </p>
+Menjadi seorang software engineer buknalah sesautu yang bisa dicapai dengan instan, ada beberapa hal yang harus diketahui dan dikuasai oleh seorang software engineer, diantaranya:</p>
+
 - <strong>Kemampuan Untuk Berpikir Logis & Algoritma</strong>
 <p align="justify">
 Semua perintah dalam bahasa pemrograman akan di eksekusi oleh komputer, tugas seorang software engineer adalah salah satuny membuat aplikasi algoritma untuk menyelesaikan suatu permasalahan, dan sebelum membuat algoritma tersebut, software engineer perlu berpikir secara logis untuk menentukan algoritma seperti apa yang cocok untuk menyelesaikan suatu permasalahan.
@@ -107,6 +108,12 @@ Tidak hanya pandai berbahas Indonesia, menjadi seorang software engineer diwajib
 ## Roles and Responsibilities
 <p align="justify">
 Seorang software engineer ketika bekerja akan selalu berhubungan dan bertanggung jawab dengan hal-hal sebagai berikut:</p>
+<ul style="list-style-type:circle;">
+  <li>Bekerja dengan user untuk mengetahui kebutuhan mereka mengenai software.</li>
+  <li>Merancang, membangun, dan juga menguji sebuah sistem atau aplikasi berdasarkan spesifikasi yang dimint aoleh user.</li>
+  <li>Senior Software Engineer</li>
+  <li>Architect/Principal Software Engineer</li>
+</ul>
 - Bekerja dengan user untuk mengetahui kebutuhan mereka mengenai software.
 - Merancang, membangun, dan juga menguji sebuah sistem atau aplikasi berdasarkan spesifikasi yang dimint aoleh user.
 - Bekerja sama dengan developer untuk menciptakan kode yang sesuai untuk sistem atau aplikasi dengan menggambarkan model atau diagram.
@@ -124,6 +131,7 @@ Dalam kesehariannya, secara general seorang software engineer akan digolongkan m
   <li>Senior Software Engineer</li>
   <li>Architect/Principal Software Engineer</li>
 </ul>
+<p align="justify">
 Level careerp path diatas bukanlah career path yang pasti di setiap perusahaan, karena belum ada regulasi yang mengatur mengenai profesi software engineer. Secara umumnya career path software engineer di suatu perusahaan akan ditentukan dari beberapa faktor yang dikuasai oleh seorang software engineer atau biasa disebut <a href="https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f" target="_blank"><strong>Software Engineering Rubric.</strong></a>
   
 ## Software Engineering Rubric
