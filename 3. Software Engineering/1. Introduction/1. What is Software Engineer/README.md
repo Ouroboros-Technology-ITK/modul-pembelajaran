@@ -14,7 +14,7 @@ Namun sebagian besar orang di luaran sana, masih sering kali tidak bisa membedak
 <li><strong>Coder</strong></li>
 <p align="justify">
 Coder adalah title yang biasanya digunakan untuk menyebut orang yang bekerja dengan kode secara general. Apa yang dikerjakan oleh seorang coder biasanya dalam scope sangat kecil, bsia jadi itu merupakan potongan script dari sebuah aplikasi, atau bahkan hanyalah sebuah script simple untuk mengerjakan sesuatu.<br><br>
-Bahkan ketika sudah bisa membuat <em><strong>"HELLO WORLD"</strong></em> dengan menggunakan sautu bahasa pemrograman maka bisa menyebut dirinya seorang coder.</p>
+Bahkan ketika sudah bisa membuat <em><strong>"HELLO WORLD"</strong></em> dengan menggunakan sautu bahasa pemrograman maka bisa menyebut dirinya seorang coder.
 
 <p align="center">
 <img height="500rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%202.png"> <h5 align="center">Source: https://pl.pinterest.com/source/i.pinimg.com/</h5><br>
@@ -54,9 +54,8 @@ Ketika seorang software developer akan membuat software/program, ada beberapa ta
 Software engineer adalah title untuk seorang software developer yang ketika membuat software/aplikasi tidak hanya menggunakan tahapan-tahapan SDLC, namun juga sudah mengaplikasikan beberapa prinsip dalam software engineering itu sendiri. Pada penjelasan selanjutnya akan dibahas apa saja prinsip-prinsip yang akan digunakan oleh seorang software engineer. 
 
 ## Prinsip Praktis Software Engineering
-<ol>
-<li>Mempunyai Alasan Yang Jelas (<em>The Reason It All Exists</em></li>)
-  
+1. Mempunyai Alasan Yang Jelas (<em>The Reason It All Exists</em></li>)
+2. 
   <li>Tea</li>
   <li>Milk</li>
 </ol>
