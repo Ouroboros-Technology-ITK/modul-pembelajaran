@@ -51,7 +51,7 @@ Software developer akan melakukan testing terlebih dahulu sebelum software/progr
 Ketika seorang software developer akan membuat software/program, ada beberapa tahapan software development yang akan dilaluinya. Tahapan-tahapan ini biasa disebut dengan <em><strong>Software Development Life Cycle (SDLC)</strong></em>.<br><br>
 
 - <strong>Software Engineer</strong>
-Software engineer adalah title untuk seorang software developer yang ketika membuat software/aplikasi tidak hanya menggunakan tahapan-tahapan SDLC, namun juga sudah mengaplikasikan beberapa prinsip dalam software engineering itu sendiri. Pada penjelasan selanjutnya akan dibahas apa saja prinsip-prinsip yang akan digunakan oleh seorang software engineer. <br><br>
+Software engineer adalah title untuk seorang software developer yang ketika membuat software/aplikasi tidak hanya menggunakan tahapan-tahapan SDLC, namun juga sudah mengaplikasikan beberapa prinsip dalam software engineering itu sendiri. Pada penjelasan selanjutnya akan dibahas apa saja prinsip-prinsip yang akan digunakan oleh seorang software engineer.<br><br>
 
 ## Prinsip Praktis Software Engineering
 - <strong>Mempunyai Alasan Yang Jelas (<em>The Reason It All Exists</em>)</strong>
@@ -85,7 +85,7 @@ Software engineer adalah title untuk seorang software developer yang ketika memb
   - Ada banyak teknik untuk mewujudkan penggunaan kembali di setiap tingkat proses pengembangan sistem.
     > <strong>"Penggunaan kembali dapat mengurangi biaya, menghemat waktu pembuatan software lain, dan > menghemat usaha yang dikeluarkan untuk proses pembuatan."</strong>
 
-- <strong>Berpikit (<em>Think</em>)</strong>  
+- <strong>Berpikir (<em>Think</em>)</strong>  
   - Selalu berpikir dengan jelas dan lengkap sebelum menentukan tindakan, karena akan hampir selalu menghasilkan hasil yang lebih baik.
   - Menerapkan 6 prinsip pertama disertai dengan pemikiran yang intens, yang berpotensi dengan imbalan yang besar.<br><br>
   
