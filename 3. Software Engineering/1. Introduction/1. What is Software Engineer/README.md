@@ -137,10 +137,11 @@ Level careerp path diatas bukanlah career path yang pasti di setiap perusahaan, 
   - Kemampuan untuk bekerja dengan minimal guidance.
 - <em>Basic computer science knowledge</em>.
 - <em>System desing</em>.
-- Kemampuan untuk belajar mengajar. <br><br>
- 
+- Kemampuan untuk belajar mengajar.
+
+
+<br><br>
 <div align="justify">
     <a href="https://github.com/Ouroboros-Tech/modul-pembelajaran/tree/main/3.%20Software%20Engineering/1.%20Introduction/2.%20Day%20To%20Day" target="_blank"><img src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/left%201.0.png" align="right" height="50" width="150"></a>
-    <a href="https://github.com/Ouroboros-Tech/modul-pembelajaran/tree/main/3.%20Software%20Engineering/1.%20Introduction/2.%20Day%20To%20Day" target="_blank"><img src="[https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%204.1.png](https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%204%20(button%20rigth).png)" align="left" height="100" width="100"></a>
 <div>
 
