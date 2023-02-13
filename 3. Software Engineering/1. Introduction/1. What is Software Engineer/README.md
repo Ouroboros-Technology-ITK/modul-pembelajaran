@@ -54,30 +54,40 @@ Ketika seorang software developer akan membuat software/program, ada beberapa ta
 Software engineer adalah title untuk seorang software developer yang ketika membuat software/aplikasi tidak hanya menggunakan tahapan-tahapan SDLC, namun juga sudah mengaplikasikan beberapa prinsip dalam software engineering itu sendiri. Pada penjelasan selanjutnya akan dibahas apa saja prinsip-prinsip yang akan digunakan oleh seorang software engineer. 
 
 ## Prinsip Praktis Software Engineering
-- <strong>Mempunyai Alasan Yang Jelas(<em>The Reason It All Exists</em>)</strong>
+- <strong>Mempunyai Alasan Yang Jelas (<em>The Reason It All Exists</em>)</strong>
   - Sebuah sistem perangkat lunak harus mempunya satu alasan, yaitu untuk memberikan nilai kepada penggunanya.
   - Sebelum memulai segala sesuatu dalam pembuatan software, ajukan pertanyaan "<em>Apakah ini menambah nilai nyata unurk sistem?</em>" jika jawabannya "<em>No</em>" maka jangan lakukan.
   - Prinsip-prinsip yang lain akan mendukung prinsip satu ini.<br>
 
-- <strong>Sederhana(<em>Keep It Simple</em>)</strong>
+- <strong>Sederhana (<em>Keep It Simple</em>)</strong>
   - Software desain bukanlah proses yang serampangan. Ada banyak faktor yang perlu dipertimbangkan dalam pembuatan desain.
   - Desain elegan biasanya lebih sederhana, tetapi bukan berarti cepat dan kotor.
   - Software desain bukan hanya pada interface tetapi juga termasuk coding aplikasi.
     > <strong>"All design should be as simple as possible, but no simpler."</strong>
   
-- <strong>Mempertahankan Visi(<em>Maintain The Vision</em>)</strong>
+- <strong>Mempertahankan Visi (<em>Maintain The Vision</em>)</strong>
   - Memiliki visi yang jelas kedepannya.
   - Hal ini sangat penting untuk keberhasilan suatu proyek perangkat lunak.
   
-- <strong>Mempertahankan Visi(<em>Maintain The Vision</em>)</strong>
+- <strong>Mempertahankan Visi (<em>Maintain The Vision</em>)</strong>
   - Selalu menentukan, merancang, dan mengimplementasikan, sehingga orang lain mengetahui apa yang sedang kita lakukan.
   - Tentukan software yang ingin dibuat menggunakan kacamata pengguna, hal ini juga termasuk desain, informasi, dan lain sebagainya.
   - Ingatlah bahwa konsumen adalah faktor perkembanan software yang berpotensi besar.
     > <strong>"Terbukalah pada target yang ingin dituju, apabila perlu gunakan survey untuk mengetahui > apa yang sedang mereka butuhan atau permasalahkan."</strong>
-  
-- <strong>Terbuka Kepada Masa Depan(<em>Be Open To The Future</em>)</strong>
-  - 
-  - 
+
+- <strong>Terbuka Kepada Masa Depan (<em>Be Open To The Future</em>)</strong>
+  - Sebuah sistem akan memiliki nilai lebih apabila memiliki unsur yang panjang bahkan seumur hidup.
+  - Sistem harus siap untuk beradaptasi dengan perubahan atau lainnya. Dan sistem yang dapat melakukan hal ini adalah sistem yang telah dirancang dengan cara ini dari awal.
+  - Selalu bertanya "<em>Apa jika...</em>" dan mempersiapkan kemungkinan jawabanjika jawabannya yang ada. Ini sangat memungkinkan penggunaan kembali ke seluruh sistem.
+
+- <strong>Rencanakan Kedepan Untuk Digunakan Kembali (<em>Plan Ahead For Reuse</em>)</strong>
+  - Penggunaan kembali kode dan desain berarti telah memproklamirkan sebagai manfaat utama penggunaan teknologi pemrograman berbasis objek (<em>Object Oriented Programming</em>).
+  - Ada banyak teknik untuk mewujudkan penggunaan kembali di setiap tingkat proses pengembangan sistem.
+    > <strong>"Penggunaan kembali dapat mengurangi biaya, menghemat waktu pembuatan software lain, dan > menghemat usaha yang dikeluarkan untuk proses pembuatan."</strong>
+
+- <strong>Berpikit (<em>Think</em>)</strong>  
+  - Selalu berpikir dengan jelas dan lengkap sebelum menentukan tindakan, karena akan hampir selalu menghasilkan hasil yang lebih baik.
+  - Menerapkan 6 prinsip pertama disertai dengan pemikiran yang intens, yang berpotensi dengan imbalan yang besar.
   
 ## Knowledge and Experties
 
