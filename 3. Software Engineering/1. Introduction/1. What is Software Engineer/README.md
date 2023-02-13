@@ -54,10 +54,14 @@ Ketika seorang software developer akan membuat software/program, ada beberapa ta
 Software engineer adalah title untuk seorang software developer yang ketika membuat software/aplikasi tidak hanya menggunakan tahapan-tahapan SDLC, namun juga sudah mengaplikasikan beberapa prinsip dalam software engineering itu sendiri. Pada penjelasan selanjutnya akan dibahas apa saja prinsip-prinsip yang akan digunakan oleh seorang software engineer. 
 
 ## Prinsip Praktis Software Engineering
-- Mempunyai Alasan Yang Jelas (<em>The Reason It All Exists</em></li>)
+<p align="justify">
+- Mempunyai Alasan Yang Jelas(<em>The Reason It All Exists</em>)
   - Sebuah sistem perangkat lunak harus mempunya satu alasan, yaitu untuk memberikan nilai kepada penggunanya.
   - Sebelum memulai segala sesuatu dalam pembuatan software, ajukan pertanyaan "<em>Apakah ini menambah nilai nyata unurk sistem?</em>" jika jawabannya "<em>No</em>" maka jangan lakukan.
-  - Prinsip-prinsip yang lain akan mendukung prinsip satu ini.
+  - Prinsip-prinsip yang lain akan mendukung prinsip satu ini.<br>
+  
+- Sederhana(<em>Keep It Simple</em>)
+
   - [Modul](#modul)
   - [Saran Belajar](#saran-belajar)
 1. Mempunyai Alasan Yang Jelas (<em>The Reason It All Exists</em></li>)
