@@ -8,7 +8,7 @@ Software Engineer adalah salah satu profesi di bidang teknologi informasi. Seora
 <p align="justify">
 Software Engineer akan merancang dan membuat sistem komputer yang sesuai dengan kebutuhan sehingga sistem komputer itu bisa menyelesaikan masalah yang ada. Dalam merancang dan membuat sistem, seorang Software Engineer terlebih dahulu akan mendesain dasar-dasar sistem, memberikan perintah kepada programmer, dan sebagainya. Setelah sistem selesai dibuat, Software Engineer akan melakukan uji coba untuk meningkatkan akurasi pada sistem dan memastikan sistem berjalan sesuai dengan apa yang diharapkan.
 <br><br>
-Namun sebagian besar orang di luaran sana, masih sering kali tidak bisa membedakan Software Engineer dengan title pekerjaan yang serupa, msialnya programmer, software developer dan coder. Padahal semua pekerjaan itu punya perbedaan yang mendasar. Secara lebih lengkap pembedanya akan kita bahas lebih lanjut pada sesi selanjutnya.
+Namun sebagian besar orang di luaran sana, masih sering kali tidak bisa membedakan Software Engineer dengan title pekerjaan yang serupa, msialnya programmer, software developer dan coder. Padahal semua pekerjaan itu punya perbedaan yang mendasar. Secara lebih lengkap pembedanya akan kita bahas lebih lanjut pada sesi selanjutnya.<br><br>
   
 ## Different Level Of Code Related Jobs
 - <strong>Coder</strong>
@@ -31,7 +31,7 @@ Untuk menjadi seorang programmer, maka paling tidak harus menguasai dalam 1 buah
 <img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%203.jpg"> <h5 align="center">Source: https://academy.alterra.id/blog/apa-itu-programmer/</h5><br>
 
 <p align="justify">
-Yang menjdi ciri khas lainnya seorang programmer adalah program/software yang dihasilkan tidaklah melalui proses yang sistematis seperti adanya perancangan, dokumentasi dan testing.<br>
+Yang menjdi ciri khas lainnya seorang programmer adalah program/software yang dihasilkan tidaklah melalui proses yang sistematis seperti adanya perancangan, dokumentasi dan testing.<br><br>
 
 - <strong>Software Developer</strong>
 <p align="justify">
@@ -48,10 +48,10 @@ Beberapa hal yang sudah menjadi pertimbangan seorang software developer dalam me
 <p align="justify">
 Bukan hanya itu, seorang software developer juga akan mendiagnosis masalah-masalah software/program dan memastikan kualitas dari software/program yang mereka buat telah memenuhi syarat.<br><br>
 Software developer akan melakukan testing terlebih dahulu sebelum software/program launching ke publik dan digunakan oleh user, demi mengetahui apakah produk sudah efisien dan berjalan sebagaimana yang diharapkan.<br><br>
-Ketika seorang software developer akan membuat software/program, ada beberapa tahapan software development yang akan dilaluinya. Tahapan-tahapan ini biasa disebut dengan <em><strong>Software Development Life Cycle (SDLC)</strong></em>.<br>
+Ketika seorang software developer akan membuat software/program, ada beberapa tahapan software development yang akan dilaluinya. Tahapan-tahapan ini biasa disebut dengan <em><strong>Software Development Life Cycle (SDLC)</strong></em>.<br><br>
 
 - <strong>Software Engineer</strong>
-Software engineer adalah title untuk seorang software developer yang ketika membuat software/aplikasi tidak hanya menggunakan tahapan-tahapan SDLC, namun juga sudah mengaplikasikan beberapa prinsip dalam software engineering itu sendiri. Pada penjelasan selanjutnya akan dibahas apa saja prinsip-prinsip yang akan digunakan oleh seorang software engineer. 
+Software engineer adalah title untuk seorang software developer yang ketika membuat software/aplikasi tidak hanya menggunakan tahapan-tahapan SDLC, namun juga sudah mengaplikasikan beberapa prinsip dalam software engineering itu sendiri. Pada penjelasan selanjutnya akan dibahas apa saja prinsip-prinsip yang akan digunakan oleh seorang software engineer. <br><br>
 
 ## Prinsip Praktis Software Engineering
 - <strong>Mempunyai Alasan Yang Jelas (<em>The Reason It All Exists</em>)</strong>
@@ -87,7 +87,7 @@ Software engineer adalah title untuk seorang software developer yang ketika memb
 
 - <strong>Berpikit (<em>Think</em>)</strong>  
   - Selalu berpikir dengan jelas dan lengkap sebelum menentukan tindakan, karena akan hampir selalu menghasilkan hasil yang lebih baik.
-  - Menerapkan 6 prinsip pertama disertai dengan pemikiran yang intens, yang berpotensi dengan imbalan yang besar.
+  - Menerapkan 6 prinsip pertama disertai dengan pemikiran yang intens, yang berpotensi dengan imbalan yang besar.<br><br>
   
 ## Knowledge and Experties
 
