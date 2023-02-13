@@ -54,28 +54,28 @@ Ketika seorang software developer akan membuat software/program, ada beberapa ta
 Software engineer adalah title untuk seorang software developer yang ketika membuat software/aplikasi tidak hanya menggunakan tahapan-tahapan SDLC, namun juga sudah mengaplikasikan beberapa prinsip dalam software engineering itu sendiri. Pada penjelasan selanjutnya akan dibahas apa saja prinsip-prinsip yang akan digunakan oleh seorang software engineer. 
 
 ## Prinsip Praktis Software Engineering
-- Mempunyai Alasan Yang Jelas(<em>The Reason It All Exists</em>)
+- <strong>Mempunyai Alasan Yang Jelas(<em>The Reason It All Exists</em>)</strong>
   - Sebuah sistem perangkat lunak harus mempunya satu alasan, yaitu untuk memberikan nilai kepada penggunanya.
   - Sebelum memulai segala sesuatu dalam pembuatan software, ajukan pertanyaan "<em>Apakah ini menambah nilai nyata unurk sistem?</em>" jika jawabannya "<em>No</em>" maka jangan lakukan.
   - Prinsip-prinsip yang lain akan mendukung prinsip satu ini.<br>
 
-- Sederhana(<em>Keep It Simple</em>)
+- <strong>Sederhana(<em>Keep It Simple</em>)</strong>
   - Software desain bukanlah proses yang serampangan. Ada banyak faktor yang perlu dipertimbangkan dalam pembuatan desain.
   - Desain elegan biasanya lebih sederhana, tetapi bukan berarti cepat dan kotor.
   - Software desain bukan hanya pada interface tetapi juga termasuk coding aplikasi.
-    > <p style="color:Tomato"><strong>"All design should be as simple as possible, but no simpler."</strong></p>
+    > <strong>"All design should be as simple as possible, but no simpler."</strong>
   
-- Mempertahankan Visi(<em>Maintain The Vision</em>)
+- <strong>Mempertahankan Visi(<em>Maintain The Vision</em>)</strong>
   - Memiliki visi yang jelas kedepannya.
   - Hal ini sangat penting untuk keberhasilan suatu proyek perangkat lunak.
   
-- Mempertahankan Visi(<em>Maintain The Vision</em>)
+- <strong>Mempertahankan Visi(<em>Maintain The Vision</em>)</strong>
   - Selalu menentukan, merancang, dan mengimplementasikan, sehingga orang lain mengetahui apa yang sedang kita lakukan.
   - Tentukan software yang ingin dibuat menggunakan kacamata pengguna, hal ini juga termasuk desain, informasi, dan lain sebagainya.
   - Ingatlah bahwa konsumen adalah faktor perkembanan software yang berpotensi besar.
-    > "Terbukalah pada target yang ingin dituju, apabila perlu gunakan survey untuk mengetahui > apa yang sedang mereka butuhan atau permasalahkan."
+    > <strong>"Terbukalah pada target yang ingin dituju, apabila perlu gunakan survey untuk mengetahui > apa yang sedang mereka butuhan atau permasalahkan."</strong>
   
-- Mempertahankan Visi(<em>Maintain The Vision</em>)
+- <strong>Terbuka Kepada Masa Depan(<em>Be Open To The Future</em>)</strong>
   - 
   - 
   
