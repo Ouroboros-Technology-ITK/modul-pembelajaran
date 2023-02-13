@@ -140,4 +140,9 @@ Level careerp path diatas bukanlah career path yang pasti di setiap perusahaan, 
 - Kemampuan untuk belajar mengajar. <br><br>
  
 
-<a href="https://github.com/Ouroboros-Tech/modul-pembelajaran/tree/main/3.%20Software%20Engineering/1.%20Introduction/2.%20Day%20To%20Day" target="_blank"><img src="[https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%204.1.png](https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%204%20(button%20rigth).png)" height="100" width="100"></a>
+  
+<body>
+  <center>
+    <a href="https://github.com/Ouroboros-Tech/modul-pembelajaran/tree/main/3.%20Software%20Engineering/1.%20Introduction/2.%20Day%20To%20Day" target="_blank"><img src="[https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%204.1.png](https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%204%20(button%20rigth).png)" height="100" width="100"></a>
+  </center> 
+</body>
