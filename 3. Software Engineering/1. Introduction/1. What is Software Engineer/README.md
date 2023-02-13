@@ -25,8 +25,25 @@ Pada level ini, seorang coder tidap perlu sampai mahir dalam menggunakan suatu b
 <li>Programmer</li>
 <p align="justify">
 Programmer adalah title yang biasa digunakan untuk menyebut orang yang sudah bsia membuat program/software dari awal sampai dengan bisa digunakan untuk menyelesaikan suatu problem.<br><br>
+Untuk menjadi seorang programmer, maka paling tidak harus menguasai dalam 1 buah bahasa pemrograman. Programmer sudah mulai mempelajari dan memahami secara dalam bagaimana cara kerja dari suatu syntax di dalam bahasa pemrograman.
+  
+<p align="center">
+<img height="500rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%203.jpg"> <h5 align="center">Source: https://academy.alterra.id/blog/apa-itu-programmer/</h5><br>
 
-- Software Developer
+<p align="justify">
+Yang menjdi ciri khas lainnya seorang programmer adalah program/software yang dihasilkan tidaklah melalui proses yang sistematis seperti adanya perancangan, dokumentasi dan testing.
+
+<li>Software Developer</li>
+<p align="justify">
+Software Developer merupakan title yang diberikan kepada orang yang mempunyai kemampuan dan cara berfikir yang lebih dalam mmebuat program atau software. Biasanya seorang software developer akan membuat software/program sesuai dengan prinsip-prinsip desain dan implemnetasi rekayasa perangkat lunak.<br><br>
+Beberapa hal yang sudah menjadi pertimbangan seorang software developer dalam membuat software/program, seperti:
+  - Kinerja
+  - Maintainability
+  - Skalabilitas
+  - Ketahanan
+  - Keamanan
+  
+  
 - Software Engineer
 
 ## Prinsip Praktis Software Engineering
