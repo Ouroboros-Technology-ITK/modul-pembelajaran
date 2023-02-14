@@ -2,7 +2,7 @@
 <p align="justify">
 Dalam kesehariannya, seorang software engineer akan melakukan beberapa task. Task-task tersebut sebagian besar akan berhubungan erat dengan code, namun beberapa task lainnya akan membutuhkan skills yang tidak berhubungan dengan code, seperti analisa kebutuhan, comunication skills, dan lain-lain.<br><br>
 
-Berikut adalah gambaran umum keseharian seorang software engineer.<br><br>
+Berikut adalah gambaran umum keseharian seorang software engineer.<br>
 
 ## Planning And Design Programs
 <p align="center">
@@ -30,13 +30,13 @@ Setelah code selesai ditulis, saatnya seorang software engineer melakukan review
 <img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%208.png"> <h5 align="center">Source: https://www.gustavwengel.dk/</h5><br>
 
 <p align="justify">
-Dalam proses-proses yang berkaitan dengan code, mungkin saja akan menemui error. Hal ini sangat normal dalam keseharian seorang software engineer. Berdasarkan errot yang ditemukan, seorang software developer akan mencoba memperbaiki error tersebut sehingga software yang dihasilkan akan terbebas dari error ketika digunakan.<br><br>
+Dalam proses-proses yang berkaitan dengan code, mungkin saja akan menemui error. Hal ini sangat normal dalam keseharian seorang software engineer. Berdasarkan errot yang ditemukan, seorang software developer akan mencoba memperbaiki error tersebut sehingga software yang dihasilkan akan terbebas dari error ketika digunakan.<br>
 
 <p align="justify">
-Error dalam proses coding bisa disebabkan oleh beberapa faktor. Mungkin error terjadi karena kesalahan penulisan syntax (<em>Syntax Error</em>), atau error terjadi karena ada kesalahan logic yang dikerjakan (<em>Logical Error</em>).<br><br>
+Error dalam proses coding bisa disebabkan oleh beberapa faktor. Mungkin error terjadi karena kesalahan penulisan syntax (<em>Syntax Error</em>), atau error terjadi karena ada kesalahan logic yang dikerjakan (<em>Logical Error</em>).<br>
 
 <p align="justify">
-Seorang software engineer harus bsia membedakan error ini, sehingga bisa memperbaiki error dengan cepat dan tepat. Hal ini disebut dengan debugging skill.<br><br>
+Seorang software engineer harus bsia membedakan error ini, sehingga bisa memperbaiki error dengan cepat dan tepat. Hal ini disebut dengan debugging skill.<br>
 
 <p align="justify">
 Referensi mengenai error yang biasanya terjadi dalam proses coding bisa kita lihat pada link-link berikut: 
@@ -44,6 +44,19 @@ Referensi mengenai error yang biasanya terjadi dalam proses coding bisa kita lih
   <li>https://www.parkersoftware.com/blog/the-most-common-coding-errors/</li>
   <li>https://textexpander.com/blog/the-7-most-common-types-of-errors-in-programming-and-how-to-avoid-them</li>
 </ul><br>
+
+## Cyber Security
+<p align="center">
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%208.jpeg"> <h5 align="center">Source: https://punemirror.com/others/scitech/india-s-positive-approach-towards-cyber-security/cid1674818378.htm</h5><br>
+
+<p align="justify">
+Software yang dibuat oleh seorang sorang software engineer diharapkan bukan hanya bisa digunakan dan menyelesaikan masalah yang ada, namun juga diharapkan software ini tidak menimbulkan masalah baru terkait dengan cyber security.<br>
+
+<p align="justify">
+Software Engineer harus memastikan bahwa software .<br>
+
+<p align="justify">
+Software yang dibuat oleh seorang sorang software engineer diharapkan bukan hanya bisa digunakan dan menyelesaikan masalah yang ada, namun juga diharapkan software ini tidak menimbulkan masalah baru terkait dengan cyber security.<br>
 
 <br><br>
 <div align="justify">
