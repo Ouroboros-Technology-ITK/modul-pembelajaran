@@ -40,8 +40,10 @@ Seorang software engineer harus bsia membedakan error ini, sehingga bisa memperb
 
 <p align="justify">
 Referensi mengenai error yang biasanya terjadi dalam proses coding bisa kita lihat pada link-link berikut: 
-- https://www.parkersoftware.com/blog/the-most-common-coding-errors/
-- https://textexpander.com/blog/the-7-most-common-types-of-errors-in-programming-and-how-to-avoid-them.<br><br>
+<ul style="list-style-type:circle;" style="text-align:justify">
+  <li>https://www.parkersoftware.com/blog/the-most-common-coding-errors/</li>
+  <li>https://textexpander.com/blog/the-7-most-common-types-of-errors-in-programming-and-how-to-avoid-them</li>
+</ul><br>
 
 <br><br>
 <div align="justify">
