@@ -47,7 +47,7 @@ Referensi mengenai error yang biasanya terjadi dalam proses coding bisa kita lih
 
 ## Cyber Security
 <p align="center">
-<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%208.jpeg"> <h5 align="center">Source: https://punemirror.com/others/scitech/india-s-positive-approach-towards-cyber-security/cid1674818378.htm</h5><br>
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%208.jpeg"> <h5 align="center">Source: https://punemirror.com/others/scitech/india-s-positive-approach-towards-cyber-security/cid1674818378.html</h5><br>
 
 <p align="justify">
 Software yang dibuat oleh seorang sorang software engineer diharapkan bukan hanya bisa digunakan dan menyelesaikan masalah yang ada, namun juga diharapkan software ini tidak menimbulkan masalah baru terkait dengan cyber security.<br>
@@ -58,6 +58,19 @@ Software Engineer harus memastikan bahwa software yang dihasilkan akan aman dari
 <p align="justify">
 Sebagai contoh, jika seorang software engineer akan membuat software yang berbasis website, maka software engineer haruslah mengaplikasikan standar security untuk website sesuai dengan guide yang ada. Dalam hal ini, standar keamanan aplikasi website mengikuti guide dari <a href="https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf" target="_blank"><strong>OWASP.</strong></a><br><br>
 
+## Consult With Stakeholder
+<p align="center">
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%209.jpeg"> <h5 align="center">Source: https://www.jojonomic.com/blog/business-consultant/</h5><br>
+
+<p align="justify">
+Pada tahapan ini, seorang software engineer haruslah bsia berkomunikasi dengan stakeholder (pembuat keputusan). Komunikasi yang dilakukan oleh software engineer dan stakeholder ini berguna untuk memastikan semua tahapan akan fit dengan proses bisnis yang ada sehingga software yang dihasilkan benar-benar bisa menyelesaikan problem stakeholder.<br>
+
+<p align="justify">
+Konsultasi ini akan berlangsung di beberapa tahapan, seperti tahapan planning dan design, review, implementasi cyber security, dan ketika tahapan implementasi software.<br>
+
+<p align="justify">
+Comunication skills sangat berperan penting dalam kegiatan konsultasi ini, seperti bagaimana cara mengemukakan ide/gagasan, serta bagaimana cara mendapatkan ide/gagasan dari orang lain.<br>
+
 <br><br>
 <div align="justify">
     <!-- Prev Page -->
@@ -65,4 +78,3 @@ Sebagai contoh, jika seorang software engineer akan membuat software yang berbas
     <!-- Next Page -->
     <a href="https://github.com/Ouroboros-Tech/modul-pembelajaran/tree/main/3.%20Software%20Engineering/1.%20Introduction/3.%20Skill%20Sets%20-%20Technical" target="_blank"><img src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/right%20(1).png" align="right" height="50" width="50"></a>
 <div>
-
