@@ -53,10 +53,10 @@ Referensi mengenai error yang biasanya terjadi dalam proses coding bisa kita lih
 Software yang dibuat oleh seorang sorang software engineer diharapkan bukan hanya bisa digunakan dan menyelesaikan masalah yang ada, namun juga diharapkan software ini tidak menimbulkan masalah baru terkait dengan cyber security.<br>
 
 <p align="justify">
-Software Engineer harus memastikan bahwa software .<br>
+Software Engineer harus memastikan bahwa software yang dihasilkan akan aman dari cyber attack. Untuk hal ini maka seorang software engineer haruslah update mengenai cyber security dan mencoba mengimplementasikannya di setiap tahapan pembuatan software.<br>
 
 <p align="justify">
-Software yang dibuat oleh seorang sorang software engineer diharapkan bukan hanya bisa digunakan dan menyelesaikan masalah yang ada, namun juga diharapkan software ini tidak menimbulkan masalah baru terkait dengan cyber security.<br>
+Sebagai contoh, jika seorang software engineer akan membuat software yang berbasis website, maka software engineer haruslah mengaplikasikan standar security untuk website sesuai dengan guide yang ada. Dalam hal ini, standar keamanan aplikasi website mengikuti guide dari <a href="https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf" target="_blank"><strong>OWASP.</strong></a><br><br>
 
 <br><br>
 <div align="justify">
