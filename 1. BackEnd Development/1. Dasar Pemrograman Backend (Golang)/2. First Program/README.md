@@ -25,6 +25,7 @@ Pada terminal kita, ketik `go build` diikuti dengan nama file kita dan tekan Ent
 
 Meskipun tidak ada yang terlihat pada terminal setelah perintah dijalankan, Go telah membuat file eksekusi program kita. Jika kita mengetikkan perintah `ls`, kita akan melihat program Go asli dan file eksekusinya.
 `$ ls`
+`// output` 
 `hello-world hello-world.go`
 Untuk mengeksekusi file tersebut, kita panggil:
 
