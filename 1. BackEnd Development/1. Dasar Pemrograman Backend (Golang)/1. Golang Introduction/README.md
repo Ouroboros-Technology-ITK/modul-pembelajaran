@@ -1,6 +1,6 @@
 ## What is golang
 ---
-![[Pasted image 20230213215332.png]]
+(sumber: https://twitter.com/golang/header_photo)
 
 Go, atau Golang adalah bahasa pemrograman yang dirancang oleh Google pada tahun 2007 untuk memudahkan pembuatan perangkat lunak, sehingga lebih sederhana, andal, dan efisien. 
 
