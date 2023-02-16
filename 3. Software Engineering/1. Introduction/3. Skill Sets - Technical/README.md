@@ -142,14 +142,14 @@ Debugging adalah proses untuk mencari dan mengahapus suatu bug dalam sebuah prog
 
 ## A Brief History Of Debugging
 <p align="justify">
-Kata debugging berasal dari kata "<em>bug</em>" yang berarti serangga. Kata tersebut diambil dari kejadian yang cukup unik. Pada tanggal 9 September 1947 seorang ilmuwan komputer asal Amerika yang bernama <strong><em>Grace Brewster Murray Hopper</em><strong>, menemukan serangga yang terjebak di dalam relay komputer. Hal itu menyebabkan operasi dari komputer tersebut terhambat.<br>
+Kata debugging berasal dari kata "<em>bug</em>" yang berarti serangga. Kata tersebut diambil dari kejadian yang cukup unik. Pada tanggal 9 September 1947 seorang ilmuwan komputer asal Amerika yang bernama <strong><em>Grace Brewster Murray Hopper</em></strong>, menemukan serangga yang terjebak di dalam relay komputer. Hal itu menyebabkan operasi dari komputer tersebut terhambat.<br>
 
 <p align="justify">
-Setelah kejadian tersebut kata debugging menjadi kata yang sering digunakan. Pada tahun 1945 kata debugging digunakan dalam istilah penerbangan yang dapat diartikan menjadi pengujian mesin pesawat. Lalu pada thaun 1963 istilah debugging menjadi umum digunakan di kalangan programmer untuk mengistilahkan proses pencarian dan perbaikan kesalahan pada program atau sistem.<br><br>
+Setelah kejadian tersebut kata debugging menjadi kata yang sering digunakan. Pada tahun 1945 kata debugging digunakan dalam istilah penerbangan yang dapat diartikan menjadi pengujian mesin pesawat. Lalu pada tahun 1963 istilah debugging menjadi umum digunakan di kalangan programmer untuk mengistilahkan proses pencarian dan perbaikan kesalahan pada program atau sistem.<br><br>
 
 ## Why Is Debugging Needed ?
 <p align="justify">
-Setelah menegtahui penjelasan dan sejarah dari debugging, sekarang kita akan membahas mengapa debugging ini perlu dilakukan. Debugging sebenarnya adalah hal yang pasti dilakukan oleh para programmer saat membuat suatu program.<br>
+Setelah mengetahui penjelasan dan sejarah dari debugging, sekarang kita akan membahas mengapa debugging ini perlu dilakukan. Debugging sebenarnya adalah hal yang pasti dilakukan oleh para programmer saat membuat suatu program.<br>
 
 <p align="justify">
 Tujuan utama dari debugging ini adalah untuk menghilangkan bug atau masalah yang ada. Debugging ini juga memiliki manfaat lain, beberapa di antaranya: 
