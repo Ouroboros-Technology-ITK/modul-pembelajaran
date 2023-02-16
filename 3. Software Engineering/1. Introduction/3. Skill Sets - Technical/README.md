@@ -27,7 +27,7 @@ Dari fungsinya ini, algoritma adalah hasil dari pemikiran yang terkonsep sehingg
   <li>Memudahkan dalam tracking kesalahan karena alur kerjanya yang jelas.</li>
   <li>Memudahkan membaut program yang lebih rapi dan terstruktur sehingga lebih mudah dipahami dan dikembangkan.</li>
   <li>Memudahkan dalam memodifikasi program tanpa harus merubah dan mengganggu modul lainnya.</li>
-</ul><br>
+</ul>
 
 ## Algorithm Features
 <p align="justify">
@@ -91,7 +91,7 @@ Referensi bahasa pemrograman yang populer bisa dilihat pada beberapa link beriku
   <li>https://www.tiobe.com/tiobe-index/</li>
   <li>https://pypl.github.io/PYPL.html</li>
   <li>https://insights.stackoverflow.com/survey/2021</li>
-</ul><br>
+</ul>
 
 ## Database
 <p align="center">
@@ -157,7 +157,7 @@ Tujuan utama dari debugging ini adalah untuk menghilangkan bug atau masalah yang
   <li>Mendeteksi error lebih cepat.</li>
   <li>Mempercepat proses perbaikan.</li>
   <li>Mengurangi resiko program disusupi malware.</li>
-</ul><br>
+</ul>
 
 ## Debugging Steps
 <p align="justify">
@@ -190,4 +190,3 @@ Tahap terakhir adalah memperbaiki bug yang sudah ditemukan. Setelah perbaikan se
     <!-- Next Page -->
     <a href="https://github.com/Ouroboros-Tech/modul-pembelajaran/tree/main/3.%20Software%20Engineering" target="_blank"><img src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/home%20(2).png" align="right" height="50" width="50"></a>
 <div>
-
