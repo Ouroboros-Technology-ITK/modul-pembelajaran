@@ -91,7 +91,7 @@ Referensi bahasa pemrograman yang populer bisa dilihat pada beberapa link beriku
   <li>https://www.tiobe.com/tiobe-index/</li>
   <li>https://pypl.github.io/PYPL.html</li>
   <li>https://insights.stackoverflow.com/survey/2021</li>
-</ul><br><br>
+</ul><br>
 
 ## Database
 <p align="center">
@@ -157,7 +157,7 @@ Tujuan utama dari debugging ini adalah untuk menghilangkan bug atau masalah yang
   <li>Mendeteksi error lebih cepat.</li>
   <li>Mempercepat proses perbaikan.</li>
   <li>Mengurangi resiko program disusupi malware.</li>
-</ul><br><br>
+</ul><br>
 
 ## Debugging Steps
 <p align="justify">
