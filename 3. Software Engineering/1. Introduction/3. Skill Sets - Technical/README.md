@@ -27,7 +27,7 @@ Dari fungsinya ini, algoritma adalah hasil dari pemikiran yang terkonsep sehingg
   <li>Memudahkan dalam tracking kesalahan karena alur kerjanya yang jelas.</li>
   <li>Memudahkan membaut program yang lebih rapi dan terstruktur sehingga lebih mudah dipahami dan dikembangkan.</li>
   <li>Memudahkan dalam memodifikasi program tanpa harus merubah dan mengganggu modul lainnya.</li>
-</ul><br><br>
+</ul><br>
 
 ## Algorithm Features
 <p align="justify">
