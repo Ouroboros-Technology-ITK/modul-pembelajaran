@@ -81,7 +81,7 @@ func main() {
 	var name, address string  
 	
 	fmt.Print("Enter your name and address: ")  
-	fmt.Scanf("%s %s", &name, &address) // menerima 2 *input* string yang dipisahkan oleh spasi, yang per 
+	fmt.Scanf("%s %s", &name, &address) // menerima 2 *input* string yang dipisahkan oleh spasi, yang pertama nama & yang kedua alamat
 	
 	fmt.Println("Hello", name)  
 	fmt.Println("Your address", address)  
