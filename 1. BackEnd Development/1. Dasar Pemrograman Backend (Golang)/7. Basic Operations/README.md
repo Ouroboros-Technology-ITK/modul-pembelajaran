@@ -1,11 +1,1 @@
-<html>
-<body>
-  
-  <iframe src="url video in google drive/preview" ></iframe>
-  
-  <!--aloow full screen add tag -->
-  
-<iframe allowfullscreen="allowfullscreen" src="your_page_url/preview" ></iframe>
-
-</body>
-</html>
+<iframe src="https://drive.google.com/file/d/10Z3yAvYunalQ1fJ5S0JtihZpqmgZYW62/preview" width="640" height="480" allow="autoplay"></iframe>
