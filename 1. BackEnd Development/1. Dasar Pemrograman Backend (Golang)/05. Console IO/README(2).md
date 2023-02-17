@@ -78,12 +78,13 @@ Hello Budi
 `Scanf` juga bisa menerima lebih dari 1 parameter seperti fungsi `Scan`. Namun kita harus menentukan format *string* yang akan diterima.  
 ```go
 func main() {  
-var name, address string  
-fmt.Print("Enter your name and address: ")  
-fmt.Scanf("%s %s", &name, &address) // menerima 2 *input* string yang dipisahkan oleh spasi, yang per 
-
-fmt.Println("Hello", name)  
-fmt.Println("Your address", address)  
+	var name, address string  
+	
+	fmt.Print("Enter your name and address: ")  
+	fmt.Scanf("%s %s", &name, &address) // menerima 2 *input* string yang dipisahkan oleh spasi, yang per 
+	
+	fmt.Println("Hello", name)  
+	fmt.Println("Your address", address)  
 }
 ```
 ```output
