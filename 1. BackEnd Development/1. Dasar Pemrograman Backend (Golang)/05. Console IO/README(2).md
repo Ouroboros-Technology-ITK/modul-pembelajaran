@@ -6,11 +6,11 @@ Package `fmt` juga mendukung untuk menerima *input* dari terminal atau console. 
 Fungsi `Scan` menerima *input* dengan cara menangkap data atau nilai *input* nya ke dalam sebuah variable yang diisi di parameter fungsi. Kita menggunakan pointer untuk menangkap *input* nya dengan sintaks & (materi pointer akan dibahas di materi selanjutnya).  
 ```go 
 func main() {  
-var name string  
-fmt.Print("Enter your name: ")  
-fmt.Scan (&name) // set *input* to variable 'name'  
-Variable  
-fmt.Println("Hello", name)  
+	var name string  
+	fmt.Print("Enter your name: ")  
+	fmt.Scan (&name) // set *input* to variable 'name'  
+	
+	fmt.Println("Hello", name)  
 }  
 ```
 
@@ -20,14 +20,14 @@ Contoh di atas adalah penggunaan fungsi `Scan` untuk menyimpan data atau nilai *
 
 ```go
 func main() {  
-var name, address string  
-fmt.Print("Enter your name and address : ")  
-fmt.Scan (&name, &address) // set *input* to variable 'name' and 'address'  
-fmt.Println("Hello", name)  
-fmt.Println("Your address", address)  
+	var name, address string  
+	fmt.Print("Enter your name and address : ")  
+	fmt.Scan (&name, &address) // set *input* to variable 'name' and 'address'  
+	
+	fmt.Println("Hello", name)  
+	fmt.Println("Your address", address)  
 } 
 ```
-
 ```output
 Enter your name and address: Budi Jakarta 
 Hello Budi  
@@ -41,15 +41,16 @@ Your address Jakarta
 func main() {  
 	var name, address string  
 	fmt.Print("Enter your name: ")  
-	fmt. Scanln (&name)  
+	fmt.Scanln(&name)  
+	
 	fmt.Print("Enter your address : ")  
 	fmt.Scanln(&address)  
+	
 	fmt.Println("Hello", name)  
 	fmt.Println("Your address", address) 
 }  
 ```
 ```output
-go run main.go  
 Enter your name: Budi  
 Enter your address : Jakarta  
 Hello Budi  
@@ -57,14 +58,16 @@ Your address Jakarta
 ```
 
 ## fmt.Scanf  
-Konsep fungsi dari `Scanf` hampir sama dengan `Printf`, yaitu untuk *formating*. Namun `Scanf` digunakan untuk *formating* *input* yang diberikan menggunakan format *string* sesuai dokumentasi. Dan fungsi Scanf tidak memberikan new line atau enter di akhir *input* nya.  
+Konsep fungsi dari `Scanf` hampir sama dengan `Printf`, yaitu untuk *formating*. Namun `Scanf` digunakan untuk *formating* *input* yang diberikan menggunakan *format string* sesuai dokumentasi. Dan fungsi Scanf tidak memberikan new line atau enter di akhir *input* nya.  
 
 ```go
 func main() {  
-var name string  
-fmt.Print("Enter your name: ")  
-fmt. Scanf("%s", &name) // set *input* with format string to variable name  
-fmt.Println("Hello", name)  
+	var name string  
+	
+	fmt.Print("Enter your name: ")  
+	fmt.Scanf("%s", &name) // set *input* with format string to variable name  
+	
+	fmt.Println("Hello", name)  
 }  
 ```
 ```output
@@ -88,4 +91,4 @@ Enter your name and address: Budi Jakarta
 Hello Budi  
 Your address Jakarta  
 ```
->NOTE: Tidak perlu membandingkan mana fungsi *input* terbaik atau terburuk. Karena setiap fungsi *input* digunakan sesuai kebutuhan dan kondisinya.
+>Tidak perlu membandingkan mana fungsi *input* terbaik atau terburuk. Karena setiap fungsi *input* digunakan sesuai kebutuhan dan kondisinya.
