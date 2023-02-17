@@ -1,6 +1,6 @@
 # String  
 ## What is string?  
-Tipe data *string* adalah tipe data yang berisi kumpulan karakter. *String* di Golang direpresentasikan dengan keyword `string`. Nilai data *string* di Golang di awali dengan karakter `"` (petik dua) dan di akhiri dengan" (petik dua).  
+Tipe data *string* adalah tipe data yang berisi kumpulan karakter. *String* di Golang direpresentasikan dengan keyword `string`. Nilai data *string* di Golang di awali dan di akhiri dengan karakter `"` (petik dua).  
 
 ```go
 "Hello World"  
