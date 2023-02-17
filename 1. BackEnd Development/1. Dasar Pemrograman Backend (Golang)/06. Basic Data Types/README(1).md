@@ -1,4 +1,4 @@
-﻿  # String  
+# String  
 ## What is string?  
 Tipe data *string* adalah tipe data yang berisi kumpulan karakter. *String* di Golang direpresentasikan dengan keyword `string`. Nilai data *string* di Golang di awali dengan karakter `"` (petik dua) dan di akhiri dengan" (petik dua).  
 
@@ -20,8 +20,8 @@ Hello Go!
 `len` adalah fungsi yang ada di Golang untuk menghitung jumlah karakter string. Cara penggunaannya cukup sederhana, yaitu memanggil fungsi `len` dengan parameter yang diisi dengan *string*. Fungsi ini akan mengembalikan angka yang berisi total karakter dari string yang diberikan.  
 ```go
 func main() {  
+	fmt.Println(len("Hello World"))  
 }  
-fmt.Println(len("Hello World"))  
 ```
 ```output
 11 # total character  
@@ -44,9 +44,9 @@ Hasilnya akan berupa data `byte` yang berisi ASCII code yang mewakili karakter t
 
 ```go
 func main() {  
+	fmt.Println("Golang"[0])  
+	fmt.Println("Golang" [2])
 }  
-fmt.Println("Golang"[0])  
-fmt.Println("Golang" [2])  
 ```
 ```Output
 71 # output is ASCII code of "G"  
@@ -70,8 +70,8 @@ Pastikan bahwa ketika ingin mendapatkan sebagian karakter, tidak melebihi dari t
 
 ```go
 func main() {  
+	fmt.Println("Golang" [10])  
 }  
-fmt.Println("Golang" [10])  
 ```
 ```Output  
 # command-line-arguments  
