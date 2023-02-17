@@ -122,11 +122,12 @@ a--  | a = a - 1  |decrement (turun 1 angka)
 Contoh:  
 ```go
 func main() {  
-var a= 10  
-a++ // a = 10 + 1 = 11  
-fmt.Println(a)  
-var b = 10  
-fmt.Println(-b)  
+	var a = 10  
+	a++ // a = 10 + 1 = 11  
+	fmt.Println(a)
+	
+	var b = 10  
+	fmt.Println(-b)  
 }  
 ```
 ```output
