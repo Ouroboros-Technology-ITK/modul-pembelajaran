@@ -1,4 +1,4 @@
-# String  
+﻿  # String  
 ## What is string?  
 Tipe data *string* adalah tipe data yang berisi kumpulan karakter. *String* di Golang direpresentasikan dengan keyword `string`. Nilai data *string* di Golang di awali dengan karakter `"` (petik dua) dan di akhiri dengan" (petik dua).  
 
@@ -29,11 +29,11 @@ fmt.Println(len("Hello World"))
 
 #### Get character  
 Kita juga dapat mengambil karakter tertentu di string dengan cara mengambil posisi index dari karakter yang kita inginkan. Caranya adalah menggunakan sintaks `[<index>]` di belakang string. Urutan index dimulai dari 0.  
-![[th 1.webp]]
+![Index](https://problemsolvingwithpython.com/04-Data-Types-and-Variables/images/string_indexing.png)
 
-Adapun Urutan menurun menggunakan index negatif dimulai dari -1 pada akhir string 
+Adapun ketika ingin mendapatkan string dari paling belakang, bisa menggunakan index negatif yang berurutan menurun, dimulai dari -1 pada akhir string.
 
-![[th 3.webp]]
+![Index](https://problemsolvingwithpython.com/04-Data-Types-and-Variables/images/reverse_string_indexing.png)
 
 Hasilnya akan berupa data `byte` yang berisi ASCII code yang mewakili karakter tersebut. ASCII code adalah representasi angka dari karakter alfabet.  
 
