@@ -28,12 +28,15 @@ fmt.Println(len("Hello World"))
 ```
 
 #### Get character  
-Kita juga dapat mengambil karakter tertentu di string dengan cara mengambil posisi index dari karakter yang kita inginkan. Caranya adalah menggunakan sintaks `[<index>]` di belakang string. Urutan index dimulai dari 0.  
+Kita juga dapat mengambil karakter tertentu di string dengan cara mengambil posisi index dari karakter yang kita inginkan. Caranya adalah menggunakan sintaks `[<index>]` di belakang string. Urutan index dimulai dari 0.
+
 ![Index](https://problemsolvingwithpython.com/04-Data-Types-and-Variables/images/string_indexing.png)
+*(Sumber:https://problemsolvingwithpython.com/04-Data-Types-and-Variables/images/string_indexing.png)
 
 Adapun ketika ingin mendapatkan string dari paling belakang, bisa menggunakan index negatif yang berurutan menurun, dimulai dari -1 pada akhir string.
 
-![Index](https://problemsolvingwithpython.com/04-Data-Types-and-Variables/images/reverse_string_indexing.png)
+!["Index"](https://problemsolvingwithpython.com/04-Data-Types-and-Variables/images/reverse_string_indexing.png)
+*(Sumber:https://problemsolvingwithpython.com/04-Data-Types-and-Variables/images/reverse_string_indexing.png)
 
 Hasilnya akan berupa data `byte` yang berisi ASCII code yang mewakili karakter tersebut. ASCII code adalah representasi angka dari karakter alfabet.  
 
@@ -74,4 +77,4 @@ fmt.Println("Golang" [10])
 ./main.go: 6:21: invalid string index 10 (out of bounds for 6-byte string)  
 ```
 
-Contoh di atas adalah bentuk *error* karena kita mencoba mengambil karakter di index ke-10 sedangkan *string* "Golang" hanya memiliki 6 karakter.  
+Contoh di atas adalah bentuk *error* karena kita mencoba mengambil karakter di index ke-10 sedangkan *string* "Golang" hanya memiliki 6 karakter. 
