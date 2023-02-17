@@ -31,12 +31,12 @@ fmt.Println(len("Hello World"))
 Kita juga dapat mengambil karakter tertentu di string dengan cara mengambil posisi index dari karakter yang kita inginkan. Caranya adalah menggunakan sintaks `[<index>]` di belakang string. Urutan index dimulai dari 0.
 
 ![Index](https://problemsolvingwithpython.com/04-Data-Types-and-Variables/images/string_indexing.png)
-*(Sumber:https://problemsolvingwithpython.com/04-Data-Types-and-Variables/images/string_indexing.png)
+*(Sumber:https://problemsolvingwithpython.com/04-Data-Types-and-Variables/images/string_indexing.png)*
 
 Adapun ketika ingin mendapatkan string dari paling belakang, bisa menggunakan index negatif yang berurutan menurun, dimulai dari -1 pada akhir string.
 
 !["Index"](https://problemsolvingwithpython.com/04-Data-Types-and-Variables/images/reverse_string_indexing.png)
-*(Sumber:https://problemsolvingwithpython.com/04-Data-Types-and-Variables/images/reverse_string_indexing.png)
+*(Sumber:https://problemsolvingwithpython.com/04-Data-Types-and-Variables/images/reverse_string_indexing.png)*
 
 Hasilnya akan berupa data `byte` yang berisi ASCII code yang mewakili karakter tersebut. ASCII code adalah representasi angka dari karakter alfabet.  
 
