@@ -1,4 +1,4 @@
-# Basic *input* argument  
+# Basic Input Argument  
 
 Package `fmt` juga mendukung untuk menerima *input* dari terminal atau console. Berikut beberapa fungsi yang dapat digunakan untuk menerima *input*.  
 
