@@ -1,4 +1,3 @@
-b﻿  
 # Looping
 Pernahkah kita membayangkan jika harus menulis sebuah statement "Hello World" sebanyak seribu kali secara manual? Tentunya itu akan sangat melelahkan. Untungnya, Golang dapat mempermudah proses ini dengan menggunakan looping atau perulangan. Di halaman ini, kedua istilah tersebut menunjukkan hal yang sama.  
 
