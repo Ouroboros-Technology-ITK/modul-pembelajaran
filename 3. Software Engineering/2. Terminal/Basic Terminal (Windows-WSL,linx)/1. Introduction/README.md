@@ -27,7 +27,7 @@ WSL 2 adalah versi terbaru dari WSL yang bertujuan untuk menambahkan kompabilita
 <p align="center">
     <a href="https://www.youtube.com/watch?v=MrZolfGm8Zk" target="_blank"><img src="https://img.youtube.com/vi/MrZolfGm8Zk/0.jpg"></a> 
     <h5 align="center">Source: WSL2: Code Faster On The Windows Subsystem For Linux! | Tabs vs Space</h5>
-<p>
+<p><br>
 
 ## Prerequisites
 <p align="justify">
@@ -39,7 +39,7 @@ Untuk update ke WSL 2, kita harus menggunakan <strong>Windows 10</strong>. </p>
 <p align="justify">
 atau menggunakan <strong>Windows 11</strong>.</p>
 
-> info: Build yang lebih rendah dari Build 18362 tidak mendukung WSL 2.
+> <strong>info: Build yang lebih rendah dari Build 18362 tidak mendukung WSL 2.</strong>
 
 <p align="justify">
 Untuk memeriksa versi dan nomor Build kita, tekan tombol Windows + R, lalu ketik <code>winver</code>, pilih OK.
