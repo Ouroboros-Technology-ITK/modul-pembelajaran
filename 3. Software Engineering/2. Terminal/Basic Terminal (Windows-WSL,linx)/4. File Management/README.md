@@ -53,7 +53,7 @@ Jalankan command <code>clear</code>, maka layar terminal akan dibersihkan sepert
 
 ## <code>mv</code>
 <p align="justify">
-Command <code>mv</code> adalah command yang cukup sebaguna. Bergantung pada cara penggunaannya, dimana command ini dapat mengganti nama file atau memindahkannya dari satu lokasi ke lokasi lainnya. Untuk memindahkan file, gunakan command <code>mv</code> diikuti dengan nama file yang akan dipindahkan kemudian lokasi tempat file dipindahkan <code>mv filename /path/to/destination</code>. Contoh, kita akan memindahkan <code>file1.txt</code> ke folder <code>/Videos</code>, jalankan command <code>mv file1.txt ../Videos</code>. Untuk mengkonfirmasi pemindahan file, jalankan command <code>ls ../Videos</code>.<br><br>
+Command <code>mv</code> adalah command yang cukup sebaguna. Bergantung pada cara penggunaannya, dimana command ini dapat mengganti nama file atau memindahkannya dari satu lokasi ke lokasi lainnya. Untuk memindahkan file, gunakan command <code>mv</code> diikuti dengan nama file yang akan dipindahkan kemudian lokasi tempat file dipindahkan <code>mv filename /path/to/destination</code>. Contoh, kita akan memindahkan <code>file1.txt</code> ke folder <code>/Videos</code>, jalankan command <code>mv file1.txt ../Videos</code>. Untuk mengkonfirmasi pemindahan file, jalankan command <code>ls ../Videos</code>.<br>
 
 <p align="justify">
 Untuk mengganti nama file, gunakan command <code>mv filename1 filename2</code>. Command ini menghapus nama file asli dan menetapkan argumen kedua sebagai nama file baru.<br><br>
