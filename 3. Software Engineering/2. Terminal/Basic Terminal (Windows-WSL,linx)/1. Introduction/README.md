@@ -14,7 +14,7 @@ WSL adalah fitur opsional Windows yang memungkinkan program Linux beejalan secar
   <li>Menjalankan aplikasi terminal base GNU/Linux termasuk tools text editor: `vim` dan `nano`.</li>
   <li>Menginstall package manager tambahan menggunakan distribusi GNU/Linux.</li>
 </ul><br>
-
+`aS`
 <iframe width="560" height="315" src="https://www.youtube.com/embed/48k317kOxqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <br><br>
