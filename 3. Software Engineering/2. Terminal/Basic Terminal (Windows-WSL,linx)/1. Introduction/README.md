@@ -22,14 +22,14 @@ WSL adalah fitur opsional Windows yang memungkinkan program Linux beejalan secar
 
 ## What Is WSL ?
 <p align="justify">
-Untuk update ke WSL 2, kita harus menggunakan **Windows 10**: </p>
+Untuk update ke WSL 2, kita harus menggunakan <strong>Windows 10</strong>. </p>
 <ul style="list-style-type:circle;" style="text-align:justify">
   <li>Untuk sistem x64: Versi 1903 atau yang lebih baru, dengan Build 18362 atau yang lebih bagus.</li>
   <li>Untuk sistem ARM64: Versi 2004 atau yang lebih baru, dengan Build 19041 atau yang lebih baru.</li>
 </ul>
 <p align="justify">
-atau menggunakan **Windows 11**.
-> info: Build yang lebih rendah dari Build 18362 tidak mendukung WSL 2.
+atau menggunakan <strong>Windows 11</strong>.
+  > info: Build yang lebih rendah dari Build 18362 tidak mendukung WSL 2.
 
 <p align="center">
     <a href="https://youtu.be/48k317kOxqg" target="_blank"><img src="https://img.youtube.com/vi/48k317kOxqg/0.jpg"></a> 
