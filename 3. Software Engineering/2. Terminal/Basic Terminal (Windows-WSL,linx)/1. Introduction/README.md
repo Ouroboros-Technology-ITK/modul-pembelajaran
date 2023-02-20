@@ -117,26 +117,27 @@ Gunakan perintah dasar Linux <code>cd</code> untuk menjelajahi file dan direktor
 - <strong>What's Here?</strong>
 <p align="justify">
 Gunakan perintah dasar Linux <code>ls</code>  untuk melihat file dan direktori pada sistem. Menjalankannya tanpa flag atau parameter akan menampilkan konten direktori kerja saat ini.</p/>
-- Untuk melihat file apa yang ada di dalam direktori kerja saat ini, gunakan perintah <code>ls</code>: 
 
-  ```
-  $ ls
-Applications			bin
-Confidential			confidential.py
-Desktop				    confidential2.tc
-Documents			    external_lbrs
-Downloads			    feed.json
-Dropbox				    feed.py
-Library				    floobits
-Movies				    gitconfig
-Music				    google_analytics_auth.dat
-Pictures			    pgadmin.log
-Public				    s3cfg
-SpiderOak Hive			src
-VirtualBox VMs			syria
-adt-bundle-mac			tmp
-android-sdk-macosx
-  ```
+  - Untuk melihat file apa yang ada di dalam direktori kerja saat ini, gunakan perintah <code>ls</code>: 
+
+    ```
+    $ ls
+  Applications			bin
+  Confidential			confidential.py
+  Desktop				    confidential2.tc
+  Documents			    external_lbrs
+  Downloads			    feed.json
+  Dropbox				    feed.py
+  Library				    floobits
+  Movies				    gitconfig
+  Music				    google_analytics_auth.dat
+  Pictures			    pgadmin.log
+  Public				    s3cfg
+  SpiderOak Hive			src
+  VirtualBox VMs			syria
+  adt-bundle-mac			tmp
+  android-sdk-macosx
+    ```
 
 - Untuk melihat file apa yang ada di direktori yang berbeda:
 
