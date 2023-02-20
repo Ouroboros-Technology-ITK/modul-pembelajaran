@@ -71,7 +71,7 @@ Restart komputer untuk menyelesaikan penginstalan dan pembaruan ke WSL 2.
 
 
 - <strong>Langkah 3</strong> - Download Linux kernel update package
-  - Download latest package: <a href="https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package" target="_blank"><strong>WSl 2 Linux Kernel Udpate Package</strong></a>
+  - Download latest package: <a href="https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package" target="_blank"><strong>WSl 2 Linux Kernel Update Package</strong></a>
   - Run update package yang telah di download. (Double click untuk run, maka kita akan dimintai permissions, pilih 'Yes' untuk menyetujui penginstalan)
 
 - <strong>Langkah 4</strong> - Set WSL 2 sebagai default version
@@ -88,7 +88,7 @@ Restart komputer untuk menyelesaikan penginstalan dan pembaruan ke WSL 2.
 - <strong>Langkah 5</strong> - Install Linux distribution
   - Buka Microsoft Store dan search Linux distributin.
   - Kita akan membutuhkan <a href="https://www.microsoft.com/store/productId/9PN20MSR04DW" target="_blank"><strong>Ubuntu 22.04 LTS</strong></a>
-  - Dari halaman distribution, klik tombol 'Get'.
+  - Dari halaman distribution, klik tombol 'Get'. <br>
     <p align="justify">
     Pertama kali menjalankan Linux distribution yang baru diinstall, kita akan diminta untuk menunggu satu atau dua menit agar fil mendekompres dan disimpan di PC kita. Kemudian kita perlu membuat username dan password untuk Linus distribution.<br>
   
