@@ -53,7 +53,7 @@ UNtuk menginstall WSL secara simple, sebenarnya bisa menggunakan command <code>w
 
 - <strong>Langkah 1</strong> - Aktifkan Windows Subsystem for Linux
 <p align="justify">
-Buka PowerShell sebagai Administrator (tekan Windows > ketik "PowerShell" > klik kanan > pilih Run As Administrator) dan masukkan perintah ini. 
+Buka PowerShell sebagai Administrator (tekan Windows > ketik "PowerShell" > klik kanan > pilih Run As Administrator) dan masukkan perintah ini: 
 
 ```
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
@@ -61,14 +61,46 @@ dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux 
 
 - <strong>Langkah 2</strong> - Aktifkan Virtual Machine Feature
 <p align="justify">
-Buka PowerShell sebagai Administrator (tekan Windows > ketik "PowerShell" > klik kanan > pilih Run As Administrator) dan masukkan perintah ini. 
+Buka PowerShell sebagai Administrator dan jalankan: 
 
 ```
 dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
 ```
 
-Untuk menjadi seorang programmer, maka paling tidak harus menguasai dalam 1 buah bahasa pemrograman. Programmer sudah mulai mempelajari dan memahami secara dalam bagaimana cara kerja dari suatu syntax di dalam bahasa pemrograman.
+Restart komputer untuk menyelesaikan penginstalan dan pembaruan ke WSL 2.
 
+
+- <strong>Langkah 2</strong> - Aktifkan Virtual Machine Feature
+<p align="justify">
+Buka PowerShell sebagai Administrator dan jalankan: 
+
+```
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+```
+
+Restart komputer untuk menyelesaikan penginstalan dan pembaruan ke WSL 2.
+
+
+- <strong>Langkah 2</strong> - Aktifkan Virtual Machine Feature
+<p align="justify">
+Buka PowerShell sebagai Administrator dan jalankan: 
+
+```
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+```
+
+Restart komputer untuk menyelesaikan penginstalan dan pembaruan ke WSL 2.
+
+
+- <strong>Langkah 2</strong> - Aktifkan Virtual Machine Feature
+<p align="justify">
+Buka PowerShell sebagai Administrator dan jalankan: 
+
+```
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+```
+
+Restart komputer untuk menyelesaikan penginstalan dan pembaruan ke WSL 2.
 
 <div align="justify">
     <!-- Prev Page -->
