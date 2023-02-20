@@ -94,7 +94,8 @@ Restart komputer untuk menyelesaikan penginstalan dan pembaruan ke WSL 2.
   
 ## How To Use WSL 2
 <p align="justify">
-Pada distributin Ubuntu yang baru saja diinstall, kita akan disambut dengan terminal Linux. COba jalankan beberapa perintah Linux:
+Pada distributin Ubuntu yang baru saja diinstall, kita akan disambut dengan terminal Linux. COba jalankan beberapa perintah Linux:</p>
+
 - <strong>Melihat posisi path kita saat ini</strong>
 <p align="justify">
 Gunakan perintah dasar Linux pwd untuk menemukan path direktori kerja Anda saat ini. Cukup sengan memasukkan pwd, path saat ini akan ditampilkan penuh, yaitu path semua direktori yang diawali dengan garis miring (/). Misalnya, /home/username..<br>
