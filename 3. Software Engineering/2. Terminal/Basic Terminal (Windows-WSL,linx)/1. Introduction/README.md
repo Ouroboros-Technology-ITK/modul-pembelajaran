@@ -35,6 +35,9 @@ atau menggunakan <strong>Windows 11</strong>.</p>
     <a href="https://www.youtube.com/watch?v=MrZolfGm8Zk" target="_blank"><img src="https://img.youtube.com/vi/MrZolfGm8Zk/0.jpg"></a> 
     <h5 align="center">Source: WSL2: Code Faster On The Windows Subsystem For Linux! | Tabs vs Space</h5>
 <p>
+
+> info: Build yang lebih rendah dari Build 18362 tidak mendukung WSL 2.
+
 <div align="justify">
     <!-- Prev Page -->
     <a href="https://github.com/Ouroboros-Tech/modul-pembelajaran/tree/main/3.%20Software%20Engineering/1.%20Introduction/2.%20Day%20To%20Day" target="_blank"><img src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/left%20(1).png" align="left" height="50" width="50"></a>
