@@ -68,6 +68,7 @@ nano demo.txt
 <p align="justify">
 Jika file tidak ditemukan, maka Nano akan membuatkan file tersebut. Jika command <code>nano</code> dijalankan tanpa menambahkan nama file yang spesifik (hanya mengetik <code>nano</code>) maka Nano akan menampilkan editor file yang kosong dan tidak bernama. Ketika akan keluar dari editor kita akan diminta untuk memberi nama pada file tersebut.<br>
 
+<p align="justify">
 Berikut adalah tampilan interface dari Nano text editor setelah command diatas dijalankan. Gunakan tombol bertanda anak panah di keyboard untuk menggerakkan cursor pada Nano.
 
 <p align="center">
@@ -75,10 +76,12 @@ Berikut adalah tampilan interface dari Nano text editor setelah command diatas d
 
 <p align="justify">
 Di bagian bawah jendela terdapat shortcut yang dapat digunakan pada Nano text editor. Tanda "<code>^</code>" (caret) menunjukkan untuk menekan tombol <code>ctrl</code> (Windows) atau <code>control</code> (macOS). Berikut beberapa contohnya:</p>
-- Tekan tombol <code>ctrl + o</code> untuk menyimpan perubahan yang dibuat di file dan melanjutkkan proses editing.
-- Tekan tombol <code>ctrl + x</code> untuk keluar dari editor.<br><br>
+<ul style="list-style-type:circle;">
+  <li>Tekan tombol <code>ctrl + o</code> untuk menyimpan perubahan yang dibuat di file dan melanjutkkan proses editing.</li>
+  <li>Tekan tombol <code>ctrl + x</code> untuk keluar dari editor.</li>
+</ul><br>
 
-## <code>w</code>
+## Cara Mencari dan Mengganti Teks
 <p align="justify">
 Command <code>w</code> menunjukkan siapa yang logged on dan apa yang mereka lakukan termasuk waktu aktif.<br>
 
