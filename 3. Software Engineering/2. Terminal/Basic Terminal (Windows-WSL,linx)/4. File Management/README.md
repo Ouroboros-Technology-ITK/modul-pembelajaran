@@ -33,10 +33,10 @@ Command <code>cd</code> merupakan singkatand dari change directory, merupakan su
 
 ## <code>touch</code>
 <p align="justify">
-Command <code>touch</code> digunakan untuk membuat file pada sistem Unix/Linux. Syntax command-nya seperti berikut : <code>touch filename</code>.<br>
+Command <code>touch</code> digunakan untuk membuat file pada sistem Unix/Linux. Syntax command-nya seperti berikut: <code>touch filename</code>.<br>
 
 <p align="justify">
-Misalnya, untuk membaut file <code>file1.txt</code>, jalankan command <code>touch file1.txt</code>. Untuk mengecek apakah file berhasil dibuat, kita bisa jalankan command <code>ls</code> dan lihat apakah file yang baru kita buat ada di dalam list file.<br>
+Misalnya, untuk membuat file <code>file1.txt</code>, jalankan command <code>touch file1.txt</code>. Untuk mengecek apakah file berhasil dibuat, kita bisa jalankan command <code>ls</code> dan lihat apakah file yang baru kita buat ada di dalam list file.<br>
 
 <p align="center">
 <img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/touch.png"><br><br>
@@ -53,29 +53,32 @@ Jalankan command <code>clear</code>, maka layar terminal akan dibersihkan sepert
 
 ## <code>mv</code>
 <p align="justify">
-Command <code>mv</code> adalah command yang cukup sebaguna. Bergantung pada cara penggunaannya, dimana command ini dapat mengganti naam file atau memindahkannya dari satu lokasi ke lokasi lainnya. Untuk memindahkan file, gunakan command <code>mv</code> diikuti dengan nama file yang akan dipindahkan kemudian lokasi tempat file dipindahkan <code>mv filename /path/to/destination</code>. Contoh, kita akan memindahkan file1.txt ke folder <code>/Videos</code>, jalankan command <code>mv file1.txt ../Videos</code>. Untuk mengkonfirmasi pemindahan file, jalankan command <code>ls ../Videos</code>.<br><br>
+Command <code>mv</code> adalah command yang cukup sebaguna. Bergantung pada cara penggunaannya, dimana command ini dapat mengganti nama file atau memindahkannya dari satu lokasi ke lokasi lainnya. Untuk memindahkan file, gunakan command <code>mv</code> diikuti dengan nama file yang akan dipindahkan kemudian lokasi tempat file dipindahkan <code>mv filename /path/to/destination</code>. Contoh, kita akan memindahkan <code>file1.txt</code> ke folder <code>/Videos</code>, jalankan command <code>mv file1.txt ../Videos</code>. Untuk mengkonfirmasi pemindahan file, jalankan command <code>ls ../Videos</code>.<br><br>
 
 <p align="justify">
 Untuk mengganti nama file, gunakan command <code>mv filename1 filename2</code>. Command ini menghapus nama file asli dan menetapkan argumen kedua sebagai nama file baru.<br><br>
 
-> Note: Perhatikan penggunaan <code>../</code> di depan sebuah folder, ini berarti kita akan mundur satu direktori.
+> <strong>Note: Perhatikan penggunaan <code>../</code> di depan sebuah folder, ini berarti kita akan mundur satu direktori.</strong>
+<br><br>
 
 ## <code>cp</code>
 <p align="justify">
-<code>cat /proc/meminfo</code> digunakan untuk menampilkan jumlah memori yang kosong dan yang digunakan (baik fisik maupun swap) pada sistem serta shared memory dan buffer yang digunakan oleh kernel.<br><br>
+Command <code>cp</code>, kependekan cari copy, menyalin file dari satu lokasi ke lokasi lainnya. Berbeda dengan command <code>mv</code>, command <code>cp</code> mempertahankan file asli di lokasinya saat ini dan membuat salinan/duplikat di direktori yang berbeda. Misalnya, untuk menyalin file <code>file2.txt</code> dari direktori saat ini ke direktori <code>/Documents</code>, kita bisa jalankan perintah <code>cp file2.txt ../Documents</code>.<br><br>
 
 ## <code>rm</code>
 <p align="justify">
-Secara default, command <code>df</code> menunjukkan disk space dalam blok 1 kilobyte dan ukuran disk space yang digunakan dan tersedia dalam kilobyte. Untuk menampilkan informasi tentang disk drive dalam format yang dapat dibaca manusia (kilobyte, megabyte, gigabyte, dan sebagainya), jalankan command <code>df</code> dengan opsi <code>-h</code>.<br><br>
+Command <code>rm</code>, kependekan dari remove, digunakan untuk menghapus file. Syntaxnya cukup mudah <code>rm filename</code>. Misalnya, untuk menghapus <code>file2.txt</code>, jalankan perintah <code>rm file2.txt</code>.<br>
+
+<p align="justify">
+Kita juga dapat menggunakan command <code>rm -r</code> untuk menghapus sebuah file, yang membedakan dengan command <code>rm</code> adalah jika argumen yang diberikan kepada command <code>rm -r</code> adalah sebuah direktori, maka sistem akan menghapus direktori tersebut beserta semua file dalam direktori dan juga subdirektori jika ada.<br><br>
 
 ## <code>rmdir</code>
 <p align="justify">
-Gunakan command <code>free</code> untuk menunjukkan jumlah total free dan user physical (RAM) dan swap memory di sistem Linux. Ini juga menampilkan buffer dan cache yang digunakan oleh kernel.<br><br>
+Command <code>rmdir</code> untuk menghapus sebuah direktori. MIsalnya, untuk menghapus direktori <code>folder1</code>, kita bisa jalankan command <code>rmdir folder1</code>.<br><br>
 
 ## <code>open</code>
 <p align="justify">
-Gunakan command <code>free</code> untuk menunjukkan jumlah total free dan user physical (RAM) dan swap memory di sistem Linux. Ini juga menampilkan buffer dan cache yang digunakan oleh kernel.<br><br>
-
+Untuk membuka file apapun dari command line dengan aplikasi default, cukup dengan mengetik <code>open</code> diikuti dengan nama file/path. Misalnya, kita ingin membuka <code>file1.txt</code>, maka jalankan command <code>open file1.txt</code>.<br><br>
 
 <br><br>
 <div align="justify">
