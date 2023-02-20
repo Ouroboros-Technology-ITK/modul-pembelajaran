@@ -1,6 +1,6 @@
 # Introduction
 <p align="center">
-<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/Database.jpeg"> <h5 align="center">Source: https://www.gramedia.com/best-seller/apa-itu-database/</h5><br>
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/Linux-Imager.jpeg"> <h5 align="center">Source: https://id.wikipedia.org/wiki/Kernel_Linux</h5><br>
 
 <p align="justify">
 Pada pembahasan materi terminal akan dibutuhkan sistem operasi berbasis Linux. Tapi jangan khawatir, untuk pengguna Windows kita bisa menginstall WSL (<em>Windows Subsystem for Linux</em>) agar kita bisa menggunakan terminal berbasis Linux meskipun menggunakan sistem operasi Windows.<br>
@@ -45,7 +45,7 @@ atau menggunakan <strong>Windows 11</strong>.</p>
 Untuk memeriksa versi dan nomor Build kita, tekan tombol Windows + R, lalu ketik <code>winver</code>, pilih OK.
 
 <p align="center">
-<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/Database.jpeg"> <h5 align="center">Source: https://www.gramedia.com/best-seller/apa-itu-database/</h5><br>
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/winver.png"><br>
 
 ## Step By Step Installing WSL
 <p align="justify">
