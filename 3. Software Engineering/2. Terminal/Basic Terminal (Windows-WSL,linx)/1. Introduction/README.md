@@ -27,6 +27,7 @@ Untuk update ke WSL 2, kita harus menggunakan **Windows 10**: </p>
   <li>Untuk sistem x64: Versi 1903 atau yang lebih baru, dengan Build 18362 atau yang lebih bagus.</li>
   <li>Untuk sistem ARM64: Versi 2004 atau yang lebih baru, dengan Build 19041 atau yang lebih baru.</li>
 </ul>
+<p align="justify">
 atau menggunakan **Windows 11**.
 > info: Build yang lebih rendah dari Build 18362 tidak mendukung WSL 2.
 
