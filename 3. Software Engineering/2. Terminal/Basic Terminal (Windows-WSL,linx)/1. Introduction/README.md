@@ -32,8 +32,8 @@ atau menggunakan <strong>Windows 11</strong>.</p>
 > info: Build yang lebih rendah dari Build 18362 tidak mendukung WSL 2.
 
 <p align="center">
-    <a href="https://youtu.be/48k317kOxqg" target="_blank"><img src="https://img.youtube.com/vi/48k317kOxqg/0.jpg"></a> 
-    <h5 align="center">Source: What Can I Do With WSL? | One Dev Question</h5>
+    <a href="https://www.youtube.com/watch?v=MrZolfGm8Zk" target="_blank"><img src="https://img.youtube.com/vi/MrZolfGm8Zk/0.jpg"></a> 
+    <h5 align="center">Source: WSL2: Code Faster On The Windows Subsystem For Linux! | Tabs vs Space</h5>
 <p>
 <div align="justify">
     <!-- Prev Page -->
