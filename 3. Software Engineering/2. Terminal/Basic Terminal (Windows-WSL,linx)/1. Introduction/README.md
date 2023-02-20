@@ -96,22 +96,38 @@ Restart komputer untuk menyelesaikan penginstalan dan pembaruan ke WSL 2.
 <p align="justify">
 Pada distributin Ubuntu yang baru saja diinstall, kita akan disambut dengan terminal Linux. COba jalankan beberapa perintah Linux:</p>
 
-- <strong>Melihat posisi path kita saat ini</strong>
+- <strong>Where Am I?</strong>
 <p align="justify">
-Gunakan perintah dasar Linux pwd untuk menemukan path direktori kerja Anda saat ini. Cukup sengan memasukkan pwd, path saat ini akan ditampilkan penuh, yaitu path semua direktori yang diawali dengan garis miring (/). Misalnya, /home/username..<br>
-  
+Gunakan perintah dasar Linux <code>pwd</code> untuk menemukan path direktori kerja kita saat ini. <code>pwd</code> adalah kependekan dari "<em>print working directory</em>". Kita hanya perlu memasukkan <code>pwd</code>, path saat ini akan ditampilkan penuh, yaitu path semua direktori yang diawali dengan garis miring (/). Misalnya, /home/username.<br>
 
-  ```ubuntu
-  [user@localhost]$ pwd
+  ```
+  $ pwd
+  /Users/onyxfish
   ```
   
-- <strong>Pindah posisi folder</strong>
+<p align="justify">
+Ada dua opsi yang bisa digunakan:
+- <code>-L</code> atau <code>–logical</code> menampilkan konten variabel environment, termasuk link simbolik.
+- <code>-P</code> atau <code>–physical</code> menampilkan path aktual direktori saat ini.
 
-  ```ubuntu
-  [user@localhost]$ cd GIT/respository-git/
+- <strong>Going There</strong>
+<p align="justify">
+Gunakan perintah dasar Linux <code>cd</code> untuk menjelajahi file dan direktori Linux. Perintah Linux ini memerlukan path penuh atau nama direktori, tergantung pada direktori kerja kita saat ini. <code>cd</code> adalah kependekan dari "<em>change directory</em>". Misalnya saat ini kita sedang ingin beralih ke direktori baru, misalnya /Users/onyxfish/Documents, maka kita perlu mengetikkan cd diikuti path absolut direktori tersebut:
+
+  ```
+  $ cd /Users/onyxfish/Documents
   ```
 
-- <strong>Melihat daftar isi dari folder termasuk hidden file</strong>
+- <strong>What's Here/</strong>
+<p align="justify">
+Gunakan perintah dasar Linux <code>ls</code>  untuk melihat file dan direktori pada sistem. Menjalankannya tanpa flag atau parameter akan menampilkan konten direktori kerja saat ini. <code>cd</code> adalah kependekan dari "<em>change directory</em>". Misalnya saat ini kita sedang ingin beralih ke direktori baru, misalnya /Users/onyxfish/Documents, maka kita perlu mengetikkan cd diikuti path absolut direktori tersebut:
+
+  ```
+  $ cd /Users/onyxfish/Documents
+  ```
+
+
+
 - <strong>Membuat file kosong bernama <code>index.html</code></strong>
 - <strong>Update package Linux</strong>
 
