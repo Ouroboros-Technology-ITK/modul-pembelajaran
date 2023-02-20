@@ -6,7 +6,7 @@ Saat bekerja menggunakan command line, aktivitas membuat atau mengedit file teks
 <p align="justify">
 GNU nano adalah teks editor terminal yang mudah digunakan untuk OS Unix dan Linux. Nano mencakup semua fungsi dasar yang diharapkan dari teks editor biasa seperti penyorotan sintaks, multiple buffer, search dan replace dengan dukungan reguler ecpression, periksa ejaan, UTH-8 encoding, dll.<br><br>
 
-## How To User Nano
+## How To Use Nano
 <p align="justify">
 Untuk mengecek ketersediaan dan versi Nano di sistem operasi yang dimiliki, jalankan command atau perintah di bawah ini:
 
@@ -83,22 +83,21 @@ Di bagian bawah jendela terdapat shortcut yang dapat digunakan pada Nano text ed
 
 ## Cara Mencari dan Mengganti Teks
 <p align="justify">
-Command <code>w</code> menunjukkan siapa yang logged on dan apa yang mereka lakukan termasuk waktu aktif.<br>
+Tekan tombol <code>ctrl + w</code> untuk mencari teks. Masukkan value dan tekan enter. Jika ingin mencari teks yang sama, tekan tombol <code>alt + w</code>.<br>
 
-<p align="center">
-<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/w.png"><br><br>
-
-## <code>whoami</code>
 <p align="justify">
-Command <code>whoami</code> digunakan untuk menampilkan username pengguna saat ini.<br><br>
+Untuk mencari dan mengganti teks, tekan tombol <code>ctrl + w</code>. Setelah itu, tekan tombol <code>ctrl + r</code> untuk menambahkan teks yang akan dicari dan teks yang akan menggantikannya. Lalu kita akan diarahkan ke instance pertama dari teks yang dituju. Tekan tombol <code>Y</code> untuk mengganti satu teks atau <code>A</code> untuk mengganti semua instance.<br>
 
-## <code>uname -a</code>
 <p align="justify">
-Untuk mengetahui seluruh informasi terkait sistem yang kita miliki, kita dapat menjalankan command <code>uname -a</code> yang akan menampilkan informasi terkait system name, hostname, kernel-version, kernel release, dan machine hardware name kita.<br><br>
+Jika ingin kembali ke keadaan awal setelah mengetikkan shortcut, gunakan <code>ctrl + c</code> untuk membatalkan proses saat ini.<br><br>
 
-## <code>cat /proc/cpuinfo</code>
+## Cara Edit Teks
 <p align="justify">
-<code>cat /proc/cpuinfo</code> menampilkan jenis prosesor yang dijalankan sistem kita, termasuk jumlah CPU yang ada.<br><br>
+Di bagian bawah jendela terdapat shortcut yang dapat digunakan pada Nano text editor. Tanda "<code>^</code>" (caret) menunjukkan untuk menekan tombol <code>ctrl</code> (Windows) atau <code>control</code> (macOS). Berikut beberapa contohnya:</p>
+<ul style="list-style-type:circle;">
+  <li>Tekan tombol <code>ctrl + o</code> untuk menyimpan perubahan yang dibuat di file dan melanjutkkan proses editing.</li>
+  <li>Tekan tombol <code>ctrl + x</code> untuk keluar dari editor.</li>
+</ul><br>
 
 ## <code>cat /proc/meminfo</code>
 <p align="justify">
