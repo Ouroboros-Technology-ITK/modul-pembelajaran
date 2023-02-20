@@ -18,8 +18,22 @@ WSL adalah fitur opsional Windows yang memungkinkan program Linux beejalan secar
 <p align="center">
     <a href="https://youtu.be/48k317kOxqg" target="_blank"><img src="https://img.youtube.com/vi/48k317kOxqg/0.jpg"></a> 
     <h5 align="center">Source: What Can I Do With WSL? | One Dev Question</h5>
-<p>
+<p><br>
 
+## What Is WSL ?
+<p align="justify">
+Untuk update ke WSL 2, kita harus menggunakan **Windows 10**: </p>
+<ul style="list-style-type:circle;" style="text-align:justify">
+  <li>Untuk sistem x64: Versi 1903 atau yang lebih baru, dengan Build 18362 atau yang lebih bagus.</li>
+  <li>Untuk sistem ARM64: Versi 2004 atau yang lebih baru, dengan Build 19041 atau yang lebih baru.</li>
+</ul>
+atau menggunakan **Windows 11**.
+> info: Build yang lebih rendah dari Build 18362 tidak mendukung WSL 2.
+
+<p align="center">
+    <a href="https://youtu.be/48k317kOxqg" target="_blank"><img src="https://img.youtube.com/vi/48k317kOxqg/0.jpg"></a> 
+    <h5 align="center">Source: What Can I Do With WSL? | One Dev Question</h5>
+<p>
 <div align="justify">
     <!-- Prev Page -->
     <a href="https://github.com/Ouroboros-Tech/modul-pembelajaran/tree/main/3.%20Software%20Engineering/1.%20Introduction/2.%20Day%20To%20Day" target="_blank"><img src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/left%20(1).png" align="left" height="50" width="50"></a>
