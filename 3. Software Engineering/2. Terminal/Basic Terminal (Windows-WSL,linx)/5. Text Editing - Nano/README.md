@@ -77,33 +77,50 @@ Berikut adalah tampilan interface dari Nano text editor setelah command diatas d
 <p align="justify">
 Di bagian bawah jendela terdapat shortcut yang dapat digunakan pada Nano text editor. Tanda "<code>^</code>" (caret) menunjukkan untuk menekan tombol <code>ctrl</code> (Windows) atau <code>control</code> (macOS). Berikut beberapa contohnya:</p>
 <ul style="list-style-type:circle;">
-  <li>Tekan tombol <code>ctrl + o</code> untuk menyimpan perubahan yang dibuat di file dan melanjutkkan proses editing.</li>
-  <li>Tekan tombol <code>ctrl + x</code> untuk keluar dari editor.</li>
+  <li>Tekan tombol <code>ctrl + O</code> untuk menyimpan perubahan yang dibuat di file dan melanjutkkan proses editing.</li>
+  <li>Tekan tombol <code>ctrl + X</code> untuk keluar dari editor.</li>
 </ul><br>
 
 ## Cara Mencari dan Mengganti Teks
 <p align="justify">
-Tekan tombol <code>ctrl + w</code> untuk mencari teks. Masukkan value dan tekan enter. Jika ingin mencari teks yang sama, tekan tombol <code>alt + w</code>.<br>
+Tekan tombol <code>ctrl + W</code> untuk mencari teks. Masukkan value dan tekan enter. Jika ingin mencari teks yang sama, tekan tombol <code>alt + W</code>.<br>
 
 <p align="justify">
-Untuk mencari dan mengganti teks, tekan tombol <code>ctrl + w</code>. Setelah itu, tekan tombol <code>ctrl + r</code> untuk menambahkan teks yang akan dicari dan teks yang akan menggantikannya. Lalu kita akan diarahkan ke instance pertama dari teks yang dituju. Tekan tombol <code>Y</code> untuk mengganti satu teks atau <code>A</code> untuk mengganti semua instance.<br>
+Untuk mencari dan mengganti teks, tekan tombol <code>ctrl + W</code>. Setelah itu, tekan tombol <code>ctrl + R</code> untuk menambahkan teks yang akan dicari dan teks yang akan menggantikannya. Lalu kita akan diarahkan ke instance pertama dari teks yang dituju. Tekan tombol <code>Y</code> untuk mengganti satu teks atau <code>A</code> untuk mengganti semua instance.<br>
 
 <p align="justify">
 Jika ingin kembali ke keadaan awal setelah mengetikkan shortcut, gunakan <code>ctrl + c</code> untuk membatalkan proses saat ini.<br><br>
 
 ## Cara Edit Teks
 <p align="justify">
-Di bagian bawah jendela terdapat shortcut yang dapat digunakan pada Nano text editor. Tanda "<code>^</code>" (caret) menunjukkan untuk menekan tombol <code>ctrl</code> (Windows) atau <code>control</code> (macOS). Berikut beberapa contohnya:</p>
+Berikut ini adalah shortcut yang sering digunakan pada saat mengetik teks di Nano:</p>
 <ul style="list-style-type:circle;">
-  <li>Tekan tombol <code>ctrl + o</code> untuk menyimpan perubahan yang dibuat di file dan melanjutkkan proses editing.</li>
-  <li>Tekan tombol <code>ctrl + x</code> untuk keluar dari editor.</li>
+  <li>Untuk memilih teks, arahkan kursor ke depan teks yang diinginkan dan tekan tombol <code>alt + A</code>. Shortcut ini akan menandai teks yang dikehendaki. Gerakkan kursor di sekitar teks dengan menggunakan tombol bertanda anak panah.</li>
+  <li>Tekan tombol <code>alt + 6</code> untuk menyalin dan meletakkan teks yang dipilih ke clipboard.</li>
+  <li>Tekan tombol <code>ctrl + K</code> untuk memotong teks yang dimaksud.</li>
+  <li>Tekan tombol <code>ctrl + U</code> untuk meletekkan (paste) teks, navigasi ke baris yang dituju.</li>
 </ul><br>
 
-## <code>cat /proc/meminfo</code>
+## Shortcut Nano
 <p align="justify">
-<code>cat /proc/meminfo</code> digunakan untuk menampilkan jumlah memori yang kosong dan yang digunakan (baik fisik maupun swap) pada sistem serta shared memory dan buffer yang digunakan oleh kernel.<br><br>
+Berikut adalah tabel yang berisikan command yang sering digunakna saat menggunakan Nano teks editor:
 
+| COMMAND  | PENJELASAN                                                                     |
+|----------|--------------------------------------------------------------------------------|
+| ctrl + A | Pindah ke awal baris.                                                          |
+| ctrl + E | Pindah ke akhir baris.                                                         |
+| ctrl + Y | Scroll ke bawah halaman.                                                       |
+| ctrl + v | Scroll ke atas halaman.                                                        |
+| ctrl + G | Jendela Bantuan akan muncul dan menampilkan semua command yang bisa digunakan. |
+| ctrl + J | Merapikan paragraf yang ada.                                                   |
+| ctrl + C | Menampilkan posisi kursor di teks.                                             |
+| ctrl + X | Keluar dari Teks Editor                                                        |
+| ctrl + \ | Mengganti string atau regular expression.                                      |
+| ctrl + T | Mengaktifkan tool pemeriksa ejaan, jika tersedia.                              |
+| ctrl + _ | Pindah ke baris dan nomor kolom yang spesifik.                                 |
 
+<p align="justify">
+Selengkapnya dapat dilihat di <a href="https://www.nano-editor.org/docs.php" target="_blank"><strong>Nano Text Editor Documentation</strong></a>.<br><br>
 
 <br><br>
 <div align="justify">
