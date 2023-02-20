@@ -10,8 +10,8 @@ Pada pembahasan materi terminal akan dibutuhkan sistem operasi berbasis Linux. T
 WSL adalah fitur opsional Windows yang memungkinkan program Linux beejalan secara native di Windows. Hal yang dapat kita lakukan dengan menggunakna WSL adalah sebagai berikut: </p>
 <ul style="list-style-type:circle;" style="text-align:justify">
   <li>Memilih distribusi GNU/Linux dari Microsoft Store.</li>
-  <li><code>Menjalankan command line tools yang umum seperti `ls -la`, `touch`, `grep` atau perintah Linux lainnya.</code></li>
-  <li>Menjalankan aplikasi terminal base GNU/Linux termasuk tools text editor: `vim` dan `nano`.</li>
+  <li>Menjalankan command line tools yang umum seperti <code>ls -la</code>, <code>touch</code>, <code>grap</code> atau perintah Linux lainnya.</li>
+  <li>Menjalankan aplikasi terminal base GNU/Linux termasuk tools text editor: <code>vim</code> dan <code>nano</code>.</li>
   <li>Menginstall package manager tambahan menggunakan distribusi GNU/Linux.</li>
 </ul>
 
