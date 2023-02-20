@@ -18,6 +18,7 @@ WSL adalah fitur opsional Windows yang memungkinkan program Linux beejalan secar
 <iframe width="560" height="315" src="https://www.youtube.com/embed/48k317kOxqg?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
 
+<div align="jsutify">
     <!-- Prev Page -->
     <a href="https://github.com/Ouroboros-Tech/modul-pembelajaran/tree/main/3.%20Software%20Engineering/1.%20Introduction/2.%20Day%20To%20Day" target="_blank"><img src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/left%20(1).png" align="left" height="50" width="50"></a>
     <!-- Next Page -->
