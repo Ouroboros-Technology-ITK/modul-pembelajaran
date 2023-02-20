@@ -15,8 +15,9 @@ WSL adalah fitur opsional Windows yang memungkinkan program Linux beejalan secar
   <li>Menginstall package manager tambahan menggunakan distribusi GNU/Linux.</li>
 </ul><br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/48k317kOxqg?start=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55") 
 
 <div align="jsutify">
     <!-- Prev Page -->
