@@ -139,12 +139,10 @@ adt-bundle-mac			tmp
 android-sdk-macosx
 ```
 
-- Untuk melihat file apa yang ada di direktori yang berbeda:
+  - Untuk melihat file apa yang ada di direktori yang berbeda:
 
-
-
-  ```
-  $ ls Documents
+```
+$ ls Documents
 Arduino				android-workspace
 Aspyr				eagle
 GoPro Projects		gopromote.prm
@@ -156,12 +154,12 @@ Logans.band			piano 1.band
 MapBox				test.txt
 NACIS notes.txt		tyler-env.txt
 Roblox
-  ```
+```
   
-- Secara default, <code>ls</code> tidak akan menampilkan file yang namanya diberi tanda titik. Ini disebut file tersembunyi biasanya terkait dengan program konfigurasi. Namun, sangat berguna untuk melihat file-file ini, yang dapat kalian lakukan dengan flag <code>-a</code>:
+  - Secara default, <code>ls</code> tidak akan menampilkan file yang namanya diberi tanda titik. Ini disebut file tersembunyi biasanya terkait dengan program konfigurasi. Namun, sangat berguna untuk melihat file-file ini, yang dapat kalian lakukan dengan flag <code>-a</code>:
   
-  ```
-  $ ls -a
+```
+$ ls -a
 .				        .pypirc
 ..				        .python-eggs
 .CFUserTextEncoding		.qgis
@@ -224,7 +222,7 @@ Roblox
 .pip			    	src
 .psql_history			syria
 .pylint.d		    	tmp
-  ```
+```
 <br>
 
 - <strong>Membuat file kosong bernama <code>index.html</code></strong>
