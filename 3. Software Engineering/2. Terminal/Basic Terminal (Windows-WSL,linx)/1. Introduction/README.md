@@ -13,8 +13,9 @@ WSL adalah fitur opsional Windows yang memungkinkan program Linux beejalan secar
   <li>Menjalankan command line tools yang umum seperti `ls -la`, `touch`, `grep` atau perintah Linux lainnya.</li>
   <li>Menjalankan aplikasi terminal base GNU/Linux termasuk tools text editor: `vim` dan `nano`.</li>
   <li>Menginstall package manager tambahan menggunakan distribusi GNU/Linux.</li>
-</ul><br>
+</ul>
 
+<p align="justify">
 [![Click To Play On Youtube](https://img.youtube.com/vi/48k317kOxqg/0.jpg)](https://youtu.be/48k317kOxqg)
 
 <div align="jsutify">
