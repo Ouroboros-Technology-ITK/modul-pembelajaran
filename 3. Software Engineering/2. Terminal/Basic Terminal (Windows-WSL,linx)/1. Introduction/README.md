@@ -22,7 +22,7 @@ WSL adalah fitur opsional Windows yang memungkinkan program Linux beejalan secar
 
 ## What Is WSL 2?
 <p align="justify">
-WSL 2 adalah versi terbaru dari WSL yang bertujuan untuk menambahkan kompabilitas pemanggilan sistem. Perbandingannya dengan WSL 1 dapat kita lihat pada halaman resminya di https://learn.microsoft.com/en-us/windows/wsl/
+WSL 2 adalah versi terbaru dari WSL yang bertujuan untuk menambahkan kompabilitas pemanggilan sistem. Perbandingannya dengan WSL 1 dapat kita lihat pada halaman resminya di <a href="https://learn.microsoft.com/en-us/windows/wsl/" target="_blank"><strong>learn.microsoft.com.</strong></a>
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=MrZolfGm8Zk" target="_blank"><img src="https://img.youtube.com/vi/MrZolfGm8Zk/0.jpg"></a> 
@@ -41,6 +41,20 @@ atau menggunakan <strong>Windows 11</strong>.</p>
 
 > info: Build yang lebih rendah dari Build 18362 tidak mendukung WSL 2.
 
+<p align="justify">
+Untuk memeriksa versi dan nomor Build kita, tekan tombol Windows + R, lalu ketik <code>winver</code>, pilih OK.
+
+<p align="center">
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/Database.jpeg"> <h5 align="center">Source: https://www.gramedia.com/best-seller/apa-itu-database/</h5><br>
+
+## Step By Step Installing WSL
+<p align="justify">
+UNtuk menginstall WSL secara simple, sebenarnya bsia menggunakan command <code>wsl --install</code>. Namun disini kita akan mencoba menginstall secara manual agar kita dapat mengetahui apa saja yang harus dilakukan untuk menjalankan WSL.<br>
+
+- <strong>Langkah 1</strong> - Aktifkan Windows Subsystem for Linux
+<p align="justify">
+Programmer adalah title yang biasa digunakan untuk menyebut orang yang sudah bsia membuat program/software dari awal sampai dengan bisa digunakan untuk menyelesaikan suatu problem.<br><br>
+Untuk menjadi seorang programmer, maka paling tidak harus menguasai dalam 1 buah bahasa pemrograman. Programmer sudah mulai mempelajari dan memahami secara dalam bagaimana cara kerja dari suatu syntax di dalam bahasa pemrograman.
 
 
 <div align="justify">
