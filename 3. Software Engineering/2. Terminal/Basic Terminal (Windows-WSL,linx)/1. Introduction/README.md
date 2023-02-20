@@ -74,7 +74,7 @@ Restart komputer untuk menyelesaikan penginstalan dan pembaruan ke WSL 2.
 - <strong>Langkah 3</strong> - Download Linux kernel update package
   - Download latest package: <a href="https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package" target="_blank"><strong>WSl 2 Linux Kernel Update Package</strong></a>
   - Run update package yang telah di download. (Double click untuk run, maka kita akan dimintai permissions, pilih Yes untuk menyetujui penginstalan)
-<br>
+<br><br>
 
 - <strong>Langkah 4</strong> - Set WSL 2 sebagai default version
 <p align="justify">
