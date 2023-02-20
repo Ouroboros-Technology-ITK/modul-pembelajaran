@@ -106,7 +106,7 @@ Gunakan perintah dasar Linux <code>pwd</code> untuk menemukan path direktori ker
   ```
   
 <p align="justify">
-Ada dua opsi yang bisa digunakan:
+Ada dua opsi yang bisa digunakan:</p>
 - <code>-L</code> atau <code>–logical</code> menampilkan konten variabel environment, termasuk link simbolik.
 - <code>-P</code> atau <code>–physical</code> menampilkan path aktual direktori saat ini.
 
