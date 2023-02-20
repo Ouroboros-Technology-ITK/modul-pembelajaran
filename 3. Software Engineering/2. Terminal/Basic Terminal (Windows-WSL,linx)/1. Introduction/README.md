@@ -16,7 +16,7 @@ WSL adalah fitur opsional Windows yang memungkinkan program Linux beejalan secar
 </ul>
 
 <p align="justify">
-<a href="https://youtu.be/48k317kOxqg" target="_blank"><img src="https://img.youtube.com/vi/48k317kOxqg/0.jpg" align="center" height="50" width="50"></a>
+<a href="https://youtu.be/48k317kOxqg" target="_blank"><img src="https://img.youtube.com/vi/48k317kOxqg/0.jpg" align="center" height="300rm"></a>
 
 
 <div align="jsutify">
