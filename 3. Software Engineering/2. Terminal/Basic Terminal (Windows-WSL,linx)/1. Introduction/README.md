@@ -15,7 +15,7 @@ WSL adalah fitur opsional Windows yang memungkinkan program Linux beejalan secar
   <li>Menginstall package manager tambahan menggunakan distribusi GNU/Linux.</li>
 </ul><br>
 
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/48k317kOxqg?autoplay=0&fs=1&iv_load_policy=3&showinfo=1&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/es/">youtubeembedcode.com/es/</a></small></div><div><small><a href="https://spindelharpan.nu/">patiens spindelharpan</a></small></div><div><small><a href="https://youtubeembedcode.com/nl/">youtubeembedcode.com/nl/</a></small></div><div><small><a href="https://harpangratis.se/">harpan stor</a></small></div><div><small><a href="https://youtubeembedcode.com/es/">youtubeembedcode es</a></small></div><div><small><a href="https://harpangratis.se/spindelharpan/">spindelharpan original</a></small></div><div><small><a href="https://youtubeembedcode.com/nl/">youtubeembedcode.com/nl/</a></small></div><div><small><a href="https://harpangratis.se/spindelharpan/">gratis spel spindelharpan</a></small></div><div><small><a href="https://youtubeembedcode.com/pl/">youtubeembedcode pl</a></small></div><div><small><a href="https://xn--mikroln-jxa.com/">snabblån 5000 mikrolån</a></small></div><div><small><a href="https://youtubeembedcode.com/de/">youtubeembedcode de</a></small></div><div><small><a href="https://spindelharpan.nu/harpan/">patiens harpan</a></small></div></iframe>
+[![Alt text](https://img.youtube.com/vi/48k317kOxqg/0.jpg)](https://youtu.be/48k317kOxqg)
 
 <div align="jsutify">
     <!-- Prev Page -->
