@@ -118,9 +118,17 @@ Berikut adalah tabel yang berisikan command yang sering digunakna saat menggunak
 | ctrl + \ | Mengganti string atau regular expression.                                      |
 | ctrl + T | Mengaktifkan tool pemeriksa ejaan, jika tersedia.                              |
 | ctrl + _ | Pindah ke baris dan nomor kolom yang spesifik.                                 |
+<br><br>
+
+## Why Use Nano
+<p align="justify">
+Jika kita berbicara soal penyuntingan atau pengeditan teks via command line, Nano adalah salah satu tool yang dapat diandalkan. Karena kemudahan penggunaannya, Nano sangat populer sebagi basic teks editor terutama unutk para pengguna Linux.<br>
 
 <p align="justify">
-Selengkapnya dapat dilihat di <a href="https://www.nano-editor.org/docs.php" target="_blank"><strong>Nano Text Editor Documentation</strong></a>.<br><br>
+MEksipun terkesan simple, Nano memiliki beberapa keunggulan diantaranya yaitu memperbolehkan kita untuk menyalin, meletakkan, memilih, dan mencari teks. Juga ada bar di bagian bawah editor yang menampilkan berbagai shortcut fungsional dari Nano. Nano dapat digunakan baik oleh user pemula maupun yang sudah berpengalaman.<br>
+
+<p align="justify">
+Dokumentasi selengkapnya mengenai Nano Teks Editor dapat dilihat di <a href="https://www.nano-editor.org/docs.php" target="_blank"><strong>https://www.nano-editor.org/docs.php</strong></a>.<br><br>
 
 <br><br>
 <div align="justify">
