@@ -1,3 +1,22 @@
+# Introduction
+<p align="center">
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/Database.jpeg"> <h5 align="center">Source: https://www.gramedia.com/best-seller/apa-itu-database/</h5><br>
+
+<p align="justify">
+Pada pembahasan materi terminal akan dibutuhkan sistem operasi berbasis Linux. Tapi jangan khawatir, untuk pengguna Windows kita bisa menginstall WSL (<em>Windows Subsystem for Linux</em>) agar kita bisa menggunakan terminal berbasis Linux meskipun menggunakan sistem operasi Windows.<br>
+
+## What Is WSL ?
+<p align="justify">
+WSL adalah fitur opsional Windows yang memungkinkan program Linux beejalan secara native di Windows. Hal yang dapat kita lakukan dengan menggunakna WSL adalah sebagai berikut: 
+<ul style="list-style-type:circle;" style="text-align:justify">
+  <li>Memilih distribusi GNU/Linux dari Microsoft Store.</li>
+  <li>Menjalankan command line tools yang umum seperti `ls -la`, `touch`, `grep` atau perintah Linux lainnya.</li>
+  <li>Menjalankan aplikasi terminal base GNU/Linux termasuk tools text editor: `vim` dan `nano`.</li>
+  <li>Menginstall package manager tambahan menggunakan distribusi GNU/Linux.</li>
+</ul><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/48k317kOxqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <br><br>
 <div align="justify">
     <!-- Prev Page -->
