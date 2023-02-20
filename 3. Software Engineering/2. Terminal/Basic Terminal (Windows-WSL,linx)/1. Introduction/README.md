@@ -103,13 +103,6 @@ Gunakan perintah dasar Linux <code>pwd</code> untuk menemukan path direktori ker
   $ pwd
   /Users/onyxfish
   ```
-  
-<p align="justify">
-Ada dua opsi yang bisa digunakan:</p>
-<ul style="list-style-type:circle;" style="text-align:justify">
-  <li><code>-L</code> atau <code>–logical</code> menampilkan konten variabel environment, termasuk link simbolik.</li>
-  <li><code>-P</code> atau <code>–physical</code> menampilkan path aktual direktori saat ini.</li>
-</ul>
 
 - <strong>Going There</strong>
 <p align="justify">
@@ -121,13 +114,112 @@ Gunakan perintah dasar Linux <code>cd</code> untuk menjelajahi file dan direktor
 
 - <strong>What's Here/</strong>
 <p align="justify">
-Gunakan perintah dasar Linux <code>ls</code>  untuk melihat file dan direktori pada sistem. Menjalankannya tanpa flag atau parameter akan menampilkan konten direktori kerja saat ini. <code>cd</code> adalah kependekan dari "<em>change directory</em>". Misalnya saat ini kita sedang ingin beralih ke direktori baru, misalnya /Users/onyxfish/Documents, maka kita perlu mengetikkan cd diikuti path absolut direktori tersebut:
+Gunakan perintah dasar Linux <code>ls</code>  untuk melihat file dan direktori pada sistem. Menjalankannya tanpa flag atau parameter akan menampilkan konten direktori kerja saat ini.
+  - Untuk melihat file apa yang ada di dalam direktori kerja saat ini, gunakan perintah <code>ls</code>: 
 
   ```
-  $ cd /Users/onyxfish/Documents
+  $ ls
+Applications			bin
+Confidential			confidential.py
+Desktop				    confidential2.tc
+Documents			    external_lbrs
+Downloads			    feed.json
+Dropbox				    feed.py
+Library				    floobits
+Movies				    gitconfig
+Music				    google_analytics_auth.dat
+Pictures			    pgadmin.log
+Public				    s3cfg
+SpiderOak Hive			src
+VirtualBox VMs			syria
+adt-bundle-mac			tmp
+android-sdk-macosx
   ```
 
+- Untuk melihat file apa yang ada di direktori yang berbeda:
 
+  ```
+  $ ls Documents
+Arduino				android-workspace
+Aspyr				eagle
+GoPro Projects		gopromote.prm
+Hero Lab			nicar_expenses.pdf
+Klei				nicar_receipts.pdf
+Library				orchard bank travel number.txt
+Logan.game			pedagogy.txt
+Logans.band			piano 1.band
+MapBox				test.txt
+NACIS notes.txt		tyler-env.txt
+Roblox
+  ```
+  
+  - Secara default, ls tidak akan menampilkan file yang namanya diberi tanda titik. Ini disebut file tersembunyi biasanya terkait dengan program konfigurasi. Namun, sangat berguna untuk melihat file-file ini, yang dapat kalian lakukan dengan flag <code>-a</code>:
+  
+    ```
+  $ ls -a
+.				        .pypirc
+..				        .python-eggs
+.CFUserTextEncoding		.qgis
+.DS_Store			    .qgis2
+.MacOSX			    	.relay.conf
+.NERDTreeBookmarks		.rnd
+.Platformer		       	.rstudio-desktop
+.Rhistory			    .s3cfg
+.Rube Goldberg			.spyder2
+.Trash			    	.sqlite_history
+.Xauthority		    	.ssh
+.android		    	.subversion
+.anyconnect		    	.teamocil
+.bash_history			.tilemill
+.bash_profile			.tmux.conf
+.build			    	.tox
+.cache			    	.uibtedbn
+.clan_auth.dat			.vagrant.d
+.clan_secrets.json		.vim
+.config			    	.viminfo
+.cordova		    	.viminfo.tmp
+.cups			    	.viminfz.tmp
+.distlib		    	.vimrc
+.dropbox		    	.virtualenvs
+.dropbox-master			.wireshark
+.eaglerc		    	.wireshark-etc
+.ec2			    	.ypp_42
+.floorc		    		.zcompdump
+.fontconfig		    	.zcompdump-nomad-5.0.2
+.gem			    	.zprofile
+.gitconfig		    	.zsh-update
+.gitsh_history			.zsh_history
+.gnome2			    	.zshrc
+.gnupg			    	Applications
+.goaccessrc		    	Confidential
+.godot			    	Desktop
+.haxelib		    	Documents
+.heroku			    	Downloads
+.hkzftsorc		    	Dropbox
+.hxcpp_config.xml		Library
+.hxcpp_config.xml.bak	Movies
+.ievms			      	Music
+.infinit		    	Pictures
+.inkscape-etc			Public
+.ipython		    	SpiderOak Hive
+.keybase		    	VirtualBox VMs
+.keybase-installer		adt-bundle-mac
+.lesshst		    	android-sdk-macosx
+.lighttable		    	bin
+.local			    	confidential.py
+.matplotlib		    	confidential2.tc
+.mongorc.js		    	external_lbrs
+.netrc			    	feed.json
+.ngrok			    	feed.py
+.node-gyp		    	floobits
+.npm			    	gitconfig
+.oh-my-zsh		    	google_analytics_auth.dat
+.pgadmin_histoqueries	pgadmin.log
+.pgpass			    	s3cfg
+.pip			    	src
+.psql_history			syria
+.pylint.d		    	tmp
+  ```
 
 - <strong>Membuat file kosong bernama <code>index.html</code></strong>
 - <strong>Update package Linux</strong>
