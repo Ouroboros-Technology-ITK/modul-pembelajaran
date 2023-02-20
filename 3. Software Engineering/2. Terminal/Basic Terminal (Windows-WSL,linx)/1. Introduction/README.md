@@ -153,9 +153,9 @@ NACIS notes.txt		tyler-env.txt
 Roblox
   ```
   
-  - Secara default, ls tidak akan menampilkan file yang namanya diberi tanda titik. Ini disebut file tersembunyi biasanya terkait dengan program konfigurasi. Namun, sangat berguna untuk melihat file-file ini, yang dapat kalian lakukan dengan flag <code>-a</code>:
+  - Secara default, <code>ls</code> tidak akan menampilkan file yang namanya diberi tanda titik. Ini disebut file tersembunyi biasanya terkait dengan program konfigurasi. Namun, sangat berguna untuk melihat file-file ini, yang dapat kalian lakukan dengan flag <code>-a</code>:
   
-    ```
+  ```
   $ ls -a
 .				        .pypirc
 ..				        .python-eggs
