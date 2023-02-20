@@ -29,6 +29,7 @@ Untuk update ke WSL 2, kita harus menggunakan <strong>Windows 10</strong>. </p>
 </ul>
 <p align="justify">
 atau menggunakan <strong>Windows 11</strong>.</p>
+
 > info: Build yang lebih rendah dari Build 18362 tidak mendukung WSL 2.
 
 <p align="center">
