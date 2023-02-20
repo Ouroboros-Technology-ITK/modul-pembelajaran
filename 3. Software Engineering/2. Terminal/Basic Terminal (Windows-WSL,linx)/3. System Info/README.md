@@ -5,7 +5,7 @@
 Kita dapat mencari informasi terkait tanggal dan waktu hari ini menggunakan terminal dengan menjalankan command <code>date</code> seperti contoh di bawah ini.<br>
 
 <p align="center">
-<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/date.png"><h5 align="center">Source: Command <code>date</code> mengikuti konfigurasi yang ada di OS kita. Seperti zona waktu, bahasa yang digunakan dan lainnya. Contoh di atas adalah informasi tanggal dengan konfigurasi zona waktu GMT +7 atau WIB dan Bahasa Indonesia.</h5<br><br>
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/date.png"><h5 align="center">Source: Command <code>date</code> mengikuti konfigurasi yang ada di OS kita. Seperti zona waktu, bahasa yang digunakan dan lainnya. Contoh di atas adalah informasi tanggal dengan konfigurasi zona waktu GMT +7 atau WIB dan Bahasa Indonesia.</h5><br><br>
 
 ## <code>cal</code>
 <p align="justify">
@@ -34,23 +34,23 @@ Command <code>whoami</code> digunakan untuk menampilkan username pengguna saat i
 
 ## <code>uname -a</code>
 <p align="justify">
-Untuk mengetahui seluruh informasi terkait sistem yang kita miliki, kita dapat menjalankan command <code>uname -a</code> yang akan menampilkan informasi terkait system name, hostname, kernel-version, kernel release, dan machine hardware name kita.<br>
+Untuk mengetahui seluruh informasi terkait sistem yang kita miliki, kita dapat menjalankan command <code>uname -a</code> yang akan menampilkan informasi terkait system name, hostname, kernel-version, kernel release, dan machine hardware name kita.<br><br>
 
 ## <code>cat /proc/cpuinfo</code>
 <p align="justify">
-<code>cat /proc/cpuinfo</code> menampilkan jenis prosesor yang dijalankan sistem kita, termasuk jumlah CPU yang ada.
+<code>cat /proc/cpuinfo</code> menampilkan jenis prosesor yang dijalankan sistem kita, termasuk jumlah CPU yang ada.<br><br>
 
 ## <code>cat /proc/meminfo</code>
 <p align="justify">
-<code>cat /proc/meminfo</code> digunakan untuk menampilkan jumlah memori yang kosong dan yang digunakan (baik fisik maupun swap) pada sistem serta shared memory dan buffer yang digunakan oleh kernel.
+<code>cat /proc/meminfo</code> digunakan untuk menampilkan jumlah memori yang kosong dan yang digunakan (baik fisik maupun swap) pada sistem serta shared memory dan buffer yang digunakan oleh kernel.<br><br>
 
 ## <code>df -h</code>
 <p align="justify">
-Secara default, command <code>df</code> menunjukkan disk space dalam blok 1 kilobyte dan ukuran disk space yang digunakan dan tersedia dalam kilobyte. Untuk menampilkan informasi tentang disk drive dalam format yang dapat dibaca manusia (kilobyte, megabyte, gigabyte, dan sebagainya), jalankan command <code>df</code> dengan opsi <code>-h</code>.
+Secara default, command <code>df</code> menunjukkan disk space dalam blok 1 kilobyte dan ukuran disk space yang digunakan dan tersedia dalam kilobyte. Untuk menampilkan informasi tentang disk drive dalam format yang dapat dibaca manusia (kilobyte, megabyte, gigabyte, dan sebagainya), jalankan command <code>df</code> dengan opsi <code>-h</code>.<br><br>
 
 ## <code>free</code>
 <p align="justify">
-Gunakan command <code>free</code> untuk menunjukkan jumlah total free dan user physical (RAM) dan swap memory di sistem Linux. Ini juga menampilkan buffer dan cache yang digunakan oleh kernel.
+Gunakan command <code>free</code> untuk menunjukkan jumlah total free dan user physical (RAM) dan swap memory di sistem Linux. Ini juga menampilkan buffer dan cache yang digunakan oleh kernel.<br><br>
 
 <br><br>
 <div align="justify">
