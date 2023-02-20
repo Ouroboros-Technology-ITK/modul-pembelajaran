@@ -54,7 +54,10 @@ UNtuk menginstall WSL secara simple, sebenarnya bisa menggunakan command <code>w
 - <strong>Langkah 1</strong> - Aktifkan Windows Subsystem for Linux
 <p align="justify">
 Buka PowerShell sebagai Administrator (tekan Windows > ketik "PowerShell" > klik kanan > pilih Run As Administrator) dan masukkan perintah ini. 
-```dism.exe /online /enable-featur /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart```<br>
+
+```
+dism.exe /online /enable-featur /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+```<br>
 Untuk menjadi seorang programmer, maka paling tidak harus menguasai dalam 1 buah bahasa pemrograman. Programmer sudah mulai mempelajari dan memahami secara dalam bagaimana cara kerja dari suatu syntax di dalam bahasa pemrograman.
 
 
