@@ -9,7 +9,7 @@ Kita dapat mencari informasi terkait tanggal dan waktu hari ini menggunakan term
 
 ## <code>cal</code>
 <p align="justify">
-Untuk menampilkan calendar bulan ini pada terminal kita dapat menjalankan command<code>cal</code> .<br>
+Untuk menampilkan calendar bulan pada terminal kita dapat menjalankan command<code>cal</code>.<br>
 
 <p align="center">
 <img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/cal.png"><br><br>
