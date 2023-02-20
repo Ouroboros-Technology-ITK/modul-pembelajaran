@@ -60,7 +60,7 @@ sudo ls /root
 ```
 <br>
 
-## Examples Of Sudo in Linuz
+## Examples Of Sudo in Linux
 <p align="justify">
 Contoh basic penggunaan <code>sudo</code> adalah ketika kita ingin melakukan udpate package repository dengan menjalankan perintah dibwah ini:
 
