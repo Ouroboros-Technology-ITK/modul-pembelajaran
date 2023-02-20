@@ -7,7 +7,7 @@ Pada pembahasan materi terminal akan dibutuhkan sistem operasi berbasis Linux. T
 
 ## What Is WSL ?
 <p align="justify">
-WSL adalah fitur opsional Windows yang memungkinkan program Linux beejalan secara native di Windows. Hal yang dapat kita lakukan dengan menggunakna WSL adalah sebagai berikut `asd`: </p>
+WSL adalah fitur opsional Windows yang memungkinkan program Linux beejalan secara native di Windows. Hal yang dapat kita lakukan dengan menggunakna WSL adalah sebagai berikut 'a': </p>
 <ul style="list-style-type:circle;" style="text-align:justify">
   <li>Memilih distribusi GNU/Linux dari Microsoft Store.</li>
   <li>Menjalankan command line tools yang umum seperti `ls -la`, `touch`, `grep` atau perintah Linux lainnya.</li>
