@@ -5,7 +5,7 @@
 Kita dapat mencari informasi terkait tanggal dan waktu hari ini menggunakan terminal dengan menjalankan command <code>date</code> seperti contoh di bawah ini.<br>
 
 <p align="center">
-<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/date.png"><h5 align="center">Source: Command <code>date</code> mengikuti konfigurasi yang ada di OS kita. Seperti zona waktu, bahasa yang digunakan dan lainnya. Contoh di atas adalah informasi tanggal dengan konfigurasi zona waktu GMT +7 atau WIB dan Bahasa Indonesia.</h5><br><br>
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/date.png"> <h5 align="center">Source: Command <code>date</code> mengikuti konfigurasi yang ada di OS kita. Seperti zona waktu, bahasa yang digunakan dan lainnya. Contoh di atas adalah informasi tanggal dengan konfigurasi zona waktu GMT +7 atau WIB dan Bahasa Indonesia.</h5><br>
 
 ## <code>cal</code>
 <p align="justify">
