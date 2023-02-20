@@ -49,11 +49,12 @@ Untuk memeriksa versi dan nomor Build kita, tekan tombol Windows + R, lalu ketik
 
 ## Step By Step Installing WSL
 <p align="justify">
-UNtuk menginstall WSL secara simple, sebenarnya bsia menggunakan command <code>wsl --install</code>. Namun disini kita akan mencoba menginstall secara manual agar kita dapat mengetahui apa saja yang harus dilakukan untuk menjalankan WSL.<br>
+UNtuk menginstall WSL secara simple, sebenarnya bisa menggunakan command <code>wsl --install</code>. Namun disini kita akan mencoba menginstall secara manual agar kita dapat mengetahui apa saja yang harus dilakukan untuk menjalankan WSL.<br>
 
 - <strong>Langkah 1</strong> - Aktifkan Windows Subsystem for Linux
 <p align="justify">
-Programmer adalah title yang biasa digunakan untuk menyebut orang yang sudah bsia membuat program/software dari awal sampai dengan bisa digunakan untuk menyelesaikan suatu problem.<br><br>
+Buka PowerShell sebagai Administrator (tekan Windows > ketik "PowerShell" > klik kanan > pilih Run As Administrator) dan masukkan perintah ini. 
+```dism.exe /online /enable-featur /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart```<br>
 Untuk menjadi seorang programmer, maka paling tidak harus menguasai dalam 1 buah bahasa pemrograman. Programmer sudah mulai mempelajari dan memahami secara dalam bagaimana cara kerja dari suatu syntax di dalam bahasa pemrograman.
 
 
