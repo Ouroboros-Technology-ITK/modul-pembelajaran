@@ -84,7 +84,6 @@ wsl --set-default-version 2
 
 Restart komputer untuk menyelesaikan penginstalan dan pembaruan ke WSL 2.
 
-
 - <strong>Langkah 5</strong> - Install Linux distribution
   - Buka Microsoft Store dan search Linux distributin.
   - Kita akan membutuhkan <a href="https://www.microsoft.com/store/productId/9PN20MSR04DW" target="_blank"><strong>Ubuntu 22.04 LTS</strong></a>.
@@ -107,8 +106,10 @@ Gunakan perintah dasar Linux <code>pwd</code> untuk menemukan path direktori ker
   
 <p align="justify">
 Ada dua opsi yang bisa digunakan:</p>
-- <code>-L</code> atau <code>–logical</code> menampilkan konten variabel environment, termasuk link simbolik.
-- <code>-P</code> atau <code>–physical</code> menampilkan path aktual direktori saat ini.
+<ul style="list-style-type:circle;" style="text-align:justify">
+  <li><code>-L</code> atau <code>–logical</code> menampilkan konten variabel environment, termasuk link simbolik.</li>
+  <li><code>-P</code> atau <code>–physical</code> menampilkan path aktual direktori saat ini.</li>
+</ul>
 
 - <strong>Going There</strong>
 <p align="justify">
