@@ -7,14 +7,14 @@ Jika kita tidak tahu cara menggunakan command tertentu, cukup ketik command yang
 <p align="center">
 <img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/man-help.png"><br><br>
 
-## <code>man <command name></code>
+## <code>man</code>
 <p align="justify">
 <code>man</code> digunakan ketika kita ingin mendapatkan user manual page atau documentation dari suatu command. Cukup tulis <code>man</code> di terminal dan setelah spasi tulis nama command yang rincian manual-nya kita inginkan dan tekan enter. Misalnya kita ingin mendapatkan documentation dari command <code>mkdir</code> kita bisa menjalankan <code>man mkdir</code>. Command ini bekerja seperti yang ditunjukkan di bawha ini.<br>
 
 <p align="center">
 <img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/man.png"><br><br>
 
-## <code>tldr <command name></code>
+## <code>tldr</code>
 <p align="justify">
 Seringkali kita tidak perlu mengetahui secara mendalam detail command tertentu. Melainkan kita hanya ingin tahu cara penggunaan yang sering digunakan dan sample command parameter-nya. <code>tdlr</code> bisa membantu mempercepat itu.<br>
 
