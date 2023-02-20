@@ -58,6 +58,7 @@ Buka PowerShell sebagai Administrator (tekan Windows > ketik "PowerShell" > klik
 ```
 dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
 ```
+<br>
 
 - <strong>Langkah 2</strong> - Aktifkan Virtual Machine Feature
 <p align="justify">
@@ -68,11 +69,12 @@ dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /nores
 ```
 
 Restart komputer untuk menyelesaikan penginstalan dan pembaruan ke WSL 2.
-
+<br>
 
 - <strong>Langkah 3</strong> - Download Linux kernel update package
   - Download latest package: <a href="https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package" target="_blank"><strong>WSl 2 Linux Kernel Update Package</strong></a>
   - Run update package yang telah di download. (Double click untuk run, maka kita akan dimintai permissions, pilih Yes untuk menyetujui penginstalan)
+<br>
 
 - <strong>Langkah 4</strong> - Set WSL 2 sebagai default version
 <p align="justify">
@@ -81,8 +83,7 @@ Buka PowerShell dan jalankan perintah ini:
 ```
 wsl --set-default-version 2
 ```
-
-Restart komputer untuk menyelesaikan penginstalan dan pembaruan ke WSL 2.
+<br>
 
 - <strong>Langkah 5</strong> - Install Linux distribution
   - Buka Microsoft Store dan search Linux distributin.
