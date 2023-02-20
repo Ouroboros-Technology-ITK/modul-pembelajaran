@@ -103,6 +103,7 @@ Gunakan perintah dasar Linux <code>pwd</code> untuk menemukan path direktori ker
   $ pwd
   /Users/onyxfish
   ```
+<br>
 
 - <strong>Going There</strong>
 <p align="justify">
@@ -111,6 +112,7 @@ Gunakan perintah dasar Linux <code>cd</code> untuk menjelajahi file dan direktor
   ```
   $ cd /Users/onyxfish/Documents
   ```
+<br>
 
 - <strong>What's Here?</strong>
 <p align="justify">
@@ -153,7 +155,7 @@ NACIS notes.txt		tyler-env.txt
 Roblox
   ```
   
-  - Secara default, <code>ls</code> tidak akan menampilkan file yang namanya diberi tanda titik. Ini disebut file tersembunyi biasanya terkait dengan program konfigurasi. Namun, sangat berguna untuk melihat file-file ini, yang dapat kalian lakukan dengan flag <code>-a</code>:
+- Secara default, <code>ls</code> tidak akan menampilkan file yang namanya diberi tanda titik. Ini disebut file tersembunyi biasanya terkait dengan program konfigurasi. Namun, sangat berguna untuk melihat file-file ini, yang dapat kalian lakukan dengan flag <code>-a</code>:
   
   ```
   $ ls -a
@@ -220,6 +222,7 @@ Roblox
 .psql_history			syria
 .pylint.d		    	tmp
   ```
+<br>
 
 - <strong>Membuat file kosong bernama <code>index.html</code></strong>
 - <strong>Update package Linux</strong>
