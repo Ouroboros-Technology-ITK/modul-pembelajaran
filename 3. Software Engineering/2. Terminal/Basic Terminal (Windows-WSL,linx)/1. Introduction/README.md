@@ -116,7 +116,7 @@ Gunakan perintah dasar Linux <code>cd</code> untuk menjelajahi file dan direktor
 
 - <strong>What's Here?</strong>
 <p align="justify">
-Gunakan perintah dasar Linux <code>ls</code>  untuk melihat file dan direktori pada sistem. Menjalankannya tanpa flag atau parameter akan menampilkan konten direktori kerja saat ini.</p/>
+Gunakan perintah dasar Linux <code>ls</code> untuk melihat file dan direktori pada sistem. Menjalankannya tanpa flag atau parameter akan menampilkan konten direktori kerja saat ini.</p/>
 
   - Untuk melihat file apa yang ada di dalam direktori kerja saat ini, gunakan perintah <code>ls</code>: 
 
@@ -225,8 +225,19 @@ $ ls -a
 ```
 <br>
 
-- <strong>Membuat file kosong bernama <code>index.html</code></strong>
-- <strong>Update package Linux</strong>
+- <strong>Touch Command</strong>4
+<p align="justify">
+Gunakan perintah dasar Linux <code>touch</code> untuk perintah dasar Linux yang memungkinkan kalian membuat file baru yang kosong dan mengubah timestamp di command line Linux. Contohnya, masukkan perintah berikut untuk membuat file HTML bernama Web di direktori Documents:</p/>
+
+```
+$ touch /home/username/Documents/Web.html
+```
+
+- <strong>Update</strong>
+
+```
+$ sudo apt update
+```
 
 <div align="justify">
     <!-- Prev Page -->
