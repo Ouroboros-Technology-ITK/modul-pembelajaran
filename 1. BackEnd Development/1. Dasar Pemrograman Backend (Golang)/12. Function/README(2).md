@@ -57,7 +57,7 @@ Sum: 34
 Dalam contoh di atas, menggunakan `return` kita mengembalikan nilai variabel `sum`. Balikan nilai ditampung ke variabel `result` di dalam fungsi `main`.
 
 Berikut adalah cara kerja program:
-![index](https://www.programiz.com/sites/tutorial2program/files/go-function-return.png)
+![index](https://raw.githubusercontent.com/Ouroboros-Tech/modul-pembelajaran/Dasar-golang/image/go-function-return.jpeg.jpg)
 (sumber: [programiz.com](https://www.programiz.com/sites/tutorial2program/files/go-function-return.png))
 
 ## Multiple return
