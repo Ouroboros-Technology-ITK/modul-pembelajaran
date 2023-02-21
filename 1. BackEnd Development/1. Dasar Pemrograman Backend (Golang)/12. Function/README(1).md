@@ -128,10 +128,6 @@ func main() {
 }  
 ```
 
-Berikut gambaran cara kerja program fungsi `addNumbers()` dengan 2 parameter:  
-![index](https://www.programiz.com/sites/tutorial2program/files/go-function-parameter.png)
-(Sumber: [programiz.com](https://www.programiz.com/sites/tutorial2program/files/go-function-parameter.png))
-
 Dengan *multi parameter* kita juga bisa menambahkan parameter dengan tipe data yang berbeda-beda. 
 Contoh:  
 ```go
