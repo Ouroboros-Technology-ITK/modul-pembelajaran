@@ -50,7 +50,7 @@ func main() {
 Sum 12 + 8: 20  
 ```
 Berikut gambaran cara kerja fungsi `addNumbers()`:  
-![index](https://www.programiz.com/sites/tutorial2program/files/go-function-working.png)
+![index](https://raw.githubusercontent.com/Ouroboros-Tech/modul-pembelajaran/Dasar-golang/image/go-function-working.jpg)
 (Sumber: [programiz.com](https://www.programiz.com/sites/tutorial2program/files/go-function-working.png))
 
 ## Parameter  
