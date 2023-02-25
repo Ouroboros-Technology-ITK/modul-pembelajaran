@@ -36,8 +36,22 @@ TurboPascal meungkin telah melahirkan ide dari integrated development environmen
 <p align="justify">
 Baru pada tahun 1983 Borland Ltd. memperoleh compiler Pascal dan menerbitkannya sebagai TurboPascal, yang menampilkan editor dan compiler terintegrasi untuk pertama kalinya.<br><br>
   
-## The Benefits Of Using IDEs
-- <strong>Coder</strong>
+## The Benefits Of Using IDE's
 <p align="justify">
-Coder adalah title yang biasanya digunakan untuk menyebut orang yang bekerja dengan kode secara general. Apa yang dikerjakan oleh seorang coder biasanya dalam scope sangat kecil, bsia jadi itu merupakan potongan script dari sebuah aplikasi, atau bahkan hanyalah sebuah script simple untuk mengerjakan sesuatu.<br><br>
-Bahkan ketika sudah bisa membuat <em><strong>"HELLO WORLD"</strong></em> dengan menggunakan sautu bahasa pemrograman maka bisa menyebut dirinya seorang coder.
+Integrated Development Environment bekerja untuk meningkatkan produktivitas developer. IDE ini meningkatkan produktivitas dengan mempersingkat waktu setup, meningkatkan kecepatan, development task, membuat developer selalu mengetahui bagaimana best practice dan threats terbaru, dan menstandardisasi proses development.</p>
+
+- <strong>Faster Setup</strong>
+<p align="justify">
+DProgrammer perlu meluangkan untuk mengonfigurasi beberapa development tools tanpa IDE interface. Dengan mengintegrasikan IDE, programmer dapat memiliki serangkaian kemampuan yang sama di satu tempat tanpa perlu terus-menerus berpindah tool.</p>
+
+- <strong>Faster Development Task</strong>
+<p align="justify">
+Melakukan integrasi development task yang lebih ketat berpengaruh terhadap peningkatkan produktivitas devloper. Misalnya, developer dapat parse kode dan melakukan checking sintaks saat mengedit, yang memungkinkan pemberian feedback dengan instan saat terjadi kesalahan sintaks. Programmer tidak perlu lagi beralih antar aplikasi untuk menyelesaikan task-nya. Selain itu, tool dan fitur IDE membantu programmer mengatur resources, mencegah kesalahan, dan mengimplementasikan shortcut.</p>
+
+- <strong>Continual Learning</strong>
+<p align="justify">
+Manfaat lain adalah kemampuan untuk tetap up to date. Sebagai contoh IDE's help topics akan terus menerus diperbarui, bersamaan dengan project template dan banyak lagi. Developer yang tetap mengikuti best practice kemungkinan besar akan menambah value bagi tim dan perusahaan mereka, sehingga dapat meningkatkan produktivitas.</p>
+
+- <strong>Standardization</strong>
+<p align="justify">
+Hal ini juga mengatur development process, membantuk programmer bekerja sama dengan seamless.</p><br>
