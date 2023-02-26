@@ -156,6 +156,75 @@ Perlu diketahui bahwa tag `span` tidak memiliki arti atau pengaruh struktural pa
 
 <hr>
 
+### List
+
+*Tag list* didalam HTML merupakan *Tag* yang sering digunakan dalam pembuatan daftar pada halaman web.
+
+#### `<ul>` : Unordered List
+
+*Tag* `ul` digunakan untuk membuat list yang tidak memerlukan urutan tertentu. *Item* dari penggunaan *tag* `ul` akan ditandai dengan tanda titik,lingkaran atau kotak.
+
+```html
+<ul>
+  <li>Apel</li>
+  <li>Jeruk</li>
+  <li>Pisang</li>
+</ul>
+```
+
+<p align="center">
+    (tampilkan hasil dari kode diatas)
+    <h5 align="center">Source: https://</h5>
+</p>
+
+#### `<ol>` : Ordered List
+
+*Tag* `ol` digunakan untuk membuat daftar dengan urutuan tertentu atau terstruktur. Penanda dari tiap *item* akan berbentuk angka, huruf atau angka romawi.
+
+```html
+<ol>
+  <li>Apple</li>
+  <li>Orange</li>
+  <li>Banana</li>
+</ol>
+```
+
+<p align="center">
+    (tampilkan hasil dari kode diatas)
+    <h5 align="center">Source: https://</h5>
+</p>
+
+#### Nested List
+
+HTML juga mendukung *nested list* atau daftar bertingkat. Penggunaan nya untuk membuat list dalam list atau daftar yang memiliki tingkatan yang berbeda.
+
+```html
+<ol>
+  <li> Menu Makanan
+    <ul>
+        <li>Ayam Goreng</li>
+        <li>Ikan Bakar</li>
+        <li>Sate Kambing</li>
+    </ul>
+  </li>
+  <li>Menu Minuman
+    <ul>
+        <li>Es Teh</li>
+        <li>Jus Jeruk</li>
+    </ul>
+  </li>
+</ol>
+```
+
+Dalam penulisan *nested list* `ul` untuk "menu makanan" dan "menu minuman" menjadi konten dari `li` atau *item list* dari `ol` yang menjadi parent paling atas.
+
+<p align="center">
+    (tampilkan hasil dari kode diatas)
+    <h5 align="center">Source: https://</h5>
+</p>
+
+<hr>
+
 ### Button
 
 <p align="justify">
