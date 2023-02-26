@@ -3,6 +3,9 @@
 <p align="justify">
 Terdapat banyak tag HTML yang sering digunakan dalam pembuatan halaman web. 
 
+<hr>
+
+
 ### Container
 
 #### `<header>`
@@ -80,6 +83,79 @@ Contoh di atas, tag `<footer>` berfungsi menampilkan informasi yang berikaitan d
 
 `<footer>` biasanya sering digunakan untuk memberikan informasi tambahan yang relevan dengan halaman web, agar pengunjung dapat mengetahui lebih lanjut tentang halaman web dan organisasi di baliknya.
 
+<hr>
+
+### Text
+
+#### `<h1>` hingga `<h6>`
+
+Tag `<h1>` adalah tag yang digunakan untuk menampilkan teks judul, dimana `<h1>` adalah judul teratas sedangkan `<h6>` adalah judul terbawah. Semakin besar nomor pada tag heading, maka akan semakin rendah tingkat judul nya.
+
+```html
+<h1>Ini adalah heading level 1</h1>
+<h2>Ini adalah heading level 2</h2>
+<h3>Ini adalah heading level 3</h3>
+<h4>Ini adalah heading level 4</h4>
+<h5>Ini adalah heading level 5</h5>
+<h6>Ini adalah heading level 6</h6>
+```
+
+Contoh diatas menggunakan `h1` hingga `h6` untuk menampilkan teks judul. Tag `h1` menjadi judul halaman utama, sementara `h2` hingga `h6` menjadi sub-bagian halaman.
+
+<p align="center">
+    (tampilkan hasil dari kode diatas)
+    <h5 align="center">Source: https://</h5>
+</p>
+
+Penting juga untuk memerhatikan tingkatan dari *tag header*. Penggunaan dari *Heading* yang tepat dapat menaikkan *ranking* **SEO**.
+
+```html
+<!-- Mulai dengan tag <h1> -->
+<h2>Ini adalah heading level 2</h2>
+
+<!-- 
+    Gunakan tingkatan 1 level 
+    kebawah dari tingkat sebelumnya
+    seharusnya <h3>
+-->
+<h5>Ini adalah heading level 5</h5>
+```
+
+#### `<p>`
+
+*Tag* `p` digunakan untuk menampilkan paragraf pada halaman web.
+
+```html
+<p>Ini adalah contoh teks paragraf.</p>
+<p>Paragraf baru.</p>
+```
+Baris pemisah akan secara *default* muncul untuk menjadi pemisah di antara paragraf.
+
+<p align="center">
+    (tampilkan hasil dari kode diatas)
+    <h5 align="center">Source: https://</h5>
+</p>
+
+Kita dapat menambahkan teks sebanyak yang kita inginkan dalam satu *tag* `p`. Sehingga teks nya akan ditampilkan dalam satu blok paragraf.
+
+#### `<span>`
+
+*Tag* `span` digunakan menandai sebagian kecil dari sebuah teks atau elemen dalam dokumen yang ingin diberikan atribut tertentu. Letak *tag* `span` dituliskan secara *inline* sehingga tidak merubah struktur barisnya dan akan tetap ditampilkan dalam baris yang sama.
+
+```html
+<p>Saya suka makan nasi <span style="background-color: yellow;">kuning</span> dengan piring <span style="color:red">merah</span></p>
+```
+
+<p align="center">
+    (tampilkan hasil dari kode diatas)
+    <h5 align="center">Source: https://</h5>
+</p>
+
+
+Perlu diketahui bahwa tag `span` tidak memiliki arti atau pengaruh struktural pada dokumen seperti tag heading atau tag paragraf.
+
+<hr>
+
 ### Button
 
 <p align="justify">
@@ -112,7 +188,7 @@ Tidak hanya teks yang bisa dimasukkan menjadi konten *Button* tetapi juga sepert
 
 <p align="center">
     (insert the button above after rendedered)
-    <h5 align="center">Source: https://</h5>'
+    <h5 align="center">Source: https://</h5>
 </p>
 
 ##### Button Interactivity
@@ -129,13 +205,13 @@ Contoh diatas `onClick` digunakan untuk mengeluarkan pop-up dengan teks "Tombol 
 
 <p align="center">
     (insert the button above after rendedered)
-    <h5 align="center">Source: https://</h5>'
+    <h5 align="center">Source: https://</h5>
 </p>
 
 Setelah ditekan :
 
 <p align="center">
     (insert all page after pop up showed)
-    <h5 align="center">Source: https://</h5>'
+    <h5 align="center">Source: https://</h5>
 </p>
 
