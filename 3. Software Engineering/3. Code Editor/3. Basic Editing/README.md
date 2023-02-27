@@ -23,21 +23,21 @@ VS Code mendukung multiple cursors untuk fast simultaneous edits. Kita dapat men
 Pada VS Code jika kita meletakkan kursor pada sebuah baris code kita dapat memindahkan baris tersebut ke bagian atas atau bawah dengan <code>Shift+Alt+Down</code> atau <code>Shift+Alt+Up</code>.<br>
 
 <p align="center">
-<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/move_line.gif"><br>
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/move_line.gif"><br><br>
 
 ## Copy Line Up/Down
 <p align="justify">
 Selain memindahkan baris cursor, kita juga dapat menyalin baris yang diinginkan. Jika kita ingin menyalin baris ke baris di atasnya, tekan <code>Shift+Alt+Up</code>. Jika ingin menyalin baris ke baris di bawahnya, tekan <code>Shift+Alt+Down</code>.<br>
 
 <p align="center">
-<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/move_line.gif"><br>
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/move_line.gif"><br><br>
 
 ## Toggle Comment
 <p align="justify">
 Kita akan menggunakan fitur ini terutama jiak kita ingin melakukan commenting-out code atau untuk menambahkan informasi ke program kita yang akan membantu diri kita dan rekan kerja kita untuk memahami proses apa yang dilakukan pada sebuah baris code. Pertama, tempatkan kursor di temapt kita ingin menambahkan komentar. Kemudian, gunakan shortcut <code>Ctrl+/</code>.<br>
 
 <p align="center">
-<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/comment.gif"><br>
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/comment.gif"><br><br>
 
 ## Search And Replace
 <p align="justify">
