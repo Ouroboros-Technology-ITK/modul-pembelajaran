@@ -34,7 +34,7 @@ Kita dapat melakukan split terminal dengan cara:<br>
 - Triggering command <code>Ctrl + Shift + 5</code>.  
 
 <p align="center">
-<img height="150rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/split-terminal.png"><br><br>
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/split-terminal.png"><br><br>
   
 ## Close Terminal 
 <p align="justify">
