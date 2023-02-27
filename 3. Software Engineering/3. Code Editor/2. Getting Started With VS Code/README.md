@@ -97,12 +97,14 @@ Kita dapat menampilkan panel yang berbeda di bawah wilayah editor untuk output a
 <p align="justify">
 Kita dapat membuka editor sebanyak yang kita suka secara berdampingan, baik secara vertikal maupun horizontal. Jika kita sudah membuka satu editor, ada beberapa cara untuk membuka editor lain di samping editor yang sudah ada:</p>
 
-- <code>Alt</code> klik pada file di Explorer.
-- <code>Ctrl+\</code> untuk membagi editor aktif menjadi dua.
-- Buka ke sisi <code>Ctrl+Enter</code> dari menu konteks Explorer pada file.
-- Klik tombol <strong>Split Editor</strong> di kanan atas Editor.
-- Drag dan drop file ke sisi mana pun dari wilayah editor.
-- <code>Ctrl+Enter</code> (macOS: <code>Cmd+Enter</code>) dalam daftar file <strong>Quick Open</strong> (<code>Ctrl+P</code>).
+<ul style="list-style-type:circle;" style="text-align:justify">
+  <li><code>Alt</code> klik pada file di Explorer.</li>
+  <li><code>Ctrl+\</code> untuk membagi editor aktif menjadi dua.</li>
+  <li>Buka ke sisi <code>Ctrl+Enter</code> dari menu konteks Explorer pada file.</li>
+  <li>Klik tombol <strong>Split Editor</strong> di kanan atas Editor.</li>
+  <li>Drag dan drop file ke sisi mana pun dari wilayah editor.</li>
+  <li><code>Ctrl+Enter</code> (macOS: <code>Cmd+Enter</code>) dalam daftar file <strong>Quick Open</strong> (<code>Ctrl+P</code>).</li>
+</ul><br>
 
 ## Minimap
 <p align="justify">
