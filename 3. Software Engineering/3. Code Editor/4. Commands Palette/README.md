@@ -32,5 +32,5 @@ VS Code memungkinan kita untuk membatasi berapa banyak recent command yang akan 
   <li>Buka VS Code dan tekan <code>Ctrl+Shift+P</code> untuk membuka command palette.</li>
   <li>Ketik <code>settings</code> dan pilih <strong>Preferences: Open Settings (UI)</strong>.</li>
   <li>Cari <code>palette</code>. Setelah melihat <strong>Workbench > Command Palette: History</strong>, kita dapat mengaturnya ke angka lain dari command history yang ingin VS Code simpan. Atau kita dapat mengatur nilai ke 0 untuk menonaktifkan <strong>Command Palette History</strong>.</li>
-    <li>Kita juga dapat mencentang kotak <strong>Workbench > Command Palette: Preserve Input</strong> di pengaturan untuk mengisi command palette dengan perintah yan gterakhri digunakan. Fitur ini menghemat waktu, terutama ketika ktia harus menggunakan satu perintah secara berulang-ulang.</li>
+    <li>Kita juga dapat mencentang kotak <strong>Workbench > Command Palette: Preserve Input</strong> di pengaturan untuk mengisi command palette dengan perintah yang terakhir digunakan. Fitur ini menghemat waktu, terutama ketika kita harus menggunakan satu perintah secara berulang-ulang.</li>
 </ol><br>
