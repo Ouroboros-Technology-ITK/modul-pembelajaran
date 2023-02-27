@@ -28,13 +28,13 @@ Sebelum adanya IDE, programmer menulis program yang mereka buat di sebuah text e
 Baru pada tahun 1983 Borland Ltd. memperoleh compiler Pascal dan menerbitkannya sebagai TurboPascal, yang menampilkan editor dan compiler terintegrasi untuk pertama kalinya.<br>
 
 <p align="center">
-<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/image%201.jpg"> <h5 align="center">Source: https://www.theladders.com/career-advice/what-is-software-engineering</h5><br>
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/turbo-pascal.jpg"><br>
 
 <p align="justify">
 TurboPascal meungkin telah melahirkan ide dari integrated development environment, tetapi banyak yang percaya bahwa <strong>Microsoft Visual Basic (VBL)</strong>, yang diluncurkan pada tahun 1991, sebenarnya adalagh IDE pertama dalam sejara. Dibangun dalam bahasa BASIC yang dikenal lebih lama, Visual Basic adalah bahasa pemrograman yang populer hingga tahun 1980-an. Munculnya Visual Basic berarti bahwa pemrograman malah dapat dianggap dalam graphical terms, dan manfaat pentingnya produktivitas menhjadi lebih jelas.<br>
 
-<p align="justify">
-Baru pada tahun 1983 Borland Ltd. memperoleh compiler Pascal dan menerbitkannya sebagai TurboPascal, yang menampilkan editor dan compiler terintegrasi untuk pertama kalinya.<br><br>
+<p align="center">
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/microsoft-basic-4.pngg"><br>
   
 ## The Benefits Of Using IDE's
 <p align="justify">
