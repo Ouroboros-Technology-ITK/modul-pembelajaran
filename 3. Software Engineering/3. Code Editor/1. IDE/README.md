@@ -42,7 +42,7 @@ Integrated Development Environment bekerja untuk meningkatkan produktivitas deve
 
 - <strong>Faster Setup</strong>
 <p align="justify">
-DProgrammer perlu meluangkan untuk mengonfigurasi beberapa development tools tanpa IDE interface. Dengan mengintegrasikan IDE, programmer dapat memiliki serangkaian kemampuan yang sama di satu tempat tanpa perlu terus-menerus berpindah tool.</p>
+Programmer perlu meluangkan untuk mengonfigurasi beberapa development tools tanpa IDE interface. Dengan mengintegrasikan IDE, programmer dapat memiliki serangkaian kemampuan yang sama di satu tempat tanpa perlu terus-menerus berpindah tool.</p>
 
 - <strong>Faster Development Task</strong>
 <p align="justify">
