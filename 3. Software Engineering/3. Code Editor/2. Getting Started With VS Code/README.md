@@ -54,7 +54,7 @@ Untuk pengguna Windows, karena kedepannya kita akan sering menggunakan <em>comma
 </ol>
 
 <p align="center">
-<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/Linux-Imager.jpeg"><br>
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/remote-dev.png"><br>
 
 <p align="justify">
 Untuk meilhat bagaimana cara menggunakannya kita bisa membuka dokumentasi <a href="https://code.visualstudio.com/docs/remote/wsl" target="_blank"><strong>Developing in WSL</strong></a>.<br><br>
@@ -65,7 +65,7 @@ Seperti banyak code editor lainnya. VS Code mengadopsi user interface yang umumn
 
 ## Basic Layout
 <p align="center">
-<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/Linux-Imager.jpeg">
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/basic-layouy.png">
 
 <p align="justify">
 VS Code hadir dengan layout sederhana dan intuitif, memaksimalkan ruang yang disediakan untuk editor sambil menyisakan banyak ruang untuk menelusuri dan mengakses full context folder atau proyek yang dimiliki.</p>
