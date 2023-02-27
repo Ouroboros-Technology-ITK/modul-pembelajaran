@@ -107,17 +107,17 @@ Berikut adalah tabel yang berisikan command yang sering digunakna saat menggunak
 
 | COMMAND  | PENJELASAN                                                                     |
 |----------|--------------------------------------------------------------------------------|
-| ctrl + A | Pindah ke awal baris.                                                          |
-| ctrl + E | Pindah ke akhir baris.                                                         |
-| ctrl + Y | Scroll ke bawah halaman.                                                       |
-| ctrl + v | Scroll ke atas halaman.                                                        |
-| ctrl + G | Jendela Bantuan akan muncul dan menampilkan semua command yang bisa digunakan. |
-| ctrl + J | Merapikan paragraf yang ada.                                                   |
-| ctrl + C | Menampilkan posisi kursor di teks.                                             |
-| ctrl + X | Keluar dari Teks Editor                                                        |
-| ctrl + \ | Mengganti string atau regular expression.                                      |
-| ctrl + T | Mengaktifkan tool pemeriksa ejaan, jika tersedia.                              |
-| ctrl + _ | Pindah ke baris dan nomor kolom yang spesifik.                                 |
+| Ctrl + A | Pindah ke awal baris.                                                          |
+| Ctrl + E | Pindah ke akhir baris.                                                         |
+| Ctrl + Y | Scroll ke bawah halaman.                                                       |
+| Ctrl + v | Scroll ke atas halaman.                                                        |
+| Ctrl + G | Jendela Bantuan akan muncul dan menampilkan semua command yang bisa digunakan. |
+| Ctrl + J | Merapikan paragraf yang ada.                                                   |
+| Ctrl + C | Menampilkan posisi kursor di teks.                                             |
+| Ctrl + X | Keluar dari Teks Editor                                                        |
+| Ctrl + \ | Mengganti string atau regular expression.                                      |
+| Ctrl + T | Mengaktifkan tool pemeriksa ejaan, jika tersedia.                              |
+| Ctrl + _ | Pindah ke baris dan nomor kolom yang spesifik.                                 |
 
 <br><br>
 
