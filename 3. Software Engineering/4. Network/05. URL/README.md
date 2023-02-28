@@ -98,7 +98,7 @@ https://maps.google.com
 ```
 
 <p align="justify">
-Contoh di atas adalah subdomain dari domain <code>google.com</code> yaitu <code>support</code> dan <code>maps</code>.<br>
+Contoh di atas adalah subdomain dari domain <code>google.com</code> yaitu <code>support</code> dan <code>maps</code>.<br><br>
 
 ## Port
 <p align="justify">
