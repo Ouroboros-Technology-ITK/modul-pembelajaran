@@ -265,7 +265,7 @@ Permintaan ke HTTP akan selalu berisi header. Header HTTP mengirim informasi tam
 Kita dapat mengambil informasi header dari sebuah web menggunakan opsi <code>-I</code>.<br>
 
 <p align="center">
-<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/Linux-Imager.jpeg"> <h5 align="center">Source: https://id.wikipedia.org/wiki/Kernel_Linux</h5><br><br>
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/Linux-Imager.jpeg"> <h5 align="center">Source: https://id.wikipedia.org/wiki/Kernel_Linux</h5><br>
 
 ## Method GET and POST
 <p align="justify">
@@ -293,4 +293,4 @@ curl -data "text-Hello" https://myDomain.com/firstPage.jsp --next https://myDoma
 ```
 
 <p align="justify">
-Contoh di atas adalah mengirimkan data ke URL <code>https://myDomain.com/firstPage.jsp</code> dan kemudian mengambil data dari URL <code>https://myDomain.com/displayResult.jsp</code>.<br><br>
+Contoh di atas adalah mengirimkan data ke URL <code>https://myDomain.com/firstPage.jsp</code> dan kemudian mengambil data dari URL <code>https://myDomain.com/displayResult.jsp</code>.<br>
