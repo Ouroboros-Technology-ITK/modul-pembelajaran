@@ -46,3 +46,75 @@ Berikut ada contoh video menarik tentang pentingnya belajar algoritma:<br>
     <a href="https://www.youtube.com/watch?v=FN2RM-CHkuI" target="_blank"><img src="https://img.youtube.com/vi/FN2RM-CHkuI/0.jpg"></a> 
     <h5 align="center">Source: Exact Instructions Challenge PB&J Classroom Friendly | Josh Darnit</h5>
 <p><br>
+
+## Characteristic Algorithm
+## Limited
+<p align="justify">
+Algoritma yang baik harus memiliki akhir dan jumlahnya terbatas atau minimal menghasilkan sebuah output, karena algoritma tidak akan menyelesaikan semua permasalahan. Tapi fokus menyelesaikan sebuah permasalahan sampai selesai.<br><br>
+  
+## Unambiguous
+<p align="justify">
+Algoritma tidak boleh menggunakan instruksi yang tidak jelas / membingungkan, seperti "beberapa", "kemungkinan", "sebagian". Kita harus mendefinisikan algoritma yang pasti dan jelas.<br>
+  
+<p align="justify">
+Contoh: "ambilah beberapa bilangan positif kemudian bagi dengan 5", bisa diubah menjadi "ambilah lima bilangan positif kemudian bagi dengan 5"<br><br>
+  
+## Has Input and Output
+<p align="justify">
+Algoritma harus menghasilkan setidaknya 1 output dan boleh memiliki atau tidak memiliki input. Artinya setiap langkah yang kita buat harus menghasilkan suatu output sampai ke langkah terakhir.<br><br>
+    
+## Effective
+<p align="justify">
+Langkah-langkah dalam algoritma harus efektif dan sesederhana mungkin. Sehingga proses penyelesaian masalah diperoleh dengan langkah yang <strong>paling sederhana</strong> dan <strong>paling cepat</strong>. Algoritma sangat mendukung istilah "kalau bisa gampang kenapa harus ribet" bukan "kalau bisa ribet kenapa harus gampang".<br><br>
+
+## Basic Structure Algorithm
+## Urutan (Sekuensial)
+<p align="justify">
+<p align="justify">
+Pada bentuk struktur ini, langkah-langkah dijalankan secara berurutan dari tingkat awal sampai akhir. Pada dasarnya semua algoritma menggunakan proses sekuensial seperti ini..<br> 
+  
+<p align="justify">
+Contoh "Membuat jus jeruk"::<br>
+<ol style="list-style-type:circle;" style="text-align:justify">
+  <li><strong>Mulai</strong></li>
+  <li>Menyiapkan 2 buah jeruk</li>
+  <li>Menyiapkan alat perasan jeruk</li>
+  <li>Kupas semua kulit jeruk</li>
+  <li>Masukkan jeruk ke alat perasan</li>
+  <li>Tampung hasil perasan ke gelas</li>
+  <li><strong>Selesai</strong></li>
+</ol><br>  
+
+## Pemilihan (Seleksi)
+<p align="justify">
+Setiap langkah akan melalui suatu percabangan, proses langkah akan diseleksi pada suatu kondisi tertentu yang sudah didefinisikan. Struktur ini memungkinan hasil output lebih dari 1.<br>
+  
+<p align="justify">
+Contoh:<br>
+  
+1. <strong>Mulai</strong>
+2. Melihat hasil nilai ujian
+3. Apakah nilai ujian kurang dari 70?
+  * Jika ya, maka harus belajar lagi
+  * Jika tidak, maka boleh bermain game
+4. <strong>Selesai</strong>
+  
+<br>  
+
+## Perulangan
+<p align="justify">
+Pada bentuk struktur ini, langkah-langkah dijalankan secara berurutan dari tingkat awal sampai akhir. Pada dasarnya semua algoritma menggunakan proses sekuensial seperti ini..<br> 
+  
+<p align="justify">
+Contoh "Membuat jus jeruk"::<br>
+<ol style="list-style-type:circle;" style="text-align:justify">
+  <li><strong>Mulai</strong></li>
+  <li>Menyiapkan 2 buah jeruk</li>
+  <li>Menyiapkan alat perasan jeruk</li>
+  <li>Kupas semua kulit jeruk</li>
+  <li>Masukkan jeruk ke alat perasan</li>
+  <li>Memasukkan adonan ke dalam tempat adonan</li>
+  <li>Masukkan tempat adonan ke oven</li>
+  <li>Kue dikeluarkan dari oven dan diberi toping dan hiasan</li>
+  <li><strong>Selesai</strong></li>
+</ol><br>  
