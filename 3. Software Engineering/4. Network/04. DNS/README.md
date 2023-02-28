@@ -35,12 +35,13 @@ Merupakan bagian tertinggi dari hirarki DNS. Biasanya berwujud tanda titik <code
 - <strong>Top-Level Domain</strong> 
 <p align="justify">
 Merupakan ekstensi yang berada di bagian depan root-level domain. Terdapat dua jenis TLD yang umumnya dipakai. Keduanya, yaitu Generic Top-Level Domain (GTLD) dan Country Code Top- Level Domain (CCLTD).<br>
+  
   - <strong>GTLD</strong> menunjukkan sifat dari website tersebut, seperti <code>com</code> untuk komersial, <code>edu</code> untuk pendidikan dan edukasi, <code>gov</code> untuk pemerintahan, dan sebagainya.
   - <strong>CCLTD</strong> menunjukkan asal negara pemilik website, seperti <code>id</code> untuk website Indonesia, <code>uk</code> untuk Inggris, dan seterusnya.<br>
   
 - <strong>Second-Level Domain</strong> 
 <p align="justify">
-Merupakan nama lain untuk domain itu sendiri. la sering digunakan sebagai identitas institusi atau branding. Dalam kasus URL en.wikipedia.org, yang dimaksud SLD adalah wikipedia.<br>
+Merupakan nama lain untuk domain itu sendiri. la sering digunakan sebagai identitas institusi atau branding. Dalam kasus URL <code>en.wikipedia.org</code>, yang dimaksud SLD adalah wikipedia.<br>
 
 - <strong>Third-Level Domain atau subdomain</strong> 
 <p align="justify">
