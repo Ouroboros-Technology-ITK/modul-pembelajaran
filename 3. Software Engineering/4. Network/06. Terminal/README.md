@@ -124,7 +124,10 @@ Sekilas tidak ada yang berbeda, tetapi di bagian <code>SERVER</code> sudah mengg
 
 ## dig -x host
 <p align="justify">
-Terdapat option <code>-x</code> yang digunakan untuk mengambil informasi menggunakan host name. Kita dapat langsung mencobanya dengan t name berikut <code>172.217.14</code> (google.com).<br><br>
+Terdapat option <code>-x</code> yang digunakan untuk mengambil informasi menggunakan host name. Kita dapat langsung mencobanya dengan t name berikut <code>172.217.14</code> (google.com).<br>
+  
+<p align="center">
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/Linux-Imager.jpeg"> <h5 align="center">Source: https://id.wikipedia.org/wiki/Kernel_Linux</h5><br><br>
 
 ## <code>wget</code> file
 <p align="justify">
