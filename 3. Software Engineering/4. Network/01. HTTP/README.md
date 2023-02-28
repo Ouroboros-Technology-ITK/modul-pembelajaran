@@ -5,15 +5,15 @@ Hypertext Transfer Protocol atau lebih dikenal dengan singkatan HTTP adalah prot
 
 ## Protokol
 <p align="justify">
-Protokol merupakan media yang digunakan untuk komunikasi antara dua buah entitas. Contohnya komunikasi antara dua orang yang membutuhkan bahasa atau grammar yang sama agar bisa saling memahami informasi yang disampaikan. Di dunia komputer, ketika dua aplikasi ingin saling berkomunikasi dengan cara yang sama, maka dibutuhkan kumpulan aturan-aturan yang disebut protokol.<br>
+Protokol merupakan media yang digunakan untuk komunikasi antara dua buah entitas. Contohnya komunikasi antara dua orang yang membutuhkan bahasa atau grammar yang sama agar bisa saling memahami informasi yang disampaikan. Di dunia komputer, ketika dua aplikasi ingin saling berkomunikasi dengan cara yang sama, maka dibutuhkan kumpulan aturan-aturan yang disebut protokol.<br><br>
 
 ## Function
 <p align="justify">
-Fungsi utama HTTP yaitu mengatur format dan bagaimana data ditransmisikan. Ketika kita memasukkan URL domain di browser, maka URL yang masuk menjadi sebuah perintah ke dalam web server untuk memberikan data atau informasi website yang dituju. HTTP juga berfungsi untuk mengatur bagaimana web server dan browser memproses berbagai macam perintah yang masuk.<br>
+Fungsi utama HTTP yaitu mengatur format dan bagaimana data ditransmisikan. Ketika kita memasukkan URL domain di browser, maka URL yang masuk menjadi sebuah perintah ke dalam web server untuk memberikan data atau informasi website yang dituju. HTTP juga berfungsi untuk mengatur bagaimana web server dan browser memproses berbagai macam perintah yang masuk.<br><br>
 
 ## HTTPS
 <p align="justify">
-Hurus "S" di HTTPS adalah secure, sehingga secara fungsi sama dengan HTTP namun lebih aman dibandingkan HTTP. Data yang diproses dengan HTTPS akan dienkripsi terlebih dahulu. Dalam HTTPS, protokol komunikasi dienkripsi menggunakan Transport Layer Security TLS atau Secure Sockets Layer SSL. Protokol ini memungkinkan ada perlindungan akses dan privasi integritas data selama proses pertukaran data. Tujuannya untuk melindungi serangan man in the middle (lebih lengkapnya di sini) atau serangan cyber attack lainnya.<br>
+Hurus "S" di HTTPS adalah secure, sehingga secara fungsi sama dengan HTTP namun lebih aman dibandingkan HTTP. Data yang diproses dengan HTTPS akan dienkripsi terlebih dahulu. Dalam HTTPS, protokol komunikasi dienkripsi menggunakan Transport Layer Security TLS atau Secure Sockets Layer SSL. Protokol ini memungkinkan ada perlindungan akses dan privasi integritas data selama proses pertukaran data. Tujuannya untuk melindungi serangan man in the middle (lebih lengkapnya di sini) atau serangan cyber attack lainnya.<br><br>
 
 ## How Does It Work?
 <p align="justify">
