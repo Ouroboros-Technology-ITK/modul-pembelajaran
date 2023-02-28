@@ -4,7 +4,7 @@
 Banyak dari kita pernah mendengar kata ini dari beberapa Youtuber yang membahas "algoritma Youtube" atau beberapa selebriti yang membahas algoritma dari beberapa sosial media. Tapi apa sebenarnya algoritma itu?<br>
 
 <p align="justify">
-Dikutip dari beberapa sumber, algoritma berasal dari kata "algoris" dan "ritmis" yang pertama kali diperkenalkan oleh <strong>Abu Ja'far Muhammad Ibn Musa Al Khwarizmi</strong> pada 825 M di dalam buku Al-Jabr Wa-al Muqabla. Dalam bidang pemrograman, algoritma didefinisikan sebagai metode yang terdiri dari serangkaian langkah yang terstruktur dan sistematis untuk menyelesaikan masalah dengan bantuan komputer. Dari sumber lain menjelaskan bahwa algoritma adalah sekumpulan instruksi atau langkah- langkah yang dituliskan secara sistematis dan digunakan untuk menyelesaikan masalah/persoalan logika dan matematika dengan bantuan komputer.<br>
+Dikutip dari beberapa sumber, algoritma berasal dari kata "algoris" dan "ritmis" yang pertama kali diperkenalkan oleh <strong>Abu Ja'far Muhammad Ibn Musa Al Khwarizmi</strong> pada 825 M di dalam buku Al-Jabr Wa-al Muqabla. Dalam bidang pemrograman, algoritma didefinisikan sebagai metode yang terdiri dari serangkaian langkah yang terstruktur dan sistematis untuk menyelesaikan masalah dengan bantuan komputer. Dari sumber lain menjelaskan bahwa algoritma adalah sekumpulan instruksi atau langkah-langkah yang dituliskan secara sistematis dan digunakan untuk menyelesaikan masalah/persoalan logika dan matematika dengan bantuan komputer.<br>
 
 <p align="justify">
 Jika kita coba ambil poin penting dari beberapa penjelasan di atas, maka kita bisa mengambil 3 hal. Pertama adalah "<strong>langkah-langkah</strong>", kedua "<strong>terstruktur atau sistematis</strong>" dan terakhir "<strong>menyelesaikan masalah</strong>", jadi kita dapat menyimpulkan sebagai berikut:<br>
@@ -13,7 +13,7 @@ Jika kita coba ambil poin penting dari beberapa penjelasan di atas, maka kita bi
 "Algoritma adalah metode atau langkah yang direncanakan secara tersusun dan berurutan untuk menyelesaikan atau memecahkan permasalahan dengan sebuah instruksi atau kegiatan".<br>
 
 <p align="justify">
-Berikut contoh sebuah algoritma yang sangat sederhana "<strong>Proses membuat sebuah kue </strong>":<br>
+Berikut contoh sebuah algoritma yang sangat sederhana "<strong>Proses membuat sebuah kue</strong>":<br>
 <ol style="list-style-type:circle;" style="text-align:justify">
   <li><strong>Mulai</strong></li>
   <li>Menyiapkan tempat adonan dan oven</li>
@@ -44,5 +44,5 @@ Berikut ada contoh video menarik tentang pentingnya belajar algoritma:<br>
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=FN2RM-CHkuI" target="_blank"><img src="https://img.youtube.com/vi/FN2RM-CHkuI/0.jpg"></a> 
-    <h5 align="center">Source: What Can I Do With WSL? | One Dev Question</h5>
+    <h5 align="center">Source: Exact Instructions Challenge PB&J Classroom Friendly | Josh Darnit</h5>
 <p><br>
