@@ -37,7 +37,7 @@ Dalam belajar algoritma kita akan belajar untuk berpikir secara runtut, kreatif,
 Selain itu, belajar algoritma dapat memudahkan kita agar tidak bingung di tengah jalan karena sudah menggambarkan konsep pemrograman yang akan kita buat sebelumnya. Hal ini juga dapat mengoptimalkan waktu kita dalam membuat suatu program.<br>
 
 <p align="center">
-<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/Linux-Imager.jpeg"><br>
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/basic-algor.jpeg"><br>
 
 <p align="justify">
 Berikut ada contoh video menarik tentang pentingnya belajar algoritma:<br>
