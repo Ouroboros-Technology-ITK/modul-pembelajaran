@@ -70,11 +70,11 @@ www.youtube.com
 Terdapat beberapa jenis domain:<br>
 
 <p align="center">
-<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/Linux-Imager.jpeg"> <h5 align="center">Source: https://id.wikipedia.org/wiki/Kernel_Linux</h5><br>
+<img height="200rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/domain-example.png"><br>
 
-- Top Level Domain (TLD): TLD juga dikenal sebagai ekstensi domain. Dalam contoh URL di atas <code>.org</code> berperan sebagai TLD.
-- Second Level Domains (SLD) : SLD merupakan nama domain yang kita daftarkan yaitu <code>example</code>.
-- Third Level Domain (3LD): Third Level Domain merupakan bagian dari nama domain atau alamat situs web yang muncul sebelum SLD. Bagian ini juga dikenal sebagai subdomain. Pada contoh URL di atas, maka <code>photos</code> adalah Third Level Domain atau subdomain website kita.<br><br>
+- Top Level Domain (TLD): TLD juga dikenal sebagai ekstensi domain. Dalam contoh URL di atas <code>.com</code> berperan sebagai TLD.
+- Second Level Domains (SLD) : SLD merupakan nama domain yang kita daftarkan yaitu <code>exampledomain</code>.
+- Third Level Domain (3LD): Third Level Domain merupakan bagian dari nama domain atau alamat situs web yang muncul sebelum SLD. Bagian ini juga dikenal sebagai subdomain. Pada contoh URL di atas, maka <code>www</code> adalah Third Level Domain atau subdomain website kita.<br><br>
 
 ## Subdomain
 <p align="justify">
