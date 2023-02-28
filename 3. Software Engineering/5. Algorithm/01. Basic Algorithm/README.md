@@ -70,8 +70,7 @@ Langkah-langkah dalam algoritma harus efektif dan sesederhana mungkin. Sehingga 
 ## Basic Structure Algorithm
 ## Urutan (Sekuensial)
 <p align="justify">
-<p align="justify">
-Pada bentuk struktur ini, langkah-langkah dijalankan secara berurutan dari tingkat awal sampai akhir. Pada dasarnya semua algoritma menggunakan proses sekuensial seperti ini..<br> 
+Pada bentuk struktur ini, langkah-langkah dijalankan secara berurutan dari tingkat awal sampai akhir. Pada dasarnya semua algoritma menggunakan proses sekuensial seperti ini.<br> 
   
 <p align="justify">
 Contoh "Membuat jus jeruk"::<br>
@@ -94,27 +93,48 @@ Contoh:<br>
   
 1. <strong>Mulai</strong>
 2. Melihat hasil nilai ujian
-3. Apakah nilai ujian kurang dari 70?
-  * Jika ya, maka harus belajar lagi
-  * Jika tidak, maka boleh bermain game
+3. Apakah nilai ujian kurang dari 70? (Jika ya, maka harus belajar lagi, sedangkan jika tidak, maka boleh bermain game)
 4. <strong>Selesai</strong>
-  
 <br>  
 
 ## Perulangan
 <p align="justify">
-Pada bentuk struktur ini, langkah-langkah dijalankan secara berurutan dari tingkat awal sampai akhir. Pada dasarnya semua algoritma menggunakan proses sekuensial seperti ini..<br> 
+Dalam struktur ini terdapat sebuah proses yang akan diulangi ke langkah sebelumnya (perulangan) apabila tidak memenuhi kondisi yang diinginkan. Proses ini menggunakan pemilihan atau seleksi sebagai penanda bahwa proses perulangan akan berlanjut atau dihentikan.<br> 
   
 <p align="justify">
-Contoh "Membuat jus jeruk"::<br>
+Contoh "Membuat kopi":<br>
 <ol style="list-style-type:circle;" style="text-align:justify">
   <li><strong>Mulai</strong></li>
-  <li>Menyiapkan 2 buah jeruk</li>
-  <li>Menyiapkan alat perasan jeruk</li>
-  <li>Kupas semua kulit jeruk</li>
-  <li>Masukkan jeruk ke alat perasan</li>
-  <li>Memasukkan adonan ke dalam tempat adonan</li>
-  <li>Masukkan tempat adonan ke oven</li>
-  <li>Kue dikeluarkan dari oven dan diberi toping dan hiasan</li>
+  <li>Menyiapkan bubuk kopi, gula dan air panas</li>
+  <li>Menyiapkan gelas</li>
+  <li>Tuangkan bubuk kopi, gula dan air panas di dalam gelas</li>
+  <li>Aduk semua bahan</li>
+  <li>Jika belum larut, ulangi langkah sebelumnya sampai larut</li>
   <li><strong>Selesai</strong></li>
 </ol><br>  
+
+## Example
+## Add Two Number
+<p align="justify">
+Contoh ini adalah algoritma urutan untuk menghitung penjumlahan dua bilangan:<br>
+<ol style="list-style-type:circle;" style="text-align:justify">
+  <li><strong>Mulai</strong></li>
+  <li>Masukkan angka pertama</li>
+  <li>Masukkan angka kedua</li>
+  <li>Lakukan penjumlahan dengan menambah angka pertama dengan angka kedua</li>
+  <li>Tampilkan hasil penjumlahan</li>
+  <li><strong>Selesai</strong></li>
+</ol><br> 
+
+## Odd And Event Number
+<p align="justify">
+Contoh ini adalah algoritma yang melakukan pengecekan apakah suatu bilangan merupakan bilangan:<br>
+<ol style="list-style-type:circle;" style="text-align:justify">
+  <li><strong>Mulai</strong></li>
+  <li>Masukkan angka berupa bilangan bulat positifa</li>
+  <li>Lakukan pengecekan angka yang dimasukkan</li>
+  <li>Melakukan pengecekan angka dengan pembagian angka 2 (Jika sisa pembagian sama dengan 0, maka angka tersebut adalah bilangan genap. Sedangkan jika sisa pembagian tidak sama dengan 0, maka angka tersebut adalah bilangan ganjil.
+)</li>
+  <li>Tampilkan hasil pengecekan</li>
+  <li><strong>Selesai</strong></li>
+</ol><br> 
