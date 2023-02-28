@@ -12,7 +12,7 @@ Maka hadirlah extension-extension yang spesifik untuk memenuhi kebutuhan tersebu
 <p align="justify">
 Extension merupakan kumpulan plugin yang dapat diinstal ke teks editor untuk membuatnya lebih powerful. Ekstensi VS Code memungkinkan kita menambahkan languages, debugger, dan tools ke instalasi kita untuk mendukung development workflow kita. Kita dapat membuka Extension dengan tekan cmd + shift + X (macOS) atau ctrl + shift + x (Windows) atau kita juga dapat membukanya melalui sidebar dengan klik ikon di bawah ini.<br><br>
 
-## What Is Extension In VS Code?
+## Extension Marketplace
 <p align="center">
 <img height="200rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/ajax-snippet.gif"><br>
 
