@@ -1,5 +1,4 @@
 # Introduction To SDLC
-# SDLC Model
 ## What Is SDLC?
 <p align="center">
 <img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/SDLC.png"> <h5 align="center">Source: https://it.telkomuniversity.ac.id/mengenal-apa-itu-software-development-life-cycle-dan-metode-nya/</h5><br>
