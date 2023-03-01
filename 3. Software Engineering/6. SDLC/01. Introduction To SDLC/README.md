@@ -56,7 +56,7 @@ Mendefinisikan platform di mana software akan dijalankan. Misalnya versi android
 
 6. <strong>Security</strong>
 <p align="justify">
-Mendefinisikan langkah-langkah untuk mengamankan software. Misalnya membuat perlindungan kata sandi, enkripsi SSL traffic atau membuat penyimpanan kredensial pengguna yang aman.<br>
+Mendefinisikan langkah-langkah untuk mengamankan software. Misalnya membuat perlindungan kata sandi, enkripsi SSL traffic atau membuat penyimpanan kredensial pengguna yang aman.<br><br>
 
 - <strong>Software Development</strong> 
 <p align="justify">
