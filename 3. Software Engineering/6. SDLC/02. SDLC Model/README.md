@@ -1,78 +1,75 @@
 # SDLC Model
-## What Is SDLC?
+## SDLC Model Type
 <p align="center">
-<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/SDLC.png"> <h5 align="center">Source: https://it.telkomuniversity.ac.id/mengenal-apa-itu-software-development-life-cycle-dan-metode-nya/</h5><br>
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/SDLC-Methdodlogies.jpg"> <h5 align="center">Source: https://www.techuz.com/blog/top-12-sdlc-methodologies-with-pros-and-cons/</h5><br>
 
 <p align="justify">
-<strong>Software Development Life Cycle</strong> (SDLC) adalah proses yang digunakan untuk merancang, mengembangkan, dan menguji software yang berkualitas tinggi. Tujuan dari SDLC adalah untuk menyediakan alur terstruktur dalam membantu organisasi menghasilkan software berkualitas tinggi yang diselesaikan dengan perkiraan waktu yang singkat dan biaya yang rendah, namun tetap memenuhi atau melebihi harapan pelanggan.<br>
+Metode SDLC memiliki banyak jenis model pengembangan dengan kelebihan dan kekurangan masing- masing. Berikut beberapa di antaranya:<br>
+
+- ## Model Waterfall
+<p align="center">
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/waterfall.png"><br>
 
 <p align="justify">
-Dalam praktiknya, SDLC akan dimulai dengan mengevaluasi sistem yang ada untuk mendefinisikan kebutuhan pada sistem yang baru. Baru setelah itu, software akan dibuat berdasarkan tahapan-tahapan SDLC yang ada. SDLC akan mengantisipasi kemungkinan adanya kesalahan sehingga dapat mengurangi kemungkinan adanya pengerjaan ulang atau perbaikan setelah software selesai dibuat. SLDC juga merupakan metodologi yang berulang, sehingga kualitas kode yang ada di setiap siklusnya harus dijaga.<br><br>
-
-## Steps In SDLC
-<p align="justify">
-Pada dasarnya SDLC menggambarkan alur terstruktur dalam fase siklus software dan urutan bagaimana fase itu dilaksanakan untuk membuat software yang berkualitas dalam waktu yang cepat. Setiap fase atau tahapan akan menghasilkan apa yang dibutuhkan oleh fase berikutnya dalam life cycle tersebut. Kebutuhan tersebut lalu diterjemahkan ke dalam bentuk desain. Kode pun kemudian akan diproduksi sesuai dengan desain tersebut dalam tahap pengembangan.<br>
+Model Sekuensial Linear sering juga disebut sebagai pendekatan air terjun (waterfall). Metode waterfall pertama kali diperkenalkan oleh <strong>Windows W. Royce</strong> pada tahun 1970. Waterfall merupakan model klasik yang sederhana dengan aliran sistem yang linier. Output dari setiap tahap merupakan input bagi tahap berikutnya (Kristanto, 2004).<br>
 
 <p align="justify">
-Setelah coding dan pengembangan, baru kemudian dilakukan tahapan pengujian untuk memverifikasi apakah hasil yang dihasilkan sudah sesuai dengan kebutuhan yang ditentukan di awal. Agar semakin paham, simak penjelasan tahapan-tahapan SDLC secara sederhana berikut ini.<br>
+Model ini melibatkan penyelesaian satu tahap secara lengkap sebelum melangkah ke tahap berikutnya. Ketika satu tahap selesai, langsung dilakukan evaluasi untuk memastikan proyek berjalan sesuai rencana dan layak diteruskan ke tahap berikutnya. Waterfall Model, disebut juga model klasik, memiliki beberapa tahap utama, yaitu analisis dan rekayasa sistem, perancangan, penulisan program, pengujian, dan pemeliharaan.<br>
 
-- <strong>System Planning</strong> 
-<p align="justify">
-Tahap pertama SDLC adalah perencanaan. Pada tahap ini project leaders akan mengevaluasi kebutuhan yang ada dalam sebuah proyek. Ini mencakup menghitung tenaga kerja dan material yang dibutuhkan, membuat target dan jadwal, membentuk tim serta struktur kepemimpinan untuk proyek tersebut. Tahap ini juga dapat mencakup pengumpulan umpan balik dari stakeholder atau pihak-pihak terkait seperti calon pelanggan, developer, perwakilan tim sales, dan pendapat ahli.<br>
+##### Kelebihan Model Waterfall:
+1. Tahapan proses pengembangannya tetap (pasti), mudah diaplikasikan, dan prosesnya teratur.
+2. Cocok digunakan untuk produk software yang sudah jelas kebutuhannya di awal, sehingga minim kesalahannya.
+3. Software yang dikembangkan dengan metode ini biasanya menghasilkan kualitas yang baik.
+4. Dokumen pengembangan sistem sangat terorganisir, karena setiap fase harus terselesaikan dengan lengkap sebelum melangkah ke fase berikutnya.
 
-<p align="justify">
-Penting untuk diingat agar fase perencanaan harus dapat menjelaskan ruang lingkup dan tujuan pembuatan software tersebut. Hal ini dibutuhkan agar tim dapat membuat software secara efektif tanpa bergeser dari tujuan utama.<br><br>
+##### Kekurangan Model Waterfall:
+1. Proyek di dunia nyata jarang mengikuti alur sekuensial seperti diusulkan, sehingga perubahan yang terjadi dapat menyebabkan hasil yang sudah didapatkan tim pengembang harus diubah kembali/iterasi dan sering menyebabkan masalah baru.
+2. Terjadinya pembagian proyek menjadi tahap-tahap yang tidak fleksibel, karena komitmen harus dilakukan pada tahap awal proses.
+3. Sulit untuk mengakomodir perubahan kebutuhan yang diinginkan oleh pelanggan.
+4. Pelanggan harus sabar untuk menanti produk selesai, karena dikerjakan tahap per tahap, dan proses pengerjaanya akan berlanjut ke setiap tahapan bila tahap sebelumnya sudah benar-benar selesai.
+5. Perubahan di tengah-tengah pengerjaan produk akan membuat bingung tim pengembang yang sedang membuat produk.
+6. Adanya waktu kosong (menganggur) bagi pengembang (software developer), karena harus menunggu anggota tim proyek lainnya menuntaskan pekerjaannya.<br><br>
 
-- <strong>System Analysis</strong> 
-<p align="justify">
-Fase ini terkadang dianggap sebagai bagian dari tahapan planning. Tujuan fase ini adalah menentukan untuk apa seharusnya software tersebut dibuat dan persyaratan apa yang dibutuhkan untuk menjalankannya. Contohnya agar software media sosial dapat berjalan dibutuhkan kemampuan dimana pengguna dapat terhubung dengan seorang teman sehingga perlu adanya fitur pencarian dalam software tersebut.<br>
-
-<p align="justify">
-Selain itu persyaratan yang dimaksud dalam fase ini juga dimaksudkan untuk menentukan sumber daya yang dibutuhkan untuk membangun proyek seperti tim atau material dalam proses pengembangan software tersebut.<br><br>
-
-- <strong>System Design</strong> 
-<p align="justify">
-Fase desain dalam SDLC adalah tahapan membuat sebuah model cara kerja software. Ada beberapa aspek yang diperhatikan dalam tahapan desain, antara lain:<br>
-
-1. <strong>Communications</strong>
-<p align="justify">
-Mendefinisikan metode atau cara software berkomunikasi dengan aset lainnya seperti server pusat atau software lainnya.<br>
-
-2. <strong>Programming</strong> 
-<p align="justify">
-Tidak hanya menentukan bahasa pemrograman tapi juga termasuk metode pemecahan masalah dan tugas-tugas yang ada dalam software.<br>
-
-3. <strong>Architecture</strong> 
-<p align="justify">
-Menentukan bahasa pemrograman, praktik dalam industri, desain keseluruhan dan penggunaan template tertentu.<br>
-
-4. <strong>User Interface</strong> 
-<p align="justify">
-Mendefinisikan bagaimana cara pelanggan berinteraksi dengan software dan bagaimana software tersebut dapat merespon input yang ada.<br>
-
-5. <strong>Platforms</strong> 
-<p align="justify">
-Mendefinisikan platform di mana software akan dijalankan. Misalnya versi android, ios, linux atau game konsol.<br>
-
-6. <strong>Security</strong>
-<p align="justify">
-Mendefinisikan langkah-langkah untuk mengamankan software. Misalnya membuat perlindungan kata sandi, enkripsi SSL traffic atau membuat penyimpanan kredensial pengguna yang aman.<br>
-
-- - <strong>Software Development</strong> 
-<p align="justify">
-Fase ini adalah tahap di mana software ditulis. Biasanya jika proyek tersebut kecil maka software dapat ditulis oleh satu developer. Namun, jika proyek besar bisa dipecah dan dikerjakan oleh beberapa tim. Pada fase ini bisa juga digunakan software Access Control atau Source Code Management untuk membantu developer melacak perubahan pada kode dan memastikan kompatibilitas antar tim yang berbeda sehingga sasaran terpenuhi.<br>
+- ## Model Prototype
+<p align="center">
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/protoype.png"><br>
 
 <p align="justify">
-Proses coding tidak hanya dilakukan sebatas menyusun kode agar software dapat berjalan, tapi juga mencakup banyak tugas lain misalnya menemukan dan memperbaiki error atau glitches yang ditemukan, serta penulisan dokumentasi seperti panduan pengguna atau bantuan FAQ untuk masalah teknis. Tahapan ini termasuk salah satu fase SDLC yang memakan waktu yang lebih panjang.<br><br>
+Merupakan suatu paradigma baru dalam metode pengembangan perangkat lunak di mana metode ini tidak hanya sekedar evolusi dalam dunia pengembangan perangkat lunak, tetapi juga merevolusi metode pengembangan perangkat lunak yang lama yaitu sistem sekuensial yang biasa dikenal dengan nama SDLC atau waterfall development model. Dalam Model Prototype, prototype dari perangkat lunak yang dihasilkan akan dipresentasikan kepada pelanggan, dan pelanggan diberikan kesempatan untuk memberikan masukan sehingga perangkat lunak yang dihasilkan nantinya betul-betul sesuai dengan keinginan dan kebutuhan pelanggan.<br>
 
-- <strong>Testing</strong> 
-<p align="justify">
-Tahapan pengujian sangat penting sebelum software digunakan pengguna. Beberapa pengujian yang biasanya dilakukan seperti security testing yang diotomatiskan, atau pengujian untuk penerapan yang kompleks. Pengujian harus memastikan setiap fungsi dapat bekerja dengan benar dan lancar sehingga dapat mengurangi kemungkinan adanya keterlambatan dalam pemrosesan, bug dan gangguan yang ditemui pengguna.<br><br>
+##### Kelebihan Model Waterfall:
+1. Pelanggan berpartisipasi aktif dalam pengembangan sistem, sehingga hasil produk pengembangan akan semakin mudah disesuaikan dengan keinginan dan kebutuhan pelanggan.
+2. Penentuan kebutuhan lebih mudah diwujudkan.
+3. Mempersingkat waktu pengembangan produk perangkat lunak.
+4. Adanya komunikasi yang baik antara pengembang dan pelanggan.
+5. Pengembang dapat bekerja lebih baik dalam menentukan kebutuhan pelanggan.
+6. Lebih menghemat waktu dalam pengembangan sistem.
+7. Penerapan menjadi lebih mudah karena pelanggan mengetahui apa yang diharapkannya.
 
-- <strong>Deployment</strong> 
-<p align="justify">
-Tahapan selanjutnya pada SDLC adalah penerapan. Pada fase ini software sudah tersedia pada pelanggan untuk digunakan. Meski begitu tahapan ini bisa jadi lebih rumit. Contohnya mungkin perlu melakukan pembaruan struktur database ke software yang baru dikembangkan sehingga memakan lebih banyak waktu dan tenaga.<br><br>
+##### Kekurangan Model Waterfall:
+1. Proses analisis dan perancangan terlalu singkat.
+2. Biasanya kurang fleksibel dalam menghadapi perubahan.
+3. Walaupun pelanggan melihat berbagai perbaikan dari setiap versi prototype, tetapi pelanggan mungkin tidak menyadari bahwa versi tersebut dibuat tanpa memperhatikan kualitas dan pemeliharaan jangka panjang.
+4. Pengembang kadang-kadang membuat kompromi implementasi dengan menggunakan sistem operasi yang tidak relevan dan algoritma yang tidak efisien.<br><br>
 
-- <strong>Operation And Maintenance</strong> 
+- ## Model Agile  
+<p align="center">
+<img height="300rm" align="center" src="https://github.com/Ouroboros-Tech/modul-pembelajaran/blob/main/image/agile.png"><br>
+
 <p align="justify">
-Pada titik ini sebetulnya software benar-benar sudah selesai dan bisa digunakan di lapangan. Namun, tahapan operasi dan pemeliharaan masih dianggap penting. Sebab, dalam tahapan ini pengguna bisa jadi menemukan bug yang tidak ditemukan selama pengujian sehingga hal perlu diatasi. Dari sini bisa jadi akan memunculkan siklus SDLC yang baru untuk memperbaiki bug, menentukan rencana pengembangan berulang, atau tambahan fitur dalam rilis mendatang.<br><br>
+Model Agile merupakan model pengembangan jangka pendek yang lebih mengutamakan adaptasi yang cepat terhadap perubahan dalam bentuk apapun.<br>
+
+##### Dalam Agile terdapat beberapa poin penting di antaranya:
+1. Interaksi antar orang lebih penting daripada proses dan alat.
+2. Perangkat lunak yang berfungsi lebih penting daripada dokumentasi yang lengkap.
+3. Kolaborasi dengan pelanggan lebih penting daripada negosiasi kontrak.
+4. Sikap tanggap lebih penting daripada mengikuti rencana.
+
+##### Kelebihan Model Waterfall:
+1. Cocok digunakan di proyek dengan ruang lingkup yang tidak pasti. Di mana sulit untuk mendefinisikan dengan pasti di awal, seluruh kebutuhan dan desain dari perangkat lunak.
+2. Tingkat kepuasan pelanggan lebih tinggi berkat keterlibatan pelanggan selama proses rekayasa perangkat lunak. Di mana pelanggan tidak perlu menunggu sampai perangkat lunak selesai untuk memberikan masukan maupun saran perbaikan, sehingga sesuai dengan kebutuhan pelanggan. 
+3. Software dapat lebih cepat digunakan oleh pelanggan karena penggunaan pengembangan bertahap sehingga sebagian fungsi software dapat digunakan dahulu tanpa perlu menunggu software selesai 100%.
+
+##### Kekurangan Model Waterfall:
+1. Analisis, desain, dan pengembangan sulit diprediksi sehingga tidak cocok untuk proyek yang besar dan kompleks.
+2. Perlunya pelatihan dan kemampuan khusus, bahkan perubahan dalam organisasi agar dapat melaksanakan Model Agile yang mementingkan kolaborasi dengan efektif guna mendapatkan hasil maksimal.<br><br>
