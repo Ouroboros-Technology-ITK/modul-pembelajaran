@@ -42,5 +42,6 @@ Jika terdapat fitur yang tidak lolos pada tahap acceptance testing, maka artinya
 *Testing pyramid* adalah konsep untuk membangun aplikasi / *software* yang berkualitas dengan cara meminimalkan waktu yang dibutuhkan selama pengembangan dan meminimalkan kerusakan dengan membuat alur *testing* yang dibutuhkan.
 
 ![index](https://www.compass-testservices.com/wp-content/uploads/2020/11/Test-pyramid-1-min.png)
+
 Berdasarkan gambar di atas, kita paham bahwa semakin ke atas, maka tes yang dibuat akan semakin mahal dan semakin susah dibuat. Semakin ke bawah, tes akan dibuat semakin cepat dan handal, namun testing yang dibuat harus semakin banyak.
 Dengan memperbanyak tes otomatis dalam skala kecil, maka akan menghasilkan aplikasi / *software* berkualitas tinggi secara efisien.
