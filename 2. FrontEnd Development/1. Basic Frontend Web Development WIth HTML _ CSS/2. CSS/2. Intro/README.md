@@ -70,7 +70,13 @@ Untuk menentukan CSS Property mana yang akan diimplementasikan ketika terjadinya
 </p>
 
 ```css
+.heading {
+  color: red;
+}
 
+.heading {
+  background-color: black;
+}
 ```
 
 Jika ada 2 buah CSS Selector yang mencoba menggunakan CSS Property yang sama seperti contoh di atas, maka urutan yang paling bawah lebih dahulu.
